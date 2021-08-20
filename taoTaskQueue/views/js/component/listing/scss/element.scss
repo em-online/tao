@@ -1,0 +1,125 @@
+@import "inc/bootstrap";
+
+div.task-element {
+    position: relative;
+    background: $canvas;
+    padding: 10px 20px;
+    width: 100%;
+    height: 70px;
+
+    //adding transition for highlighting the element after an update
+    @include transition(background, 2s);
+    &.highlight {
+        background: white;
+        @include transition(background, 0s);
+    }
+
+    .container-icon {
+        position: absolute;
+        .shape {
+            display: inline-block;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            top: 2px;
+            position: relative;
+            [class^="icon-"], [class*=" icon-"] {
+                @include font-size(20);
+                position: relative;
+                top: 9px;
+                left: 12px;
+                text-shadow: none;
+            }
+            .icon-export, .icon-import, .icon-connect {
+                //larger icons
+                left: 10px;
+            }
+            .icon-property-advanced, .icon-result-ok, .icon-result-nok {
+                top: 10px;
+                left: 10px;
+            }
+        }
+    }
+    &.in_progress {
+        .container-icon .shape {
+            background: $info;
+            [class^="icon-"], [class*=" icon-"] {
+                color: whiten($info, 0.9);
+            }
+        }
+        .action-group.action-bottom [data-role="notify"] {
+            display: none;
+        }
+        .action-group.action-top [data-role="remove"] {
+            display: none;
+        }
+    }
+    &.completed {
+        .container-icon .shape {
+            background: $success;
+            [class^="icon-"], [class*=" icon-"] {
+                color: whiten($success, 0.9);
+            }
+        }
+        .action-group.action-bottom {
+            [data-role="download"], [data-role="report"], [data-role="redirect"] {
+                display: inline-block;
+            }
+        }
+    }
+    &.failed {
+        .container-icon .shape {
+            background: $error;
+            [class^="icon-"], [class*=" icon-"] {
+                color: whiten($error, 0.9);
+            }
+        }
+        .action-group.action-bottom {
+            [data-role="download"], [data-role="report"], [data-role="redirect"] {
+                display: inline-block;
+            }
+        }
+    }
+    .container-text {
+        padding-top: 0px;
+        margin-left: 60px;
+        width: 240px;
+        .label {
+            min-height: 22px;
+            max-height: 38px;
+            overflow: hidden;
+            color: $textColor;
+        }
+        .time {
+            color: blacken($canvas, 0.4);
+            @include font-size(12);
+        }
+    }
+    .action-group {
+        position: absolute;
+        [class^="icon-"], [class*=" icon-"] {
+            @include font-size(16);
+            background-color: transparent;
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+            padding-left: 4px;
+            margin-left: 5px;
+            cursor: pointer;
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+        &.action-top {
+            top: 6px;
+            right: 14px;
+        }
+        &.action-bottom {
+            bottom: 6px;
+            right: 12px;
+            [class^="icon-"], [class*=" icon-"] {
+                display: none;
+            }
+        }
+    }
+}

@@ -1,0 +1,240 @@
+@startuml
+abstract class ConfigurableService
+
+package "Task" #DDDDDD {
+    together {
+        interface JsonSerializable
+        interface TaskInterface {
+            +__construct(id, owner)
+            +__toString()
+            +__invoke()
+            +getId()
+            +setCreatedAt(\DateTime dateTime)
+            +getCreatedAt()
+            +setOwner(owner)
+            +getOwner()
+            +setMetadata(spec, value = null)
+            +getMetadata(key, default = null)
+            +setParameter(spec, value = null)
+            +getParameter(key, default = null)
+            +getParameters()
+        }
+
+        abstract class AbstractTask {
+            -metadata array
+            -parameters array
+            +jsonSerialize()
+        }
+
+        interface CallbackTaskInterface {
+            +setCallable(callable)
+            +getCallable()
+            +markAsEnqueued()
+            +isEnqueued()
+        }
+
+        class CallbackTask {
+            -callable
+            -enqueued bool
+        }
+
+        AbstractTask <|- TaskInterface
+        CallbackTask <|- CallbackTaskInterface
+        CallbackTask <|-- AbstractTask
+        TaskInterface <|-- JsonSerializable
+    }
+
+    TaskInterface -[hidden]> JsonSerializable
+}
+
+package "Task Log" #DDDDDD {
+    together {
+        interface TaskLogInterface {
+            {static} SERVICE_ID
+            {static} OPTION_TASK_LOG_BROKER
+            {static} STATUS_ENQUEUED
+            {static} STATUS_DEQUEUED
+            {static} STATUS_RUNNING
+            {static} STATUS_COMPLETED
+            {static} STATUS_FAILED
+            {static} STATUS_ARCHIVED
+            {static} STATUS_UNKNOWN
+            +createContainer()
+            +add(TaskInterface task, status, label)
+            +setStatus(taskId, newStatus, prevStatus = null)
+            +getStatus(taskId)
+            +setReport(taskId, common_report_Report report, newStatus = null)
+            +getReport(taskId)
+        }
+        interface TaskLogBrokerInterface {
+            {static} DEFAULT_CONTAINER_NAME
+            +createContainer()
+            +add(TaskInterface task, status, label)
+            +updateStatus(taskId, newStatus, prevStatus = null)
+            +getStatus(taskId)
+            +addReport(taskId, common_report_Report report, newStatus = null)
+            +getReport(taskId)
+        }
+
+        TaskLog <|- TaskLogInterface
+        TaskLog <|-- ConfigurableService
+
+        class TaskLog << SERVICE >> {
+            -getBroker()
+            -validateStatus()
+        }
+
+        RdsTaskLogBroker <|- TaskLogBrokerInterface
+        class RdsTaskLogBroker {
+            #getPersistence()
+            #getTableName()
+        }
+
+        TaskLog ..> TaskLogBrokerInterface : Depends on a task log broker
+    }
+}
+
+
+package "QueueDispatcher and Queues" #DDDDDD {
+    together {
+        interface Countable
+        QueueInterface <|-- Countable
+        interface QueueInterface {
+            +__construct(name, QueueBrokerInterface broker, TaskLogInterface taskLog)
+            +initialize()
+            +getName()
+            +enqueue(TaskInterface task, label)
+            +dequeue()
+            +acknowledge(TaskInterface task)
+            +isSync()
+            +getNumberOfTasksToReceive()
+        }
+
+        interface QueueDispatcherInterface {
+            {static} SERVICE_ID
+            {static} QUEUE_PREFIX
+            {static} OPTION_QUEUES
+            {static} OPTION_TASK_LOG
+            +initialize()
+            +addQueue(QueueInterface queue)
+            +getQueue(queueName)
+            +getQueues()
+            +getQueueNames()
+            +hasQueue(queueName)
+            +getDefaultQueue()
+            +getQueueByWeight()
+            +linkTaskToQueue(taskName, queueName)
+            +getLinkedTasks()
+            +createTask(action, parameters, label)
+            +enqueue(TaskInterface task, label)
+            +dequeue(queueName = null)
+            +acknowledge(TaskInterface task)
+            +isSync()
+        }
+
+        class QueueDispatcher << SERVICE >> {
+            -getTaskLog()
+            -getFirstQueue()
+            -getQueueForTask()
+            -runWorker()
+            -assertQueues()
+            -assertTasks()
+            -propagateServices()
+        }
+
+        QueueDispatcher <|- QueueDispatcherInterface
+
+        QueueDispatcher ..> Queue : Depends on queues
+
+        class Queue {
+            +count()
+        }
+
+        Queue <|- QueueInterface
+        Queue <|-- ConfigurableService
+
+        Queue ..> TaskLogInterface : Depends on a task log
+    }
+
+    together {
+        QueueBrokerInterface <|-- Countable
+        interface QueueBrokerInterface {
+            +setQueueName(name)
+            +createQueue()
+            +push(TaskInterface task)
+            +pop()
+            +delete(TaskInterface task)
+            +getNumberOfTasksToReceive()
+        }
+
+        abstract class AbstractQueueBroker {
+            -queueName
+            -actionResolver
+            -preFetchedQueue
+            #getQueueName()
+            #getQueueNameWithPrefix()
+            #getActionResolver()
+            {abstract} doPop()
+            {abstract} doDelete()
+            #unserializeTask()
+            #pushPreFetchedMessage()
+            -popPreFetchedMessage()
+        }
+
+        class InMemoryQueueBroker {
+            -queue SplQueue
+        }
+        class RdsQueueBroker {
+            -persistenceId
+            #getPersistence()
+            #getTableName()
+        }
+        class SqsQueueBroker {
+            -awsProfile
+            -cacheId
+            #sqsClient
+            #queueUrl
+            #getCache()
+        }
+
+        AbstractQueueBroker <|- PhpSerializable
+        AbstractQueueBroker <|- ServiceLocatorAwareInterface
+        AbstractQueueBroker <|- QueueBrokerInterface
+        InMemoryQueueBroker <|- SyncQueueBrokerInterface
+        InMemoryQueueBroker <|-- AbstractQueueBroker
+        RdsQueueBroker <|-- AbstractQueueBroker
+        SqsQueueBroker <|-- AbstractQueueBroker
+
+        Queue ..> QueueBrokerInterface : Depends on a broker
+    }
+}
+
+package "Worker" #DDDDDD {
+    together {
+        interface WorkerInterface {
+            +__construct(QueueDispatcherInterface queueDispatcher, TaskLogInterface taskLog, handleSignals)
+            +processQueue()
+            +processTask(TaskInterface task)
+            +setMaxIterations(maxIterations)
+            +setDedicatedQueue(queueName)
+        }
+        class Worker {
+            -queue
+            -taskLog
+            -maxIterations
+            -shutdown
+            -paused
+            -iterations
+            -waitInterval
+            -processId
+        }
+
+        Worker <|- WorkerInterface
+        Worker ..> QueueDispatcher : Depends on the dispatcher
+        Worker ..> TaskLogInterface : Depends on the task log
+    }
+}
+
+TaskInterface -[hidden]--> Queue
+
+@enduml

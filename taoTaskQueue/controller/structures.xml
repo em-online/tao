@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+    <structure id="taskqueue" name="Task Queue" level="6" group="persistent">
+        <description/>
+        <icon id="icon-none" src=""/>
+        <sections>
+            <section id="taskqueue" name="taskqueue" url=""/>
+        </sections>
+    </structure>
+</structures>

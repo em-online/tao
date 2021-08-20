@@ -1,0 +1,42 @@
+@import "inc/bootstrap";
+@import '_response-pairs';
+
+.qti-gapMatchInteraction {
+
+    .qti-flow-container {
+
+        position: relative;
+        [data-html-editable]{
+            min-height: 3rem;
+        }
+        .mini-tlb[data-role=create-gap-tlb]{
+            postion: absolute;
+            right: -30px;
+        }
+        #selection-wrapper{
+            z-index: 1000;
+            position: relative;
+        }
+    }
+
+    .choice-area {
+        .qti-choice {
+            @include simple-border();
+            border-color: #ddd !important;
+            min-width: 80px;
+        }
+    }
+
+    .gap-info {
+        color: $info;
+        font-style: italic;
+    }
+
+    .qti-gap {
+        span.mini-tlb[data-edit] {
+            position: absolute !important;
+            top: -4px !important;
+            right: -30px !important;
+        }
+    }
+}

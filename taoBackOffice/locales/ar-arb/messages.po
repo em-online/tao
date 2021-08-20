@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:03:22\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ar-arb\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ar-arb\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr "إنشاء قائمة"
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr "إنشاء عناصر ، وإدارة عناصر المصارف واختبارها ، وتنظيم المجموعات النموذجية وعمليات التسليم ، وإعداد التقارير ، وإعداد مهام سير العمل."
+
+#, tao-public
+msgid "Delete"
+msgstr "حدف"
+
+msgid "Delete this list"
+msgstr "حذف هذه القائمة"
+
+msgid "Edit this list"
+msgstr "تعديل هذه القائمة"
+
+#, tao-public
+msgid "Edit Tree"
+msgstr "تحرير الشجرة"
+
+msgid "element"
+msgstr "عنصر"
+
+msgid "Element deleted"
+msgstr "تم حذف العنصر"
+
+msgid "Element not deleted"
+msgstr "لم يتم حذف العنصر"
+
+#, tao-public
+msgid "Export"
+msgstr "صدِّر"
+
+#, tao-public
+msgid "Import"
+msgstr "استيراد"
+
+msgid "List"
+msgstr "قائمة"
+
+msgid "List deleted"
+msgstr "تم حذف القائمة"
+
+msgid "List not deleted"
+msgstr "لم يتم حذف القائمة"
+
+msgid "List not saved"
+msgstr "لم يتم حفظ القائمة"
+
+msgid "List saved"
+msgstr "تم حفظ القائمة"
+
+#, tao-public
+msgid "Lists"
+msgstr "قوائم"
+
+msgid "Please confirm you want to delete this list element."
+msgstr "هل أنت متأكد من حذف هذا العنصر فى القائمة؟"
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr "تأكيد حذف القائمة. لا يمكن العودة فى هذه الإجراء"
+
+#, tao-public
+msgid "Properties"
+msgstr "خصائص"
+
+#, tao-public
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "TAO Back Office"
+msgstr "مكتب إدارة TAO"
+
+msgid "Test Developers and Administrators"
+msgstr "مطورين ومسؤولين الاختبارات"
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr "أشجار"
+
+msgid "View tree"
+msgstr "عرض الشجرة"
+
+#, tao-public
+msgid "View Tree"
+msgstr "عرض الشجرة"
+

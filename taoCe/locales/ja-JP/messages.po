@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:29\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ja-JP\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ja-JP\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "テストを割り当てたり、グループごとの達成度を測定するために、受験者をグループに追加します。目的の属性で受験者をグループ化することができますので、その際には、グループ説明にその属性を記述してください。"
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "今後のテストに対する修正は、そのテストを再度公開して新しい配信を作成するまで反映されません。ご注意ください。"
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "関心ある特定の結果のみを指定したカスタムテーブルをつくり、CSVファイルをエクスポートします。"
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "過去につくった問題アイテムやインポートした問題アイテムからテストをつくり管理します。"
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "選択した問題アイテムをテストパネルにドラッグドロップして、テストをつくります。"
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "以下の17種類の問題パターンから選択します。"
+
+msgid "Control how to publish and deliver tests."
+msgstr "テストの公開と配信を制御します。"
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "反対に、TAOから問題アイテムをエクスポートして、他のQTI互換ツールで再利用できます。"
+
+msgid "Create and define test-taker records"
+msgstr "受験者のレコードを定義して作成します。"
+
+msgid "Create Items"
+msgstr "問題アイテムの作成"
+
+msgid "Create QTI Tests"
+msgstr "QTIテストの作成"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "あなたのテストに個々の問題アイテムを取り込む前に、問題アイテムを作成、プレビュー、構成してください"
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "受験者の標準のプロパティは、受験者の名前とテスト画面の言語です。誕生日やジェンダーなど，必要なデータを追加して，レコードをカスタマイズすることができます。"
+
+msgid "Define a Delivery"
+msgstr "デリバリーを定義する"
+
+msgid "Define the Test Parameters"
+msgstr "テストパラメータを定義する"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "問題の順序を決定してください。問題アイテムはランダムあるいは指定された順序のいずれかで表示させることができます。"
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "TAOでアセスメントを作成するのがどんなに簡単か発見してください！"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "TAOを開いている時にはこのウィンドウを再び開かないでください"
+
+msgid "Export Test Results"
+msgstr "テスト結果のエクスポート"
+
+msgid "For example:"
+msgstr "例："
+
+msgid "Get started with TAO"
+msgstr "TAOを始めましょう"
+
+msgid "Go to "
+msgstr "移動"
+
+msgid "Groups"
+msgstr "グループ"
+
+#, tao-public
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "ヒント：階層構造の無い\"単純なテスト\"が用意されています。注意：オープンウェブアイテム(OWI)はシンプルテストモードでのみ配信できます。"
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "ヒント：ヘルプボタンからいつでもこの概要を見ることができます。"
+
+msgid "Hotspot"
+msgstr "ホットスポット"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "もし、QTIスタンダードで不十分であれば、TAOのオープンウェブフォーマットを利用することでパワフルでソフィスティケートされた問題アイテムを作成できます。"
+
+msgid "Import / Export Tests"
+msgstr "インポート/エクスポート テスト"
+
+msgid "Import and Export Items"
+msgstr "インポート/エクスポート アイテム"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "QTI (Question and Test Interoperability) 2.1準拠のアイテムをインポートします。"
+
+msgid "Import test-takers"
+msgstr "受験者をインポート"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "手動で受験者データを入力することにより、個別に受験者の作成のほかに、CSVファイルからインポートすることによって受験生レコー​​ドを大量に作成することができます。"
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "TAOでは、テストはグループに割り当てられます。"
+
+msgid "Item(s)"
+msgstr "アイテム"
+
+msgid "Items"
+msgstr "アイテム"
+
+msgid "Manage Reports"
+msgstr "レポート管理"
+
+msgid "Multiple choice"
+msgstr "多肢選択"
+
+msgid "Order of items – sequential or random"
+msgstr "項目の順番 - 表示順またはランダム"
+
+msgid "Overview"
+msgstr "概要"
+
+msgid "Preview Items"
+msgstr "アイテムのプレビュー"
+
+msgid "Publish"
+msgstr "公開"
+
+msgid "QTI Test Structure"
+msgstr "QTI　テスト構造"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "受験者を登録し、個人データを管理し、グループに割り当てます。"
+
+msgid "Results"
+msgstr "結果"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "テストを実施する前に、受験者にどのように表示されるか確認してください。プレビューでは、パソコン用とタブレット用両方で確認できます。"
+
+msgid "Select an icon on the left to find out more."
+msgstr "詳細を見るためには、左のアイコンを選択してください。"
+
+msgid "Select the delivery dates."
+msgstr "テストの配信日付を選択してください。"
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "テストを行いたいグループを選択して下さい。グループに属していても個別に受験者を除外できます。"
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "受験者グループに受けさせたいテストを選択してください。配信が開始されます。"
+
+msgid "selection"
+msgstr "選択範囲"
+
+msgid "Single choice"
+msgstr "択一問題"
+
+msgid "Slider"
+msgstr "スライダー"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "受験者がテストを繰り返し行なえる回数を設定します。"
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "簡単に保存、管理、テスト結果の分ができます。"
+
+msgid "Test"
+msgstr "テスト"
+
+msgid "Test part(s)"
+msgstr "テストパーツ"
+
+msgid "Test section(s)"
+msgstr "テストセクション"
+
+msgid "Test-takers"
+msgstr "受験者"
+
+msgid "Tests"
+msgstr "テスト"
+
+msgid "Text entry"
+msgstr "テキスト入力"
+
+msgid "Time limit"
+msgstr "制限時間"
+
+msgid "To create a QTI test:"
+msgstr "QTIテストを作成するには："
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "受験者を管理するためにグループを利用します。"
+
+msgid "Videos"
+msgstr "動画"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "個々の受験生のパフォーマンスを見る - 単一テストや複数テストの範囲で可能"
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "写真や数式、ビデオを追加することが可能です。"
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "QTI 2.1規格に準拠したテストを作成することができます。QTIテストの構成："
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "QTI準拠している外部ツールで作成したテストをインポートすることができます。アイテムは自動的にアイテムライブラリに追加されます。また、あなたの作成したQTIテストは、別のQTI準拠の配信エンジンで使用するためにTAOからエクスポートすることができます。"
+
+msgid "You can specify test settings such as:"
+msgstr "テストの設定などを指定することができます："
+

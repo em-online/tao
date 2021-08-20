@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: nl-NL\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: nl-NL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s Tool Provider"
+msgstr "%s tool leverancier"
+
+msgid "%s\" has been configured:"
+msgstr "%s\" is geconfigureerd:"
+
+msgid "Access to this functionality is restricted"
+msgstr "Toegang tot deze functionaliteit is beperkt"
+
+msgid "Access to this functionality is restricted to students"
+msgstr "De toegang tot deze functionaliteit is beperkt tot studenten"
+
+msgid "An unusually high number of people are testing right now, your test will launch in a few moments to ensure that it runs smoothly. Thanks for your patience!"
+msgstr ""
+
+msgid "Attempts limit has been reached."
+msgstr ""
+
+msgid "Available Deliveries"
+msgstr "Beschikbare pakketjes"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Click on the back button to return to %s."
+msgstr "Click op de terug-knop om terug te keren naar %s."
+
+msgid "Click on the back button to return."
+msgstr "Klik op de terug-knop om terug te gaan."
+
+msgid "Configured LTI Link"
+msgstr "Geconfigureerde LTI link"
+
+msgid "Copy and paste the following URL into your LTI compatible tool consumer."
+msgstr "Kopieer en plak de volgende URL in uw LTI compatibele gebruikerstool."
+
+#, tao-public
+msgid "Deliveries"
+msgstr "Pakketje(s)"
+
+msgid "Delivery does not exist. Please contact your instructor."
+msgstr ""
+
+msgid "Executions"
+msgstr "Uitvoeringen"
+
+msgid "Launch URL"
+msgstr "Start URL"
+
+#, tao-public
+msgid "LTI"
+msgstr "LTI"
+
+msgid "max_attempts\" variable must me numeric."
+msgstr ""
+
+msgid "No deliveries available"
+msgstr "Geen pakketje(s) beschikbaar"
+
+msgid "No LTI consumers defined"
+msgstr "Geen LTI eindgebruiker gedefinieerd"
+
+msgid "no monitoring"
+msgstr "geen monitoring"
+
+msgid "Please select a delivery"
+msgstr "Selecteer a.u.b. een pakketje"
+
+msgid "Please select a delivery for \"%s"
+msgstr "Selecteer a.u.b. een pakketje voor \"%s"
+
+msgid "Repeat"
+msgstr "Herhalen"
+
+msgid "Repeat the test"
+msgstr "Herhaal de test"
+
+msgid "Retake the test"
+msgstr "Doe de test opnieuw"
+
+msgid "Return to %s."
+msgstr "Ga terug naar %s."
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Select Delivery"
+msgstr "Selecteer pakketje"
+
+msgid "Selected Delivery"
+msgstr "Geselecteerd pakketje"
+
+msgid "Test Launch Queue"
+msgstr ""
+
+msgid "Thank you"
+msgstr "Dank u"
+
+msgid "This tool has been configured:"
+msgstr "Deze tool is geconfigureerd:"
+
+msgid "This tool has not yet been configured, please contact your instructor"
+msgstr "Deze tool is nog niet geconfigureerd, neem a.u.b. contact op met uw instructeur"
+
+msgid "Tool consumer(s)"
+msgstr "Eindgebruiker(s) tool"
+
+msgid "User is not authorized to run this delivery"
+msgstr ""
+
+msgid "Wrong value of \"secure\" variable."
+msgstr ""
+
+msgid "You have already taken this test."
+msgstr "U heeft deze test al gemaakt."
+
+msgid "You have finished the test!"
+msgstr "U heeft de test beëindigd!"
+

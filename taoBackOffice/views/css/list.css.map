@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "list.css",
+	"sources": [
+		"../scss/list.scss",
+		"../../../tao/views/scss/inc/_bootstrap.scss",
+		"../../../tao/views/scss/inc/_variables.scss",
+		"../../../tao/views/scss/inc/_functions.scss",
+		"../../../tao/views/scss/inc/_colors.scss",
+		"../../../tao/views/scss/inc/fonts/_tao-icon-vars.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AACE,eADa,CACb,wBAAwB,AAAA,CACtB,MAAM,CAAC,OAAO,CACf"
+}

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:09\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: hu-HU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: hu-HU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add page"
+msgstr "Oldal hozzáadása"
+
+msgid "Allow multi pages"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Alulra"
+
+msgid "Button based"
+msgstr "Gomb alapú"
+
+msgid "Button labels"
+msgstr "Gombok címkéi: "
+
+msgid "Button labels."
+msgstr "Gombok címkéi: "
+
+msgid "Columns:"
+msgstr "Oszlopok:"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Display"
+msgstr ""
+
+msgid "If this box is checked the text reader will allow to display more than one page and to navigate between them."
+msgstr ""
+
+msgid "Left"
+msgstr "Bal"
+
+msgid "Navigation"
+msgstr "Navigáció"
+
+msgid "Navigation."
+msgstr "Navigáció."
+
+msgid "Page"
+msgstr "Lap"
+
+msgid "Page height (px)"
+msgstr "Lap magasság (px)"
+
+msgid "Page height (px)."
+msgstr "Az oldal magassága (px)"
+
+msgid "Previous."
+msgstr "Előző"
+
+msgid "Remove Tooltip"
+msgstr "Segédinfó törlése"
+
+msgid "Right"
+msgstr "Jobb"
+
+msgid "Tab based"
+msgstr "Tabulátor alapú"
+
+msgid "Tabs + buttons"
+msgstr "tabulátorok és gombok"
+
+msgid "Tabs position"
+msgstr "Tabulátorok pozíciója"
+
+msgid "Tabs position."
+msgstr "Tabulátorok pozíciója"
+
+msgid "Tooltips"
+msgstr "Tippek"
+
+msgid "Top"
+msgstr "Fent"
+

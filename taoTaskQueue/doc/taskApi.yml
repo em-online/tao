@@ -1,0 +1,149 @@
+swagger: '2.0'
+info:
+  description: Tasks API
+  version: 1.0.0
+  title: Tasks API
+basePath: /act.dev
+schemes:
+  - http
+  - https
+paths:
+  /taoTaskQueue/TaskQueueRestApi/get:
+    get:
+        tags:
+          - Get Task
+        summary: Get Task through API
+        description: Get Task
+        operationId: GetTask
+        parameters:
+          - name: id
+            in: query
+            description: Task id identifier
+            required: true
+            type: string
+        produces:
+          - application/json
+        responses:
+          '200':
+            description: successful operation
+            schema:
+              properties:
+                success:
+                  type: boolean
+                data:
+                  $ref: '#/definitions/TaskLog'
+                errorCode:
+                  type: string
+                errorMsg:
+                 type: string
+          '400':
+            description: Bad request if you send invalid parameters.
+          '401':
+            description: Unauthorized
+            schema:
+              $ref: '#/definitions/ErrorModel'
+  /taoTaskQueue/TaskQueueRestApi/getStatus:
+      get:
+          tags:
+            - Get Task Status
+          summary: Get Task Status through API
+          parameters:
+            - name: id
+              in: query
+              description: Task id identifier
+              required: true
+              type: string
+          produces:
+            - application/json
+          responses:
+            '200':
+              description: successful operation
+              schema:
+                properties:
+                  success:
+                    type: boolean
+                  data:
+                    type: string
+                    enum:
+                      - created
+                      - in_progress
+                      - completed
+                      - failed
+                  errorCode:
+                    type: string
+                  errorMsg:
+                   type: string
+            '400':
+              description: Bad request if you send invalid parameters.
+            '401':
+              description: Unauthorized
+              schema:
+                $ref: '#/definitions/ErrorModel'
+definitions:
+  TaskLog:
+    type: object
+    required:
+      - id
+      - taskName
+      - taskLabel
+    properties:
+      id:
+        type: string
+        example: 'http://tao.lu/tao.rdf#i150764040443513560'
+      taskName:
+        type: string
+        example: PrintOrder
+      taskLabel:
+        type: string
+        example: Booklet for Test 2
+      status:
+        type: string
+        enum:
+        - created
+        - in_progress
+        - completed
+        - failed
+      statusLabel:
+        type: string
+        example: In Progress
+      createdAt:
+        type: string
+        format: date-time
+      updatedAt:
+        type: string
+        format: date-time
+      report:
+        $ref: '#/definitions/TaskReport'
+      hasFile:
+        type: boolean
+        example: false
+      category:
+        type: string
+        example: export
+  TaskReport:
+    type: object
+    properties:
+      type:
+        type: string
+        example: info
+      message:
+        type: string
+        example: Running
+      data:
+        type: string
+        example: Some specific report data
+      children:
+        type: array
+        items:
+          $ref: '#/definitions/TaskReport'
+  ErrorModel:
+    type: object
+    properties:
+      success:
+        type: boolean
+      version:
+        type: string
+      errorCode:
+        type: string
+      errorMsg:
+        type: string

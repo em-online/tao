@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "manager.css",
+	"sources": [
+		"../scss/manager.scss",
+		"../../../../../../tao/views/scss/inc/_bootstrap.scss",
+		"../../../../../../tao/views/scss/inc/_variables.scss",
+		"../../../../../../tao/views/scss/inc/_functions.scss",
+		"../../../../../../tao/views/scss/inc/_colors.scss",
+		"../../../../../../tao/views/scss/inc/fonts/_tao-icon-vars.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,uBAAuB,AAAC,CACpB,MAAM,CAAE,OAAO,CACf,QAAQ,CAAE,QAAQ,CAClB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,WAAW,CAC7B,OAAO,CAAE,YAAY,CAMxB,AAZD,AAOI,uBAPmB,AAOlB,MAAM,AAAA,CGgDC,kBAAsB,CAAC,0BAAC,CAAxB,eAAsB,CAAC,0BAAC,CAAxB,cAAsB,CAAC,0BAAC,CAAxB,aAAsB,CAAC,0BAAC,CAAxB,UAAsB,CAAC,0BAAC,CH9C5B,gBAAgB,CINjB,mBAAgB,CJOf,eAAe,CAAE,IAAI,CACxB,AAIL,AAAA,SAAS,CAAC,GAAG,CAAC,cAAc,AAAA,MAAM,GAAG,gBAAgB,CAAC,aAAa,CAAC,IAAI,AAAA,CACpE,UAAU,CAAE,IAAI,CAChB,YAAY,CGkLJ,IAAsC,CH9KjD,AAND,AAGI,SAHK,CAAC,GAAG,CAAC,cAAc,AAAA,MAAM,GAAG,gBAAgB,CAAC,aAAa,CAAC,IAAI,CAGpE,MAAM,AAAA,CACF,OAAO,CAAE,IAAI,CAChB"
+}

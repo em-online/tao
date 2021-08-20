@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:29\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ja-JP\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ja-JP\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#Group
+msgctxt "http://www.w3.org/2000/01/rdf-schema#label"
+msgid "Group"
+msgstr "グループ"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#Group
+msgctxt "http://www.w3.org/2000/01/rdf-schema#comment"
+msgid "Group"
+msgstr "グループ"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#member
+msgctxt "http://www.w3.org/2000/01/rdf-schema#comment"
+msgid "Member of the groups"
+msgstr "グループのメンバー"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#GroupsManagerRole
+msgctxt "http://www.w3.org/2000/01/rdf-schema#label"
+msgid "Groups Manager"
+msgstr "グループ管理"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#GroupsManagerRole
+msgctxt "http://www.w3.org/2000/01/rdf-schema#comment"
+msgid "The Groups Manager Role"
+msgstr "グループ管理管理者権限"
+
+# http://www.tao.lu/Ontologies/TAOGroup.rdf#member
+msgctxt "http://www.w3.org/2000/01/rdf-schema#label"
+msgid "Member"
+msgstr "メンバ"
+

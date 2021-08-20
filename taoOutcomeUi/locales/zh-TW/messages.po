@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:13:11\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: zh-TW\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: zh-TW\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid " "
+msgstr ""
+
+msgid "Add All grades"
+msgstr "加入所有的分數"
+
+msgid "Add All responses"
+msgstr "加入所有的回應"
+
+msgid "Add Delivery"
+msgstr ""
+
+msgid "Add Test Taker"
+msgstr "加入考生"
+
+msgid "Adding/Updating search index for %s"
+msgstr ""
+
+msgid "All collected variables"
+msgstr "所有收集的可變數"
+
+msgid "Anonymise"
+msgstr "匿名化"
+
+msgid "Class"
+msgstr "類別"
+
+msgid "CSV results export for delivery \"%s"
+msgstr ""
+
+msgid "CSV results export for delivery class \"%s"
+msgstr ""
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Delivery"
+msgstr "遞送"
+
+msgid "Delivery Execution"
+msgstr ""
+
+msgid "Download"
+msgstr "下載"
+
+msgid "Download result"
+msgstr ""
+
+msgid "Email:"
+msgstr "電子郵件："
+
+msgid "Error"
+msgstr "錯誤"
+
+#, tao-public
+msgid "Export CSV"
+msgstr ""
+
+msgid "Export CSV File"
+msgstr "匯出 CSV 檔案"
+
+#, tao-public
+msgid "Export Table"
+msgstr "匯出表格"
+
+msgid "Filter"
+msgstr "過濾條件"
+
+msgid "First Name:"
+msgstr "名："
+
+msgid "First submitted variables only"
+msgstr "只要第一個提交的可變數"
+
+msgid "Grades"
+msgstr "分數"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "Label:"
+msgstr "標籤："
+
+msgid "Last Name:"
+msgstr "姓氏:"
+
+msgid "Last submitted variables only"
+msgstr "只要最後提交的變數"
+
+msgid "Login:"
+msgstr "登入:"
+
+#, tao-public
+msgid "Manage Results"
+msgstr "管理結果"
+
+msgid "No tests have been taken yet. As soon as a test-taker will take a test his results will be displayed here."
+msgstr "尚未有人考試。考生考完試後，這裏會顯示考試結果。"
+
+msgid "Please confirm deletion"
+msgstr "請確認刪除"
+
+msgid "Remove All grades"
+msgstr "移除所有分數"
+
+msgid "Remove All responses"
+msgstr "移除所有回應"
+
+msgid "Remove Delivery"
+msgstr ""
+
+msgid "Responses"
+msgstr "回應"
+
+msgid "Result has been deleted"
+msgstr "結果已被刪除"
+
+#, tao-public
+msgid "Results"
+msgstr "結果"
+
+#, tao-public
+msgid "Results library"
+msgstr "結果書庫"
+
+#, tao-public
+msgid "Results Monitoring"
+msgstr ""
+
+msgid "Results monitoring"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Search by delivery results"
+msgstr ""
+
+msgid "Search by results"
+msgstr ""
+
+msgid "Something went wrong..."
+msgstr ""
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Test taker"
+msgstr "考生"
+
+msgid "Test Taker"
+msgstr "考生"
+
+msgid "Test Variables"
+msgstr "考試可變數"
+
+msgid "The class you have selected contains no results to be analysed, please select a different class"
+msgstr "您選擇的班級沒有包含可以分析結果, 請選擇其他的班級"
+
+msgid "The number of observations is too low"
+msgstr "觀察數量太少了"
+
+msgid "There was a problem generating your report, please try again."
+msgstr "在產生您的報告的時候發生了一個錯誤， 請再試一次。"
+
+#, tao-public
+msgid "Tools"
+msgstr ""
+
+msgid "Traces"
+msgstr ""
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "View"
+msgstr ""
+
+#, tao-public
+msgid "View and format the collected results."
+msgstr "视图和格式收集的结果。"
+
+msgid "We are preparing your report, please wait..."
+msgstr "我們正在準備你的報告，請稍等。"
+

@@ -1,0 +1,32 @@
+{
+
+    "name": "oat-sa/extension-tao-clientdiag",
+    "description" : "Check compatibility of the os and browser of a client",
+    "type" : "tao-extension",
+    "authors" : [
+        {
+        "name": "Open Assessment Technologies SA"
+        }
+    ],
+    "keywords" : [
+        "tao",
+        "computer-based-assessment"
+    ],
+    "homepage" : "http://www.taotesting.com",
+    "license" : [
+        "GPL-2.0-only"
+    ],
+    "extra" : {
+        "tao-extension-name" : "taoClientDiagnostic"
+    },
+    "minimum-stability" : "dev",
+    "require": {
+        "oat-sa/oatbox-extension-installer": "~1.1||dev-master",
+        "sinergi/browser-detector": "^6.0.2"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "oat\\taoClientDiagnostic\\" : ""
+        }
+    } 
+}

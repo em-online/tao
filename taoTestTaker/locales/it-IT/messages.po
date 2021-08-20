@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:22\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: it-IT\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: it-IT\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Edit subject"
+msgstr "Modifica soggetto"
+
+#, tao-public
+msgid "Export"
+msgstr "Esporta"
+
+#, tao-public
+msgid "Import"
+msgstr "Importa"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage test takers"
+msgstr "Gestisci i partecipanti"
+
+#, tao-public
+msgid "Move"
+msgstr "Sposta"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Nuova classe"
+
+#, tao-public
+msgid "New test-taker"
+msgstr "Nuovo partecipante"
+
+#, tao-public
+msgid "Properties"
+msgstr "Proprietà"
+
+#, tao-public
+msgid "Record and manage test takers."
+msgstr "Registra e gestisci i partecipanti."
+
+msgid "Test taker saved"
+msgstr "Partecipante salvato"
+
+msgid "Test takers"
+msgstr "Partecipanti"
+
+#, tao-public
+msgid "Test takers library"
+msgstr "Biblioteca dei partecipanti"
+
+msgid "Test takers may be assigned to sets according to the relevant assessment context (Human resources management, education, edumetric monitoring, etc.)."
+msgstr "I partecipanti possono essere assegnati ad insiemi in base al contesto di valutazione pertinente (gestione delle risorse umane, istruzione, monitoraggio edumetrico, ecc.)."
+
+#, tao-public
+msgid "Test-takers"
+msgstr "Partecipanti"
+
+msgid "The Test takers module allows to record and manage  test takers."
+msgstr "Il modulo dei partecipanti ti consente di registrare e gestire  partecipanti."
+

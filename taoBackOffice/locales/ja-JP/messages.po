@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:31\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ja-JP\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ja-JP\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr "リスト作成"
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr "アイテムの作成、アイテムとテストバンクの管理、コホートとデリバリーの編成、レポートの準備、ワークフローの設定。"
+
+#, tao-public
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete this list"
+msgstr "このリストを削除"
+
+msgid "Edit this list"
+msgstr "リスト編集"
+
+#, tao-public
+msgid "Edit Tree"
+msgstr "ツリー編集"
+
+msgid "element"
+msgstr "エレメント"
+
+msgid "Element deleted"
+msgstr "エレメントが削除されました"
+
+msgid "Element not deleted"
+msgstr "エレメントは削除されませんでした"
+
+#, tao-public
+msgid "Export"
+msgstr "エクスポート"
+
+#, tao-public
+msgid "Import"
+msgstr "インポート"
+
+msgid "List"
+msgstr "リスト"
+
+msgid "List deleted"
+msgstr "リストが削除されました"
+
+msgid "List not deleted"
+msgstr "リストは削除されませんでした"
+
+msgid "List not saved"
+msgstr "リストは保存されませんでした"
+
+msgid "List saved"
+msgstr "リストを保存しました"
+
+#, tao-public
+msgid "Lists"
+msgstr "リスト"
+
+msgid "Please confirm you want to delete this list element."
+msgstr "リストエレメントを削除したければ確認してください。"
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr "このリストを削除したければ確認してください。この操作は元に戻せません。"
+
+#, tao-public
+msgid "Properties"
+msgstr "プロパティ"
+
+#, tao-public
+msgid "Settings"
+msgstr "設定"
+
+msgid "TAO Back Office"
+msgstr "TAO バックオフィス"
+
+msgid "Test Developers and Administrators"
+msgstr "テスト開発者と管理者"
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr "ツリー"
+
+msgid "View tree"
+msgstr "ツリー表示"
+
+#, tao-public
+msgid "View Tree"
+msgstr "ツリー表示"
+

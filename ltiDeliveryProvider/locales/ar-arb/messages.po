@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:03:19\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ar-arb\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ar-arb\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s Tool Provider"
+msgstr "موفر أداة %s"
+
+msgid "%s\" has been configured:"
+msgstr "تم تهيئة %s\""
+
+msgid "Access to this functionality is restricted"
+msgstr "الوصول إلى هذه الوظيفة مقيد"
+
+msgid "Access to this functionality is restricted to students"
+msgstr "يقتصر الوصول إلى هذه الوظيفة على الطلاب"
+
+msgid "An unusually high number of people are testing right now, your test will launch in a few moments to ensure that it runs smoothly. Thanks for your patience!"
+msgstr ""
+
+msgid "Attempts limit has been reached."
+msgstr ""
+
+msgid "Available Deliveries"
+msgstr "التسليمات المتاحة"
+
+msgid "Back"
+msgstr "السابق"
+
+msgid "Click on the back button to return to %s."
+msgstr "انقر على زر الرجوع للرجوع إلى %s"
+
+msgid "Click on the back button to return."
+msgstr "انقر على زر العودة للعودة."
+
+msgid "Configured LTI Link"
+msgstr "تكوين LTI لينك"
+
+msgid "Copy and paste the following URL into your LTI compatible tool consumer."
+msgstr "انسخ عنوان URL التالي والصقه في مستهلك أداة LTI المتوافق."
+
+#, tao-public
+msgid "Deliveries"
+msgstr "التسليم"
+
+msgid "Delivery does not exist. Please contact your instructor."
+msgstr ""
+
+msgid "Executions"
+msgstr "تنفيذات"
+
+msgid "Launch URL"
+msgstr "عنوان الإطلاق"
+
+#, tao-public
+msgid "LTI"
+msgstr "LTI"
+
+msgid "max_attempts\" variable must me numeric."
+msgstr ""
+
+msgid "No deliveries available"
+msgstr "لا توجد تسليمات متاحة"
+
+msgid "No LTI consumers defined"
+msgstr "لم يتم تعريف مستهلكين LTI"
+
+msgid "no monitoring"
+msgstr "وقف المراقبة"
+
+msgid "Please select a delivery"
+msgstr "يرجى اختيار التسليم"
+
+msgid "Please select a delivery for \"%s"
+msgstr "يرجى تحديد تسليم %s\""
+
+msgid "Repeat"
+msgstr "كرّر"
+
+msgid "Repeat the test"
+msgstr "كرر الامتحان"
+
+msgid "Retake the test"
+msgstr "إعادة الامتحان"
+
+msgid "Return to %s."
+msgstr "عُد إلى %s"
+
+msgid "Select"
+msgstr "اختر"
+
+msgid "Select Delivery"
+msgstr "اختار تنفيذ الامتحان"
+
+msgid "Selected Delivery"
+msgstr "تنفيذ الامتحان المختار"
+
+msgid "Test Launch Queue"
+msgstr ""
+
+msgid "Thank you"
+msgstr "شكراً لك"
+
+msgid "This tool has been configured:"
+msgstr "تم تكوين هذه الأداة:"
+
+msgid "This tool has not yet been configured, please contact your instructor"
+msgstr "لم يتم تكوين هذه الأداة بعد ، يرجى الاتصال بالمعلم الخاص بك"
+
+msgid "Tool consumer(s)"
+msgstr "إجمالى المستهلكين"
+
+msgid "User is not authorized to run this delivery"
+msgstr ""
+
+msgid "Wrong value of \"secure\" variable."
+msgstr ""
+
+msgid "You have already taken this test."
+msgstr "لقد اتخذت بالفعل هذا الاختبار."
+
+msgid "You have finished the test!"
+msgstr "لقد انتهيت من الاختبار!"
+

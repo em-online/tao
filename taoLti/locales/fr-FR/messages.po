@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:08:50\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: fr-FR\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: fr-FR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid "Add Consumer"
+msgstr "Ajouter un consommateur"
+
+msgid "Back"
+msgstr "Précédent"
+
+#, tao-public
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Error (%s): "
+msgstr ""
+
+msgid "Error(%s): [key %s] %s \"%s"
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Error: [key %s] \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Export"
+msgstr "Exporter"
+
+#, tao-public
+msgid "Import"
+msgstr "Importer"
+
+#, tao-public
+msgid "Index"
+msgstr "Index"
+
+msgid "Learning Tools Interoperability"
+msgstr "Interopérabilité des outils d'apprentissage"
+
+msgid "link"
+msgstr "lien"
+
+#, tao-public
+msgid "LTI Consumers"
+msgstr "Consommateurs LTI"
+
+msgid "Open in a new window"
+msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#, tao-public
+msgid "Properties"
+msgstr "Propriétés"
+
+msgid "Return to %s."
+msgstr "Retour vers %s."
+
+msgid "Server Error"
+msgstr "Erreur serveur"
+
+#, tao-public
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "The LTI connection could not be established"
+msgstr "La connexion LTI n'a pu être établie."
+
+msgid "The LTI Provider library."
+msgstr "La bibliothèque de fournisseur LTI"
+
+msgid "The LTI tool could not be opened in the current window. Please click on the button to open it in a new window."
+msgstr "L'outil LTI n'a pu être ouvert dans la fenêtre courante. Veuillez cliquer sur le bouton pour l'ouvrir dans une nouvelle fenêtre."
+
+msgid "Third party cookies are not supported by your browser"
+msgstr "Les cookies tiers ne sont pas supportés par votre navigateur."
+
+msgid "Unable to restore Session"
+msgstr "Impossible de restaurer la session"
+
+msgid "user"
+msgstr "utilisateur"
+
+msgid "You are not authorized to use this system"
+msgstr "Vous n'êtes pas autorisés à utiliser ce système."
+

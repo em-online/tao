@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:08:27\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: el-GR\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: el-GR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s has been committed"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+#, tao-public
+msgid "History"
+msgstr ""
+
+msgid "History of %s"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+#, tao-public
+msgid "Items"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr ""
+
+#, tao-public
+msgid "Manage Media"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr ""
+
+#, tao-public
+msgid "Media"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Please give a message to your commit"
+msgstr ""
+
+msgid "Resource restored"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Restored version %s"
+msgstr ""
+
+msgid "Something went wrong..."
+msgstr ""
+
+#, tao-public
+msgid "Tests"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Unable to restore the selected version"
+msgstr ""
+
+msgid "User"
+msgstr ""
+

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:55\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ca-ES-valencia\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ca-ES-valencia\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Access can not be revoked for the current user."
+msgstr ""
+
+msgid "Access control"
+msgstr "Control d'accés"
+
+msgid "Access Permissions for"
+msgstr "Permisos d'accés per a"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "Add role(s)"
+msgstr "Afig rols"
+
+msgid "Add user(s)"
+msgstr "Afig usuaris"
+
+msgid "grant"
+msgstr "permet"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Permissions saved"
+msgstr "Permisos guardats"
+
+msgid "read"
+msgstr "lectura"
+
+msgid "Recursive"
+msgstr "Recursiu"
+
+msgid "Remove"
+msgstr "Suprimeix"
+
+msgid "role"
+msgstr "rol"
+
+msgid "Roles"
+msgstr "Rols"
+
+msgid "Save"
+msgstr "Guarda"
+
+msgid "Type"
+msgstr "Tipus"
+
+msgid "user"
+msgstr "usuari"
+
+msgid "Users"
+msgstr "Usuaris"
+
+msgid "write"
+msgstr "escriptura"
+
+msgid "You must have one role or user that have the manage permission on this element."
+msgstr "Heu de tindre un rol o usuari que tinga permisos per a gestionar aquest element."
+

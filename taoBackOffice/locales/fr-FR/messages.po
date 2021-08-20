@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:08:52\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: fr-FR\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: fr-FR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr "Créer une liste"
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr "Créer des items, gérer des banques d'items et de tests, organiser des groupes et des passations, préparer des rapports, paramétrer des flux de travail."
+
+#, tao-public
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete this list"
+msgstr "Supprimer cette liste"
+
+msgid "Edit this list"
+msgstr "Éditer cette liste"
+
+#, tao-public
+msgid "Edit Tree"
+msgstr "Éditer l'arborescence"
+
+msgid "element"
+msgstr "élément"
+
+msgid "Element deleted"
+msgstr "Élément supprimé"
+
+msgid "Element not deleted"
+msgstr "Élément non supprimé"
+
+#, tao-public
+msgid "Export"
+msgstr "Exporter"
+
+#, tao-public
+msgid "Import"
+msgstr "Importer"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "List deleted"
+msgstr "Liste supprimée"
+
+msgid "List not deleted"
+msgstr "Liste non supprimée"
+
+msgid "List not saved"
+msgstr "Liste non enregistrée"
+
+msgid "List saved"
+msgstr "Liste enregistrée"
+
+#, tao-public
+msgid "Lists"
+msgstr "Listes"
+
+msgid "Please confirm you want to delete this list element."
+msgstr "Veuillez confirmer que vous souhaitez retirer cet élément de la liste."
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr "Veuillez confirmer que vous souhaitez supprimer cette liste. Cette opération est irréversible."
+
+#, tao-public
+msgid "Properties"
+msgstr "Propriétés"
+
+#, tao-public
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "TAO Back Office"
+msgstr "Back office TAO"
+
+msgid "Test Developers and Administrators"
+msgstr "Développeurs et administrateurs de test"
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr "Arborescences"
+
+msgid "View tree"
+msgstr "Aperçu de l'arborescence"
+
+#, tao-public
+msgid "View Tree"
+msgstr "Aperçu de l'arborescence"
+

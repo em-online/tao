@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:24\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: it-IT\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: it-IT\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s and %s roles"
+msgstr ""
+
+msgid "%s roles"
+msgstr ""
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "CSV Options"
+msgstr "Opzioni CSV"
+
+msgid "Event"
+msgstr "Evento"
+
+#, tao-public
+msgid "Event Log"
+msgstr "Registro eventi"
+
+msgid "Event Name"
+msgstr "Nome evento"
+
+msgid "Export"
+msgstr "Esportazione"
+
+msgid "Export log entries"
+msgstr "Esporta voci di registro"
+
+msgid "Export Log Entries"
+msgstr "Esporta voci di registro"
+
+msgid "Field delimiter"
+msgstr "Delimitatore di campo"
+
+msgid "Field encloser"
+msgstr "Contenitore di campi"
+
+msgid "First row column names"
+msgstr "Nomi di colonna della prima riga"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Log watcher"
+msgstr "Osservatore log"
+
+msgid "Multiple values delimiter"
+msgstr "Delimitatore di valori multipli"
+
+msgid "Occurred"
+msgstr "Si è verificato"
+
+msgid "Properties"
+msgstr "Proprietà"
+
+msgid "User activity log successfully registered."
+msgstr "Registro attività utente registrato correttamente."
+
+msgid "User ID"
+msgstr "ID Utente"
+
+msgid "User Roles"
+msgstr "Ruoli utente"
+

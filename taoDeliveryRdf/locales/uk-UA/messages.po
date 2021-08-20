@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:05\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: uk-UA\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: uk-UA\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s completed"
+msgstr ""
+
+msgid "%s test-taker(s) are excluded."
+msgstr "%s тестований виключаються"
+
+msgid "Access deliveries as a guest"
+msgstr "Доступ до доставки в якості гостя"
+
+msgid "An error occured during the import"
+msgstr "Сталася помилка під час імпорту."
+
+msgid "Assembly"
+msgstr "Cкладальний"
+
+msgid "Assembly import"
+msgstr "імпорт збірки"
+
+msgid "Assigned test-takers"
+msgstr "призначені контролери"
+
+msgid "Assigned to"
+msgstr "Призначено"
+
+msgid "Attempt %1$s of %2$s"
+msgstr "спроба %1$s з %2$s"
+
+msgid "Attempts"
+msgstr "Спроби"
+
+msgid "Attempts %1$s of %2$s"
+msgstr "Спроби %1$s з %2$s"
+
+msgid "Available from %1$s to %2$s"
+msgstr "Доступна спроба %1$s з %2$s"
+
+msgid "Available from %s"
+msgstr "Доступний з %s"
+
+msgid "Available until %s"
+msgstr "Досвтуна до %s"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Class successfully created."
+msgstr ""
+
+msgid "Create a new delivery"
+msgstr "Створити нову доставку"
+
+msgid "Create a test"
+msgstr "Створити тест"
+
+#, tao-public
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Deleting of \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Deliveries"
+msgstr "Доставки"
+
+#, tao-public
+msgid "Deliveries library"
+msgstr "бібліотека поповнення"
+
+msgid "Delivery \"%s\" successfully imported"
+msgstr "доставка \"%s\" успішно імпортовано"
+
+msgid "Delivery \'%s\' not found"
+msgstr ""
+
+msgid "Delivery class uri provided is not a valid delivery class."
+msgstr ""
+
+msgid "Delivery is assigned to %s test-takers."
+msgstr "доставка призначається %s тестовані."
+
+msgid "Delivery is not assigned to any test-taker."
+msgstr "Доставка не призначається жодному випробувачеві."
+
+msgid "Delivery saved"
+msgstr "Доставка збережена"
+
+msgid "Delivery with label \"%s\" not found"
+msgstr ""
+
+msgid "Directory %s doesn\'t exist"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Excluded test-takers"
+msgstr "Виключений тестувальники"
+
+msgid "Exported %1$s to %2$s"
+msgstr "Експортованно %1$s to %2$s"
+
+msgid "Exporting %s"
+msgstr ""
+
+msgid "Guest access"
+msgstr "Гостьовий доступ"
+
+msgid "Importing %1$s files into \'%2$s\"
+msgstr ""
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr ""
+
+msgid "Manifest not found in assembly"
+msgstr "Манифест не найден в сборке"
+
+#, tao-public
+msgid "Move"
+msgstr "Перемістити"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+msgid "Multiple delivery class found for label \"%s\": %s"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Новий клас"
+
+#, tao-public
+msgid "New delivery"
+msgstr "Нова постановка"
+
+msgid "No attempt has been started yet."
+msgstr "Спроба ще не почалась."
+
+msgid "No information available"
+msgstr "Дані недоступні"
+
+#, tao-public
+msgid "Prepare, publish deliveries sessions."
+msgstr "Підготуйте, опублікуйте сеанси поставок."
+
+#, tao-public
+msgid "Properties"
+msgstr "Властивості"
+
+#, tao-public
+msgid "Publish"
+msgstr ""
+
+msgid "Publish \"%s\" to"
+msgstr ""
+
+msgid "Publish the test"
+msgstr ""
+
+msgid "Published on %2s"
+msgstr "Опублікований %2s"
+
+msgid "Publishing of \"%s"
+msgstr ""
+
+msgid "Save"
+msgstr "Збереження"
+
+msgid "Select the test"
+msgstr ""
+
+msgid "Select the test you want to publish to the test-takers"
+msgstr ""
+
+msgid "Selection saved successfully"
+msgstr "Вибір успішно збережено"
+
+msgid "TAO Guest"
+msgstr "TAO гість"
+
+msgid "TAO Guest Access"
+msgstr "TAO гістьовий доступ"
+
+msgid "Test publishing failed because \"%s\" is empty."
+msgstr ""
+
+msgid "Test-takers"
+msgstr "Тест-приймачі"
+
+#, tao-public
+msgid "Tests"
+msgstr ""
+
+msgid "The shared filesystem parameter should be a boolean value 'true' or 'false'."
+msgstr ""
+
+msgid "There are currently %s attempts"
+msgstr "Наразі існує %s спроба"
+
+msgid "There are currently no tests available to publish."
+msgstr "Наразі немає тестів для публікації."
+
+msgid "There is currently 1 attempt"
+msgstr "В даний час 1 спроба"
+
+msgid "Unable to import Archive"
+msgstr "Неможливо імпортувати архів"
+
+msgid "Unable to load tests"
+msgstr ""
+
+msgid "Unknown error during import"
+msgstr ""
+
+msgid "unlimited"
+msgstr "необмежений"
+
+msgid "Usage: %s ASSEMBLY_FILE [ASSEMBLY_FILE_2] [ASSEMBLY_FILE_3] ..."
+msgstr ""
+
+msgid "Usage: %s DELIVERY_CLASS_URI OUTPUT_DIRECTORY"
+msgstr ""
+
+msgid "Usage: %s DELIVERY_URI OUTPUT_FILE [USE_SHARED_FILESYSTEM]"
+msgstr ""
+

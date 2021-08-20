@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:05:24\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: de-DE\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: de-DE\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s Tool Provider"
+msgstr "%s Werkzeuganbieter"
+
+msgid "%s\" has been configured:"
+msgstr "%s\" wurde konfiguriert:"
+
+msgid "Access to this functionality is restricted"
+msgstr "Zugriff auf diese Funktion ist beschränkt."
+
+msgid "Access to this functionality is restricted to students"
+msgstr "Zugriff auf diese Funktion ist auf Testteilnehmer beschränkt"
+
+msgid "An unusually high number of people are testing right now, your test will launch in a few moments to ensure that it runs smoothly. Thanks for your patience!"
+msgstr ""
+
+msgid "Attempts limit has been reached."
+msgstr ""
+
+msgid "Available Deliveries"
+msgstr "Verfügbare Bereitstellungen"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Click on the back button to return to %s."
+msgstr "Klicken Sie auf den Zurück-Button klicken, um zu %s zurückzukehren."
+
+msgid "Click on the back button to return."
+msgstr "Klicken Sie auf den Zurück-Button, um zurück zu gehen."
+
+msgid "Configured LTI Link"
+msgstr "Konfigurierter LTI-Link"
+
+msgid "Copy and paste the following URL into your LTI compatible tool consumer."
+msgstr "Kopieren Sie folgende URL und fügen Sie diese in das LTI kompatible Tool ein."
+
+#, tao-public
+msgid "Deliveries"
+msgstr "Bereitstellungen"
+
+msgid "Delivery does not exist. Please contact your instructor."
+msgstr ""
+
+msgid "Executions"
+msgstr "Ausführungen"
+
+msgid "Launch URL"
+msgstr "URL aufrufen"
+
+#, tao-public
+msgid "LTI"
+msgstr "LTI"
+
+msgid "max_attempts\" variable must me numeric."
+msgstr ""
+
+msgid "No deliveries available"
+msgstr "Keine Bereitstellungen verfügbar"
+
+msgid "No LTI consumers defined"
+msgstr "Keine LTI-Nutzer definiert."
+
+msgid "no monitoring"
+msgstr "keine Überwachung"
+
+msgid "Please select a delivery"
+msgstr "Bitte Bereitstellung auswählen"
+
+msgid "Please select a delivery for \"%s"
+msgstr "Bitte Bereitstellung für \"%s auswählen"
+
+msgid "Repeat"
+msgstr "Wiederholen"
+
+msgid "Repeat the test"
+msgstr "Test wiederholen"
+
+msgid "Retake the test"
+msgstr "Test neu starten"
+
+msgid "Return to %s."
+msgstr "Zu %s zurück kehren."
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "Select Delivery"
+msgstr "Bereitstellung auswählen"
+
+msgid "Selected Delivery"
+msgstr "Ausgewählte Bereitstellung"
+
+msgid "Test Launch Queue"
+msgstr ""
+
+msgid "Thank you"
+msgstr "Vielen Dank"
+
+msgid "This tool has been configured:"
+msgstr "Dieses Werkzeug wurde konfiguriert:"
+
+msgid "This tool has not yet been configured, please contact your instructor"
+msgstr "Dieses Werkzeug wurde noch nicht konfiguriert, Bitte kontaktieren Sie ihren Vorgesetzten."
+
+msgid "Tool consumer(s)"
+msgstr "Werkzeug-Nutzer"
+
+msgid "User is not authorized to run this delivery"
+msgstr ""
+
+msgid "Wrong value of \"secure\" variable."
+msgstr ""
+
+msgid "You have already taken this test."
+msgstr "Sie haben an diesem Test schon teilgenommen."
+
+msgid "You have finished the test!"
+msgstr "Sie haben diesen Test abgeschlossen!"
+

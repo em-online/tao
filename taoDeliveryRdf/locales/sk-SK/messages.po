@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:05:05\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: sk-SK\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: sk-SK\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s completed"
+msgstr ""
+
+msgid "%s test-taker(s) are excluded."
+msgstr "%s testovaná(é) osoba(y) sú vylúčené."
+
+msgid "Access deliveries as a guest"
+msgstr "Prístup k doručeniam ako hosť"
+
+msgid "An error occured during the import"
+msgstr "Počas importu sa vyskytla chyba"
+
+msgid "Assembly"
+msgstr "Zostaviť"
+
+msgid "Assembly import"
+msgstr "Vložiť zostavenie"
+
+msgid "Assigned test-takers"
+msgstr "Priradení príjemcovia testov"
+
+msgid "Assigned to"
+msgstr "Priradené pre"
+
+msgid "Attempt %1$s of %2$s"
+msgstr "Pokus %1$s z %2$s"
+
+msgid "Attempts"
+msgstr "Pokusy"
+
+msgid "Attempts %1$s of %2$s"
+msgstr "Pokus %1$s z %2$s"
+
+msgid "Available from %1$s to %2$s"
+msgstr "K dispozícii od %1$s do %2$s"
+
+msgid "Available from %s"
+msgstr "Dostupné od %s"
+
+msgid "Available until %s"
+msgstr "Dostupné do %s"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Class successfully created."
+msgstr ""
+
+msgid "Create a new delivery"
+msgstr "Vytvoriť nové doručenie"
+
+msgid "Create a test"
+msgstr "Vytvoriť test"
+
+#, tao-public
+msgid "Delete"
+msgstr "Zmazať"
+
+msgid "Deleting of \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Deliveries"
+msgstr "Doručenia"
+
+#, tao-public
+msgid "Deliveries library"
+msgstr "Knižnica doručení"
+
+msgid "Delivery \"%s\" successfully imported"
+msgstr "Doručenie \"%s\" bolo úspešne importované"
+
+msgid "Delivery \'%s\' not found"
+msgstr ""
+
+msgid "Delivery class uri provided is not a valid delivery class."
+msgstr ""
+
+msgid "Delivery is assigned to %s test-takers."
+msgstr "Doručenie je priradené k %s testovaným osobám."
+
+msgid "Delivery is not assigned to any test-taker."
+msgstr "Doručenie nie je priradené k žiadnej testovanej osobe."
+
+msgid "Delivery saved"
+msgstr "Doručenie je uložené"
+
+msgid "Delivery with label \"%s\" not found"
+msgstr ""
+
+msgid "Directory %s doesn\'t exist"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Excluded test-takers"
+msgstr "Vylúčené testované osoby"
+
+msgid "Exported %1$s to %2$s"
+msgstr "Exportovať %1$s do %2$s"
+
+msgid "Exporting %s"
+msgstr ""
+
+msgid "Guest access"
+msgstr "Prístup pre hosťa"
+
+msgid "Importing %1$s files into \'%2$s\"
+msgstr ""
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr ""
+
+msgid "Manifest not found in assembly"
+msgstr "Prejav sa nenachádza v zostave"
+
+#, tao-public
+msgid "Move"
+msgstr "Presunúť"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+msgid "Multiple delivery class found for label \"%s\": %s"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Nová trieda"
+
+#, tao-public
+msgid "New delivery"
+msgstr "Nové doručenie"
+
+msgid "No attempt has been started yet."
+msgstr "Zatiaľ nebol spustený žiadny pokus."
+
+msgid "No information available"
+msgstr "No information available"
+
+#, tao-public
+msgid "Prepare, publish deliveries sessions."
+msgstr "Pripravte a publikujte relácie doručení."
+
+#, tao-public
+msgid "Properties"
+msgstr "Vlastnosti"
+
+#, tao-public
+msgid "Publish"
+msgstr ""
+
+msgid "Publish \"%s\" to"
+msgstr ""
+
+msgid "Publish the test"
+msgstr ""
+
+msgid "Published on %2s"
+msgstr "Publikované dňa %2s"
+
+msgid "Publishing of \"%s"
+msgstr ""
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Select the test"
+msgstr ""
+
+msgid "Select the test you want to publish to the test-takers"
+msgstr ""
+
+msgid "Selection saved successfully"
+msgstr "Výber bol úspešne uložený"
+
+msgid "TAO Guest"
+msgstr "TAO hosť"
+
+msgid "TAO Guest Access"
+msgstr "TAO prístup pre hosťa"
+
+msgid "Test publishing failed because \"%s\" is empty."
+msgstr ""
+
+msgid "Test-takers"
+msgstr "Testované osoby"
+
+#, tao-public
+msgid "Tests"
+msgstr ""
+
+msgid "The shared filesystem parameter should be a boolean value 'true' or 'false'."
+msgstr ""
+
+msgid "There are currently %s attempts"
+msgstr "V súčasnosti je %s pokusov"
+
+msgid "There are currently no tests available to publish."
+msgstr "Momentálne nie sú k dispozícii žiadne publikované testy."
+
+msgid "There is currently 1 attempt"
+msgstr "V súčasnosti je 1 pokus"
+
+msgid "Unable to import Archive"
+msgstr "Nemožno importovať archív"
+
+msgid "Unable to load tests"
+msgstr ""
+
+msgid "Unknown error during import"
+msgstr ""
+
+msgid "unlimited"
+msgstr "neobmedzený"
+
+msgid "Usage: %s ASSEMBLY_FILE [ASSEMBLY_FILE_2] [ASSEMBLY_FILE_3] ..."
+msgstr ""
+
+msgid "Usage: %s DELIVERY_CLASS_URI OUTPUT_DIRECTORY"
+msgstr ""
+
+msgid "Usage: %s DELIVERY_URI OUTPUT_FILE [USE_SHARED_FILESYSTEM]"
+msgstr ""
+

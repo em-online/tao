@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:43\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Actual size"
+msgstr "Фактический размер"
+
+#, tao-public
+msgid "Authoring"
+msgstr "Разработки"
+
+msgid "Class schema saved"
+msgstr ""
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close console"
+msgstr "Закрыть консоли"
+
+#, tao-public
+msgid "Copy To"
+msgstr ""
+
+#, tao-public
+msgid "Create and design items and exercises."
+msgstr ""
+
+#, tao-public
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Desktop preview"
+msgstr "Предварительный просмотр рабочего стола"
+
+msgid "Don’t show this again!"
+msgstr "Больше не показывать это сообщение!"
+
+#, tao-public
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Edit item"
+msgstr "Редактировать элемент"
+
+msgid "Edit Item"
+msgstr "Редактировать элемент"
+
+#, tao-public
+msgid "Export"
+msgstr "Экспортировать"
+
+msgid "Expose the property value to create automated categories."
+msgstr ""
+
+msgid "Failed retrieving %s"
+msgstr ""
+
+#, tao-public
+msgid "Import"
+msgstr "Импортировать"
+
+msgid "Item Model"
+msgstr "Модель элементов"
+
+msgid "Item not found"
+msgstr ""
+
+msgid "Item saved"
+msgstr "Элемент сохранен"
+
+#, tao-public
+msgid "Items"
+msgstr "Элементы"
+
+#, tao-public
+msgid "Items library"
+msgstr "Библиотека элементов"
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Last updated on %2s"
+msgstr ""
+
+msgid "Manage item class schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr "Управление элементами"
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+msgid "Mobile preview"
+msgstr ""
+
+#, tao-public
+msgid "Move"
+msgstr "Передвигать"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Новый класс"
+
+msgid "No item authoring tool available for the selected type of item: %s"
+msgstr "Для выбранного типа элемента не доступно средство разработки элементов: %s"
+
+msgid "No item type selected for the current item."
+msgstr "Не выбран тип элемента для текущего элемента."
+
+msgid "Not yet available"
+msgstr "Пока не доступно"
+
+msgid "Please select first the item type!"
+msgstr "Пожалуйста, сначала выберите тип элемента!"
+
+msgid "Portrait"
+msgstr ""
+
+#, tao-public
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#, tao-public
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Published \"%1$s\" in language \"%2$s"
+msgstr ""
+
+msgid "Remove this message"
+msgstr "Удалить это сообщение"
+
+msgid "Retrieving external resources"
+msgstr "Извлечение внешних ресурсов"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "The file you tried to upload is not valid"
+msgstr "Файл, который вы пытались загрузить, является недопустимым"
+
+msgid "The Items module enables the creation and design of items and exercises."
+msgstr "Модуль Элементы позволяет создавать и проектировать элементы и упражнения."
+
+msgid "The property is exposed to category addition.&#13Remove exposition ?"
+msgstr ""
+
+msgid "This preview may be scaled to fit your screen. The final rendering may differ."
+msgstr "Этот предварительный просмотр может масштабироваться по размеру экрана. Окончательная визуализация может отличаться."
+
+msgid "Unable to copy resources for language %s"
+msgstr "Не удается скопировать ресурсы для языка %s"
+
+msgid "Unable to create deployement directory"
+msgstr "Не удается создать каталог развертывания"
+
+msgid "Unable to render the item from %s : %s %s"
+msgstr ""
+
+msgid "You checked out this item %2s ago"
+msgstr ""
+
+msgid "Your path contains error"
+msgstr "Ваш путь содержит ошибку"
+

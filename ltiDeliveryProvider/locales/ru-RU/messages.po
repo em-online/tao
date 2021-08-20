@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s Tool Provider"
+msgstr "%s поставщиков услуг"
+
+msgid "%s\" has been configured:"
+msgstr "%s\" был конфигурирован:"
+
+msgid "Access to this functionality is restricted"
+msgstr "Доступ к этим функциональным возможностям ограничен"
+
+msgid "Access to this functionality is restricted to students"
+msgstr "Доступ к этим функциональным возможностям ограничен для учащихся"
+
+msgid "An unusually high number of people are testing right now, your test will launch in a few moments to ensure that it runs smoothly. Thanks for your patience!"
+msgstr ""
+
+msgid "Attempts limit has been reached."
+msgstr ""
+
+msgid "Available Deliveries"
+msgstr "Доступные поставки"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Click on the back button to return to %s."
+msgstr "Нажмите на кнопку Назад, чтобы вернуться к %s."
+
+msgid "Click on the back button to return."
+msgstr "Кликните на кнопку Назад, чтобы вернуться"
+
+msgid "Configured LTI Link"
+msgstr "Конфигурированная связь LTI"
+
+msgid "Copy and paste the following URL into your LTI compatible tool consumer."
+msgstr "Копируйте и вставьте следующий URL в ваш инструмент потребителя совместимого с LTI."
+
+#, tao-public
+msgid "Deliveries"
+msgstr "Поставки"
+
+msgid "Delivery does not exist. Please contact your instructor."
+msgstr ""
+
+msgid "Executions"
+msgstr "Выполнения"
+
+msgid "Launch URL"
+msgstr "Запустить URL"
+
+#, tao-public
+msgid "LTI"
+msgstr "Взаимодействие средств обучения"
+
+msgid "max_attempts\" variable must me numeric."
+msgstr ""
+
+msgid "No deliveries available"
+msgstr ""
+
+msgid "No LTI consumers defined"
+msgstr ""
+
+msgid "no monitoring"
+msgstr "нет мониторинга"
+
+msgid "Please select a delivery"
+msgstr ""
+
+msgid "Please select a delivery for \"%s"
+msgstr ""
+
+msgid "Repeat"
+msgstr "Повторить"
+
+msgid "Repeat the test"
+msgstr "Повторить тест"
+
+msgid "Retake the test"
+msgstr "Пройти тест заново"
+
+msgid "Return to %s."
+msgstr ""
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select Delivery"
+msgstr ""
+
+msgid "Selected Delivery"
+msgstr ""
+
+msgid "Test Launch Queue"
+msgstr ""
+
+msgid "Thank you"
+msgstr "Спасибо"
+
+msgid "This tool has been configured:"
+msgstr ""
+
+msgid "This tool has not yet been configured, please contact your instructor"
+msgstr ""
+
+msgid "Tool consumer(s)"
+msgstr ""
+
+msgid "User is not authorized to run this delivery"
+msgstr ""
+
+msgid "Wrong value of \"secure\" variable."
+msgstr ""
+
+msgid "You have already taken this test."
+msgstr "Вы уже прошли этот тест."
+
+msgid "You have finished the test!"
+msgstr "Вы завершили тест!"
+

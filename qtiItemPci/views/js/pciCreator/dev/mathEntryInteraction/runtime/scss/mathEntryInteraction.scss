@@ -1,0 +1,198 @@
+/**
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * as published by the Free Software Foundation; under version 2
+ * of the License (non-upgradable).
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ *
+ * Copyright (c) 2016 (original work) Open Assessment Technologies SA;
+ */
+
+// =============
+// TAO specific
+// =============
+
+@import "inc/bootstrap";
+
+#item-editor-scope {
+    .widget-box {
+        &.edit-sleep {
+            .math-entry-input {
+                &.mq-editable-field {
+                    border: 0;
+                }
+            }
+        }
+        &.edit-active {
+            .math-entry-input {
+                &.mq-editable-field {
+                    border: 1px dotted $info;
+
+                    .mq-tao-gap {
+                        background-color: #dad8d6;
+                        border: 0;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+
+// =============
+// PCI
+// =============
+$base: rgb(164, 187, 197);
+
+$buttonBg: whiten($base, 0.6);
+$buttonHover: blacken($base, 0.5);
+$buttonTxt: blacken($base, 0.5);;
+$buttonTxtHover: white;
+$buttonFont: "Times New Roman", Times, serif;
+
+$buttonRadius: 4px;
+
+$borderColor: blacken($base, 0.3);
+
+$defaultGapWidth: 30;
+
+@mixin text-input() {
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.qti-customInteraction {
+
+    .mq-tao-gap, .mq-editable-field {
+        min-width: $defaultGapWidth * 1px;
+    }
+
+    .mathEntryInteraction {
+
+        &.math-gap {
+            &-small {
+                .mq-tao-gap, .mq-editable-field {
+                    min-width: $defaultGapWidth * 1px;
+                }
+            }
+            &-medium {
+                .mq-tao-gap, .mq-editable-field {
+                    min-width: 70px;
+                }
+            }
+            &-large {
+                .mq-tao-gap, .mq-editable-field {
+                    min-width: 110px;
+                }
+            }
+        }
+
+        .math-entry {
+            padding: 8px;
+
+            .toolbar {
+                margin-bottom: 8px;
+            }
+
+            .add-option {
+                padding: 5px 5px 5px 6px;
+                margin-bottom: 8px;
+                max-width: none;
+                display: inline-block;
+            }
+
+            .math-entry-input {
+                width: 100%;
+                border: 0;
+                min-height: 23px;
+            }
+
+            .mq-editable-field {
+                @include text-input();
+            }
+
+            .math-entry-placeholder {
+                height: 23px;
+                @include text-input();
+            }
+
+            .mq-tao-gap {
+                @include text-input();
+                display: inline-block;
+                height: 21px;
+                margin: 0 3px;
+                vertical-align: middle;
+            }
+
+            sup, sub {
+                line-height: inherit;
+                top: initial;
+            }
+
+            // Buttons
+            .math-entry-toolgroup {
+                margin: 8px 8px 8px 0;
+                display: inline-block;
+
+                border-radius: $buttonRadius;
+                border: 1px solid $borderColor;
+
+                .math-entry-tool {
+                    &:first-child {
+                        border-top-left-radius: $buttonRadius;
+                        border-bottom-left-radius: $buttonRadius;
+                    }
+                    &:last-child {
+                        border-top-right-radius: $buttonRadius;
+                        border-bottom-right-radius: $buttonRadius;
+                    }
+                }
+            }
+
+            .math-entry-tool {
+                vertical-align: middle;
+                outline: 0;
+                overflow: visible;
+                display: inline-block;
+                padding: 8px 16px;
+                height: auto;
+
+                border-right: 1px solid blacken($borderColor, 0.2);
+
+                background-color: $buttonBg;
+                color: $buttonTxt;
+
+                cursor: pointer;
+
+                line-height: normal;
+                text-align: center;
+                text-decoration: none !important;
+                font-family: $buttonFont;
+                font-size: 15px !important;
+                font-weight: bold;
+                font-style: normal;
+
+                &:hover {
+                    background-color: $buttonHover;
+                    color: $buttonTxtHover;
+                }
+
+                &:last-child {
+                    border-right: none;
+                }
+
+            }
+
+        }
+    }
+}
+

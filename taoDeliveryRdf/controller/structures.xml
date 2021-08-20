@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+    <structure id="delivery" name="Deliveries" level="4" group="main">
+        <description>Prepare, publish deliveries sessions.</description>
+        <icon id="icon-delivery" src=""/>
+        <sections>
+
+            <section id="manage_delivery_assembly" name="Deliveries" url="/taoDeliveryRdf/DeliveryMgmt/index">
+                <trees>
+                    <tree name="Deliveries library"
+                          className="Delivery"
+                          dataUrl="/taoDeliveryRdf/DeliveryMgmt/getOntologyData"
+                          rootNode="http://www.tao.lu/Ontologies/TAODelivery.rdf#AssembledDelivery"
+                          selectClass="delivery-class-properties"
+                          selectInstance="delivery-properties"
+                          moveInstance="delivery-move"
+                          delete="delivery-delete"
+                    />
+                </trees>
+                <actions>
+                    <action id="delivery-class-properties" name="Properties" url="/taoDeliveryRdf/DeliveryMgmt/editClassLabel" group="content" context="class">
+                        <icon id="icon-edit"/>
+                    </action>
+                    <action id="delivery-class-schema" name="Manage Schema" url="/tao/PropertiesAuthoring/index" group="content" context="class">
+                        <icon id="icon-property-add" />
+                    </action>
+                    <action id="delivery-properties" name="Properties"  url="/taoDeliveryRdf/DeliveryMgmt/editDelivery" group="content" context="instance">
+                        <icon id="icon-edit"/>
+                    </action>
+                    <action id="delivery-class-new" name="New class" url="/taoDeliveryRdf/DeliveryMgmt/addSubClass" context="resource" group="tree" binding="subClass">
+                        <icon id="icon-folder-open"/>
+                    </action>
+                    <action id="delivery-delete" name="Delete" url="/taoDeliveryRdf/DeliveryMgmt/delete" context="resource" group="tree" binding="removeNode">
+                        <icon id="icon-bin"/>
+                    </action>
+                    <action id="delivery-delete-all" name="Delete" url="/taoDeliveryRdf/DeliveryMgmt/deleteAll" context="resource" multiple="true" group="tree" binding="removeNodes">
+                        <icon id="icon-bin"/>
+                    </action>
+                    <action id="delivery-move" name="Move" url="/taoDeliveryRdf/DeliveryMgmt/moveInstance" context="instance" group="none" binding="moveNode">
+                        <icon id="icon-move-item"/>
+                    </action>
+                    <action id="delivery-move-to" name="Move To" url="/taoDeliveryRdf/DeliveryMgmt/moveResource" context="resource" group="tree" binding="moveTo">
+                        <icon id="icon-move-item"/>
+                    </action>
+                    <action id="delivery-move-all" name="Move To" url="/taoDeliveryRdf/DeliveryMgmt/moveAll" context="resource" multiple="true" group="tree" binding="moveTo">
+                        <icon id="icon-move-item"/>
+                    </action>
+                    <action id="delivery-new" name="New delivery" url="/taoDeliveryRdf/DeliveryMgmt/wizard" context="resource" group="tree">
+                        <icon id="icon-delivery"/>
+                    </action>
+
+                </actions>
+            </section>
+        </sections>
+    </structure>
+    <structure id="tests" name="Tests" level="1" group="main">
+        <sections>
+            <section id="manage_tests" name="Manage tests" url="/taoTests/Tests/index">
+                <actions allowClassActions="true">
+                    <action id="test-publish" name="Publish" url="/taoDeliveryRdf/Publish/index" context="instance" group="tree">
+                        <icon id="icon-delivery"/>
+                    </action>
+                </actions>
+            </section>
+        </sections>
+    </structure>
+</structures>

@@ -1,0 +1,54 @@
+@import "inc/bootstrap";
+
+div.task-detail-element {
+    position: relative;
+    padding: 10px 20px;
+    width: 600px;
+    min-height: 250px;
+    background: $canvas;
+    .detail-description {
+        .label {
+            margin-right: 4px;
+            color: $textColor;
+            font-weight: bold;
+        }
+        .time {
+            margin-left: 4px;
+            color: blacken($canvas, 0.4);
+            @include font-size(12);
+        }
+    }
+    .detail-body {
+        max-height: 500px;
+        overflow-y: auto;
+        padding: 10px 0;
+    }
+    .action-top {
+        position: absolute;
+        top: 9px;
+        right: 14px;
+        [class^="icon-"], [class*=" icon-"] {
+            @include font-size(16);
+            color: $textColor;
+            background-color: transparent;
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+            padding-left: 4px;
+            margin-left: 5px;
+            cursor: pointer;
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+    }
+    .no-detail {
+        display: none;
+    }
+    &.noreport {
+        .no-detail {
+            display: block;
+            color: blacken($canvas, 0.4);
+        }
+    }
+}

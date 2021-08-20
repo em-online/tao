@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:05:24\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: de-DE\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: de-DE\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Actual size"
+msgstr "Tatsächliche Größe"
+
+#, tao-public
+msgid "Authoring"
+msgstr "Verfassen"
+
+msgid "Class schema saved"
+msgstr ""
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Close console"
+msgstr "Konsole schließen"
+
+#, tao-public
+msgid "Copy To"
+msgstr ""
+
+#, tao-public
+msgid "Create and design items and exercises."
+msgstr "Elemente und Übungen erstellen und gestalten."
+
+#, tao-public
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Desktop preview"
+msgstr "Desktop-Vorschau"
+
+msgid "Don’t show this again!"
+msgstr "Diese Meldung nicht wieder anzeigen!"
+
+#, tao-public
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+msgid "Edit item"
+msgstr "Element bearbeiten"
+
+msgid "Edit Item"
+msgstr "Element bearbeiten"
+
+#, tao-public
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "Expose the property value to create automated categories."
+msgstr ""
+
+msgid "Failed retrieving %s"
+msgstr "Fehler bei Abruf von %s"
+
+#, tao-public
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Item Model"
+msgstr "Element-Modell"
+
+msgid "Item not found"
+msgstr ""
+
+msgid "Item saved"
+msgstr "Element gespeichert"
+
+#, tao-public
+msgid "Items"
+msgstr "Elemente"
+
+#, tao-public
+msgid "Items library"
+msgstr "Element-Bibliothek"
+
+msgid "Landscape"
+msgstr "Querformat"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+msgid "Manage item class schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr "Elemente verwalten"
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+msgid "Mobile preview"
+msgstr "Mobile Vorschau"
+
+#, tao-public
+msgid "Move"
+msgstr "Verschieben"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Neue Klasse"
+
+msgid "No item authoring tool available for the selected type of item: %s"
+msgstr "Kein Bearbeitungswerkzeug verfügbar für den ausgewählten Typ des Elements: %s"
+
+msgid "No item type selected for the current item."
+msgstr "Kein Typ für das aktuelle Element ausgewählt"
+
+msgid "Not yet available"
+msgstr "Noch nicht verfügbar"
+
+msgid "Please select first the item type!"
+msgstr "Bitte zuerst den Element-Typ auswählen!"
+
+msgid "Portrait"
+msgstr "Hochformat"
+
+#, tao-public
+msgid "Preview"
+msgstr "Vorschau"
+
+#, tao-public
+msgid "Properties"
+msgstr "Eigenschaften"
+
+msgid "Published \"%1$s\" in language \"%2$s"
+msgstr "\"%1$s\" in Sprache \"%2$s veröffentlicht"
+
+msgid "Remove this message"
+msgstr "Diese Nachricht entfernen"
+
+msgid "Retrieving external resources"
+msgstr "Externe Quellen abrufen"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "The file you tried to upload is not valid"
+msgstr "Die hochgeladene Datei ist ungültig"
+
+msgid "The Items module enables the creation and design of items and exercises."
+msgstr "Das Element-Modul ermöglicht das Erstellen und Entwickeln von Elementen und Übungen."
+
+msgid "The property is exposed to category addition.&#13Remove exposition ?"
+msgstr ""
+
+msgid "This preview may be scaled to fit your screen. The final rendering may differ."
+msgstr "Diese Vorschau ist möglicherweise an ihren Bildschirm angepasst. Die endgültige Version kann davon abweichen."
+
+msgid "Unable to copy resources for language %s"
+msgstr "Quellen für Sprache %s konnten nicht kopiert werden"
+
+msgid "Unable to create deployement directory"
+msgstr "Der Deployment-Ordner konnte nicht erstellt werden"
+
+msgid "Unable to render the item from %s : %s %s"
+msgstr ""
+
+msgid "You checked out this item %2s ago"
+msgstr "Sie haben dieses Element vor %2s überprüft"
+
+msgid "Your path contains error"
+msgstr "Ihr Pfad ist fehlerhaft"
+

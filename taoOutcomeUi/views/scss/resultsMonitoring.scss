@@ -1,0 +1,30 @@
+@import "inc/bootstrap";
+
+.results-list-container {
+
+    display: block;
+    width: 100%;
+
+    .datatable-wrapper {
+        display: block;
+    }
+
+    table.datatable {
+        .delivery {
+            max-width: 25%;
+
+        }
+        .actions {
+            white-space: nowrap;
+        }
+    }
+}
+
+
+.results-list {
+    .grid-row{
+        &.pagination {
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:23\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: it-IT\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: it-IT\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add page"
+msgstr "Aggiungi pagina"
+
+msgid "Allow multi pages"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Fondo"
+
+msgid "Button based"
+msgstr "Basato sul pulsante"
+
+msgid "Button labels"
+msgstr "Etichette dei pulsanti"
+
+msgid "Button labels."
+msgstr "Etichette dei pulsanti."
+
+msgid "Columns:"
+msgstr "Colonne:"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Display"
+msgstr ""
+
+msgid "If this box is checked the text reader will allow to display more than one page and to navigate between them."
+msgstr ""
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Navigation"
+msgstr "Navigazione"
+
+msgid "Navigation."
+msgstr "Navigazione."
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "Page height (px)"
+msgstr "Altezza pagina (px)"
+
+msgid "Page height (px)."
+msgstr "Altezza pagina (px)."
+
+msgid "Previous."
+msgstr "Precedente."
+
+msgid "Remove Tooltip"
+msgstr "Rimuovi ToolTip"
+
+msgid "Right"
+msgstr "Destra"
+
+msgid "Tab based"
+msgstr "Basato su Tab"
+
+msgid "Tabs + buttons"
+msgstr "Tabulazioni + pulsanti"
+
+msgid "Tabs position"
+msgstr "Posizione tabulazione"
+
+msgid "Tabs position."
+msgstr "Posizione tabulazione."
+
+msgid "Tooltips"
+msgstr "Descrizioni comandi"
+
+msgid "Top"
+msgstr "In alto"
+

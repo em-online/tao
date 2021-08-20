@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:30\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: zh-CN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: zh-CN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s completed"
+msgstr ""
+
+msgid "%s test-taker(s) are excluded."
+msgstr ""
+
+msgid "Access deliveries as a guest"
+msgstr ""
+
+msgid "An error occured during the import"
+msgstr "导入时发生了错误"
+
+msgid "Assembly"
+msgstr "集会"
+
+msgid "Assembly import"
+msgstr "聚集导入"
+
+msgid "Assigned test-takers"
+msgstr "已被分配的考生"
+
+msgid "Assigned to"
+msgstr "已分配给"
+
+msgid "Attempt %1$s of %2$s"
+msgstr ""
+
+msgid "Attempts"
+msgstr "试的次数"
+
+msgid "Attempts %1$s of %2$s"
+msgstr ""
+
+msgid "Available from %1$s to %2$s"
+msgstr ""
+
+msgid "Available from %s"
+msgstr ""
+
+msgid "Available until %s"
+msgstr ""
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Class successfully created."
+msgstr ""
+
+msgid "Create a new delivery"
+msgstr "创建一个新的输送"
+
+msgid "Create a test"
+msgstr "创建考试"
+
+#, tao-public
+msgid "Delete"
+msgstr "删除"
+
+msgid "Deleting of \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Deliveries"
+msgstr "递送"
+
+#, tao-public
+msgid "Deliveries library"
+msgstr "递送书库"
+
+msgid "Delivery \"%s\" successfully imported"
+msgstr ""
+
+msgid "Delivery \'%s\' not found"
+msgstr ""
+
+msgid "Delivery class uri provided is not a valid delivery class."
+msgstr ""
+
+msgid "Delivery is assigned to %s test-takers."
+msgstr ""
+
+msgid "Delivery is not assigned to any test-taker."
+msgstr "此输送没被分配给任何的考生。"
+
+msgid "Delivery saved"
+msgstr "递送已储存"
+
+msgid "Delivery with label \"%s\" not found"
+msgstr ""
+
+msgid "Directory %s doesn\'t exist"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Excluded test-takers"
+msgstr "被排除的考生"
+
+msgid "Exported %1$s to %2$s"
+msgstr ""
+
+msgid "Exporting %s"
+msgstr ""
+
+msgid "Guest access"
+msgstr ""
+
+msgid "Importing %1$s files into \'%2$s\"
+msgstr ""
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr ""
+
+msgid "Manifest not found in assembly"
+msgstr "清单中未发现集会"
+
+#, tao-public
+msgid "Move"
+msgstr "移动"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+msgid "Multiple delivery class found for label \"%s\": %s"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "新类别"
+
+#, tao-public
+msgid "New delivery"
+msgstr "新的递送"
+
+msgid "No attempt has been started yet."
+msgstr "没有已开始的考试。"
+
+msgid "No information available"
+msgstr "没资讯可提供"
+
+#, tao-public
+msgid "Prepare, publish deliveries sessions."
+msgstr "预备，发布递送时域。"
+
+#, tao-public
+msgid "Properties"
+msgstr "属性"
+
+#, tao-public
+msgid "Publish"
+msgstr ""
+
+msgid "Publish \"%s\" to"
+msgstr ""
+
+msgid "Publish the test"
+msgstr ""
+
+msgid "Published on %2s"
+msgstr ""
+
+msgid "Publishing of \"%s"
+msgstr ""
+
+msgid "Save"
+msgstr "储存"
+
+msgid "Select the test"
+msgstr ""
+
+msgid "Select the test you want to publish to the test-takers"
+msgstr ""
+
+msgid "Selection saved successfully"
+msgstr "所选的已储存成功"
+
+msgid "TAO Guest"
+msgstr ""
+
+msgid "TAO Guest Access"
+msgstr ""
+
+msgid "Test publishing failed because \"%s\" is empty."
+msgstr ""
+
+msgid "Test-takers"
+msgstr "考生"
+
+#, tao-public
+msgid "Tests"
+msgstr ""
+
+msgid "The shared filesystem parameter should be a boolean value 'true' or 'false'."
+msgstr ""
+
+msgid "There are currently %s attempts"
+msgstr ""
+
+msgid "There are currently no tests available to publish."
+msgstr "现在没有考试可以发布。"
+
+msgid "There is currently 1 attempt"
+msgstr "考生已试了1次"
+
+msgid "Unable to import Archive"
+msgstr ""
+
+msgid "Unable to load tests"
+msgstr ""
+
+msgid "Unknown error during import"
+msgstr ""
+
+msgid "unlimited"
+msgstr ""
+
+msgid "Usage: %s ASSEMBLY_FILE [ASSEMBLY_FILE_2] [ASSEMBLY_FILE_3] ..."
+msgstr ""
+
+msgid "Usage: %s DELIVERY_CLASS_URI OUTPUT_DIRECTORY"
+msgstr ""
+
+msgid "Usage: %s DELIVERY_URI OUTPUT_FILE [USE_SHARED_FILESYSTEM]"
+msgstr ""
+

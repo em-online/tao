@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:13:37\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: cs-CZ\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: cs-CZ\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr ""
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr ""
+
+#, tao-public
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this list"
+msgstr ""
+
+msgid "Edit this list"
+msgstr ""
+
+#, tao-public
+msgid "Edit Tree"
+msgstr ""
+
+msgid "element"
+msgstr ""
+
+msgid "Element deleted"
+msgstr ""
+
+msgid "Element not deleted"
+msgstr ""
+
+#, tao-public
+msgid "Export"
+msgstr ""
+
+#, tao-public
+msgid "Import"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "List deleted"
+msgstr ""
+
+msgid "List not deleted"
+msgstr ""
+
+msgid "List not saved"
+msgstr ""
+
+msgid "List saved"
+msgstr ""
+
+#, tao-public
+msgid "Lists"
+msgstr ""
+
+msgid "Please confirm you want to delete this list element."
+msgstr ""
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr ""
+
+#, tao-public
+msgid "Properties"
+msgstr ""
+
+#, tao-public
+msgid "Settings"
+msgstr ""
+
+msgid "TAO Back Office"
+msgstr ""
+
+msgid "Test Developers and Administrators"
+msgstr ""
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr ""
+
+msgid "View tree"
+msgstr ""
+
+#, tao-public
+msgid "View Tree"
+msgstr ""
+

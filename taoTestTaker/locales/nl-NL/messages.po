@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:43\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: nl-NL\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: nl-NL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Edit subject"
+msgstr "Object bewerken"
+
+#, tao-public
+msgid "Export"
+msgstr "Exporteer"
+
+#, tao-public
+msgid "Import"
+msgstr "Importeer"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage test takers"
+msgstr "Beheer kandidaten"
+
+#, tao-public
+msgid "Move"
+msgstr "Verplaats"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Nieuwe klasse"
+
+#, tao-public
+msgid "New test-taker"
+msgstr "Nieuwe kandidaat"
+
+#, tao-public
+msgid "Properties"
+msgstr "Eigenschappen"
+
+#, tao-public
+msgid "Record and manage test takers."
+msgstr "Vastleggen en beheren van kandidaten"
+
+msgid "Test taker saved"
+msgstr "Kandidaat opgeslagen"
+
+msgid "Test takers"
+msgstr "Kandidaat"
+
+#, tao-public
+msgid "Test takers library"
+msgstr "Kandidaten bank"
+
+msgid "Test takers may be assigned to sets according to the relevant assessment context (Human resources management, education, edumetric monitoring, etc.)."
+msgstr "Kandidaten kunnen aan sets worden toegewezen in relatie tot de relevante assessment context (HRM, onderwijs, edumetrische monitoring, enz.)"
+
+#, tao-public
+msgid "Test-takers"
+msgstr "Kandidaten"
+
+msgid "The Test takers module allows to record and manage  test takers."
+msgstr "De kandidaten module geeft u de mogelijkheid om kandidaten toe te voegen en te beheren."
+

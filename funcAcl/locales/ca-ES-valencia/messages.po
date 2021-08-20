@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:55\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ca-ES-valencia\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ca-ES-valencia\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "Available roles"
+msgstr "Rols disponibles"
+
+msgid "Grant access rights to the action"
+msgstr "Acorda drets d'accés per a l'acció"
+
+msgid "Grant access rights to the entire controller"
+msgstr "Acorda drets d'accés per al controlador complet"
+
+msgid "Grant access rights to the entire extension"
+msgstr "Acorda drets d'accés per a l'extensió completa"
+
+msgid "includes"
+msgstr "conté"
+
+msgid "Inherited access to the action"
+msgstr "Accés heretat per a l'acció"
+
+msgid "Inherited access to the controller"
+msgstr "Accés heretat per al controlador"
+
+msgid "Inherited access to the extension"
+msgstr "Accés heretat per a l'extensió"
+
+#, tao-public
+msgid "Manage Access Rights"
+msgstr "Gestiona els drets d'accés"
+
+msgid "Modules"
+msgstr "Mòduls"
+
+msgid "Revoke access rights to the action"
+msgstr "Revoca els drets d'accés per a l'acció"
+
+msgid "Revoke access rights to the entire controller"
+msgstr "Revoca els drets d'accés per al controlador complet"
+
+msgid "Revoke access rights to the entire extension"
+msgstr "Revoca els drets d'accés per a l'extensió completa"
+
+msgid "Roles"
+msgstr "Rols"
+
+#, tao-public
+msgid "Users"
+msgstr "Usuaris"
+

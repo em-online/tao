@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:03\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: uk-UA\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: uk-UA\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Edit subject"
+msgstr "Редагувати тему"
+
+#, tao-public
+msgid "Export"
+msgstr "Експорт"
+
+#, tao-public
+msgid "Import"
+msgstr "Імпортувати"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage test takers"
+msgstr "Менеджер тестовими програмами"
+
+#, tao-public
+msgid "Move"
+msgstr "Переміщення"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Новий клас"
+
+#, tao-public
+msgid "New test-taker"
+msgstr "Новий тестувальник"
+
+#, tao-public
+msgid "Properties"
+msgstr "Властивості"
+
+#, tao-public
+msgid "Record and manage test takers."
+msgstr "Записывайте и управляйте тестировщиками."
+
+msgid "Test taker saved"
+msgstr "Тестовий засіб збережено"
+
+msgid "Test takers"
+msgstr "Тестувальники"
+
+#, tao-public
+msgid "Test takers library"
+msgstr "Бібліотека для тестування"
+
+msgid "Test takers may be assigned to sets according to the relevant assessment context (Human resources management, education, edumetric monitoring, etc.)."
+msgstr "Тестувальники можуть бути призначені для наборів відповідно до відповідного контексту оцінки (управління людськими ресурсами, навчання, едмметричний моніторинг тощо)."
+
+#, tao-public
+msgid "Test-takers"
+msgstr "Тестувальники"
+
+msgid "The Test takers module allows to record and manage  test takers."
+msgstr "Модуль «Тестування» дозволяє записувати та керувати учасниками тестування."
+

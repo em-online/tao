@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:31\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ja-JP\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ja-JP\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s completed"
+msgstr ""
+
+msgid "%s test-taker(s) are excluded."
+msgstr "%s 受験者を除外"
+
+msgid "Access deliveries as a guest"
+msgstr "ゲストとしてデリバリーにアクセス"
+
+msgid "An error occured during the import"
+msgstr "インポート中にエラーが発生しました。"
+
+msgid "Assembly"
+msgstr "アセンブリ"
+
+msgid "Assembly import"
+msgstr "アセンブリインポート"
+
+msgid "Assigned test-takers"
+msgstr "割り当て受験者"
+
+msgid "Assigned to"
+msgstr "割り当て"
+
+msgid "Attempt %1$s of %2$s"
+msgstr "試行 %1$s ／ %2$s"
+
+msgid "Attempts"
+msgstr "試行"
+
+msgid "Attempts %1$s of %2$s"
+msgstr "試行 %1$s ／ %2$s"
+
+msgid "Available from %1$s to %2$s"
+msgstr "%1$s から %2$s まで利用可能"
+
+msgid "Available from %s"
+msgstr "%s から利用可能"
+
+msgid "Available until %s"
+msgstr "%s まで利用可能"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Class successfully created."
+msgstr ""
+
+msgid "Create a new delivery"
+msgstr "新しいデリバリーを作成"
+
+msgid "Create a test"
+msgstr "テスト作成"
+
+#, tao-public
+msgid "Delete"
+msgstr "削除"
+
+msgid "Deleting of \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Deliveries"
+msgstr "デリバリー"
+
+#, tao-public
+msgid "Deliveries library"
+msgstr "デリバリーライブラリ"
+
+msgid "Delivery \"%s\" successfully imported"
+msgstr "デリバリー \"%s\" のインポートに成功"
+
+msgid "Delivery \'%s\' not found"
+msgstr ""
+
+msgid "Delivery class uri provided is not a valid delivery class."
+msgstr ""
+
+msgid "Delivery is assigned to %s test-takers."
+msgstr "デリバリーは %s 人の受験者に割り当てられました。"
+
+msgid "Delivery is not assigned to any test-taker."
+msgstr "デリバリーは受験者に割り当てられていません。"
+
+msgid "Delivery saved"
+msgstr "デリバリーは保存されました"
+
+msgid "Delivery with label \"%s\" not found"
+msgstr ""
+
+msgid "Directory %s doesn\'t exist"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Excluded test-takers"
+msgstr "除外された受験者"
+
+msgid "Exported %1$s to %2$s"
+msgstr "%1$s を %2$s にエクスポート"
+
+msgid "Exporting %s"
+msgstr "%s エクスポート中"
+
+msgid "Guest access"
+msgstr "ゲストアクセス"
+
+msgid "Importing %1$s files into \'%2$s\"
+msgstr ""
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr ""
+
+msgid "Manifest not found in assembly"
+msgstr "アセンブリにマニュフェストがありません"
+
+#, tao-public
+msgid "Move"
+msgstr "移動"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+msgid "Multiple delivery class found for label \"%s\": %s"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "新規フォルダー"
+
+#, tao-public
+msgid "New delivery"
+msgstr "新規デリバリー"
+
+msgid "No attempt has been started yet."
+msgstr "まだ試行されていません。"
+
+msgid "No information available"
+msgstr "利用可能なインフォメーションはありません"
+
+#, tao-public
+msgid "Prepare, publish deliveries sessions."
+msgstr "デリバリーセッションの準備，公開します。"
+
+#, tao-public
+msgid "Properties"
+msgstr "プロパティ"
+
+#, tao-public
+msgid "Publish"
+msgstr ""
+
+msgid "Publish \"%s\" to"
+msgstr ""
+
+msgid "Publish the test"
+msgstr ""
+
+msgid "Published on %2s"
+msgstr "%2s に公開"
+
+msgid "Publishing of \"%s"
+msgstr ""
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select the test"
+msgstr ""
+
+msgid "Select the test you want to publish to the test-takers"
+msgstr ""
+
+msgid "Selection saved successfully"
+msgstr "選択が正常に保存されました"
+
+msgid "TAO Guest"
+msgstr "TAO ゲスト"
+
+msgid "TAO Guest Access"
+msgstr "TAO ゲストアクセス"
+
+msgid "Test publishing failed because \"%s\" is empty."
+msgstr ""
+
+msgid "Test-takers"
+msgstr "受験者"
+
+#, tao-public
+msgid "Tests"
+msgstr ""
+
+msgid "The shared filesystem parameter should be a boolean value 'true' or 'false'."
+msgstr ""
+
+msgid "There are currently %s attempts"
+msgstr "%s 回実施されました"
+
+msgid "There are currently no tests available to publish."
+msgstr "現在公開可能なテストはありません。"
+
+msgid "There is currently 1 attempt"
+msgstr "1回実施されました"
+
+msgid "Unable to import Archive"
+msgstr "アーカイブをインポートできません。"
+
+msgid "Unable to load tests"
+msgstr ""
+
+msgid "Unknown error during import"
+msgstr ""
+
+msgid "unlimited"
+msgstr "制限なし"
+
+msgid "Usage: %s ASSEMBLY_FILE [ASSEMBLY_FILE_2] [ASSEMBLY_FILE_3] ..."
+msgstr "使い方：%s ASSEMBLY_FILE [ASSEMBLY_FILE_2] [ASSEMBLY_FILE_3] ..."
+
+msgid "Usage: %s DELIVERY_CLASS_URI OUTPUT_DIRECTORY"
+msgstr "使い方: %s DELIVERY_CLASS_URI OUTPUT_DIRECTORY"
+
+msgid "Usage: %s DELIVERY_URI OUTPUT_FILE [USE_SHARED_FILESYSTEM]"
+msgstr ""
+

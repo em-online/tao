@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add to group"
+msgstr "Добавить в группу"
+
+#, tao-public
+msgid "Copy To"
+msgstr ""
+
+#, tao-public
+msgid "Delete"
+msgstr "Удалить"
+
+#, tao-public
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Edit group"
+msgstr "Редактировать группу"
+
+#, tao-public
+msgid "Export"
+msgstr "Экспортировать"
+
+msgid "Group saved"
+msgstr "Группа сохранена"
+
+#, tao-public
+msgid "Group test takers according to global features and classifications."
+msgstr "Группировать тестируемых в соответствии с глобальными особенностями и классификациями."
+
+msgid "Group uri is not valid"
+msgstr ""
+
+#, tao-public
+msgid "Groups"
+msgstr "Группы"
+
+#, tao-public
+msgid "Groups library"
+msgstr "Библиотека групп"
+
+#, tao-public
+msgid "Import"
+msgstr "Импортировать"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage groups"
+msgstr "Управление группами"
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Move"
+msgstr "Передвигать"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Новый класс"
+
+#, tao-public
+msgid "New Group"
+msgstr "Новая группа"
+
+#, tao-public
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Select group test takers"
+msgstr "Выбирать группу тестируемых "
+
+msgid "The Groups module allows to group Test takers according to global features and classifications."
+msgstr "Модуль Группы позволяет группировать тестируемых в соответствии с глобальными функциями и классификациями."
+
+msgid "Unable to create new group"
+msgstr ""
+
+msgid "Unable to delete group"
+msgstr ""
+

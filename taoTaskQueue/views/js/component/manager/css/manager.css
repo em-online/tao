@@ -1,0 +1,3 @@
+.task-manager-container{cursor:pointer;position:relative;width:40px;height:64px;background-color:transparent;padding:22px 8px 0px}.task-manager-container:hover{-webkit-transition:background-color 0.2s ease;-moz-transition:background-color 0.2s ease;-ms-transition:background-color 0.2s ease;-o-transition:background-color 0.2s ease;transition:background-color 0.2s ease;background-color:rgba(8,112,138,0.5);text-decoration:none}.dark-bar nav .settings-menu:hover ~ .persistent-menu .task-listing .box{box-shadow:none;border-color:#eee}.dark-bar nav .settings-menu:hover ~ .persistent-menu .task-listing .box .arrow{display:none}
+
+/*# sourceMappingURL=manager.css.map */

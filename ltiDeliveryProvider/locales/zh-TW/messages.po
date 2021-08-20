@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:13:09\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: zh-TW\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: zh-TW\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s Tool Provider"
+msgstr ""
+
+msgid "%s\" has been configured:"
+msgstr ""
+
+msgid "Access to this functionality is restricted"
+msgstr "此功能被限制使用"
+
+msgid "Access to this functionality is restricted to students"
+msgstr "學生被限制使用此功能"
+
+msgid "An unusually high number of people are testing right now, your test will launch in a few moments to ensure that it runs smoothly. Thanks for your patience!"
+msgstr ""
+
+msgid "Attempts limit has been reached."
+msgstr ""
+
+msgid "Available Deliveries"
+msgstr "可用的遞送"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Click on the back button to return to %s."
+msgstr "單擊返回按鈕可以返回到 %s."
+
+msgid "Click on the back button to return."
+msgstr "單擊返回按鈕可以返回。"
+
+msgid "Configured LTI Link"
+msgstr "已設定 LTI 連結"
+
+msgid "Copy and paste the following URL into your LTI compatible tool consumer."
+msgstr "複製並粘貼以下網址到您LTI兼容的工具消費者。"
+
+#, tao-public
+msgid "Deliveries"
+msgstr "遞送"
+
+msgid "Delivery does not exist. Please contact your instructor."
+msgstr ""
+
+msgid "Executions"
+msgstr "執行"
+
+msgid "Launch URL"
+msgstr "啟動 URL"
+
+#, tao-public
+msgid "LTI"
+msgstr "LTI"
+
+msgid "max_attempts\" variable must me numeric."
+msgstr ""
+
+msgid "No deliveries available"
+msgstr "沒有可使用的遞送"
+
+msgid "No LTI consumers defined"
+msgstr "沒有以定義的 LTI 消費者"
+
+msgid "no monitoring"
+msgstr "無監控"
+
+msgid "Please select a delivery"
+msgstr "請選擇一個遞送"
+
+msgid "Please select a delivery for \"%s"
+msgstr "請為\"%s\"選擇一個遞送"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Repeat the test"
+msgstr "重複考試"
+
+msgid "Retake the test"
+msgstr "重新考試"
+
+msgid "Return to %s."
+msgstr "返回到 %s."
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "Select Delivery"
+msgstr "選擇遞送"
+
+msgid "Selected Delivery"
+msgstr "已選擇的遞送"
+
+msgid "Test Launch Queue"
+msgstr ""
+
+msgid "Thank you"
+msgstr "謝謝您"
+
+msgid "This tool has been configured:"
+msgstr "這個工具已被設定："
+
+msgid "This tool has not yet been configured, please contact your instructor"
+msgstr "這個工具還未被設定，請聯絡您的教師"
+
+msgid "Tool consumer(s)"
+msgstr "工具消費者"
+
+msgid "User is not authorized to run this delivery"
+msgstr ""
+
+msgid "Wrong value of \"secure\" variable."
+msgstr ""
+
+msgid "You have already taken this test."
+msgstr "你已經使用過這項考試"
+
+msgid "You have finished the test!"
+msgstr "您已完成考試"
+

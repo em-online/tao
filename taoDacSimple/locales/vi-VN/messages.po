@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:07:39\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: vi-VN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: vi-VN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Access can not be revoked for the current user."
+msgstr ""
+
+msgid "Access control"
+msgstr "Kiểm soát truy cập"
+
+msgid "Access Permissions for"
+msgstr "Quyền truy cập cho"
+
+msgid "Actions"
+msgstr "Hành động"
+
+msgid "Add role(s)"
+msgstr "Thêm vai trò"
+
+msgid "Add user(s)"
+msgstr "Thêm ngwif dùng"
+
+msgid "grant"
+msgstr "trao "
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Permissions saved"
+msgstr "Đã lưu lại quyền"
+
+msgid "read"
+msgstr "đọc"
+
+msgid "Recursive"
+msgstr ""
+
+msgid "Remove"
+msgstr "Gỡ bỏ"
+
+msgid "role"
+msgstr "vai trò"
+
+msgid "Roles"
+msgstr "Vai trò"
+
+msgid "Save"
+msgstr "Lưu lại"
+
+msgid "Type"
+msgstr "Kiểu"
+
+msgid "user"
+msgstr "người dùng"
+
+msgid "Users"
+msgstr "Người dùng"
+
+msgid "write"
+msgstr "viết"
+
+msgid "You must have one role or user that have the manage permission on this element."
+msgstr "Bạn phải có một vai trò hoặc người dùng có quyền quản lý đối với phần tử này."
+

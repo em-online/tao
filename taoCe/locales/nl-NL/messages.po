@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: nl-NL\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: nl-NL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Voeg kandidaten toe aan groepen om toetsen toe te wijzen en groepsresultaat te meten. Groeperen van kandidaten geeft i de mogelijkheid om specifieke populaties aan te maken met specifiek karakteristieken. U kunt die karakteristieken bepalen door uw eigen groepsbeschrijvingen aan te maken."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Wees gewaarschuwd dat elke volgende wijziging aan de inhoud van de toets niet wordt meegenomen, totdat u de toets opnieuw publiceert en een nieuw pakketje creëert."
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Bouw een aangepaste tabel met alleen die specifieke resultaten waarin u geïnteresseerd bent en exporteer die als een CSV bestand."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Stel toetsen samen en beheer deze met items die u voorheen heeft geconstrueerd of geïmporteerd."
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Stel uw toets samen door slepen en laten vallen van de geselecteerde items in het toets paneel."
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Kies uit 17 verschillende interactie typen, waaronder:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Beheer hoe u toetsen publiceert en uitgeeft."
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "Omgekeerd kunt u ook items exporteren vanuit TAO en hergebruiken in andere QTI-compliant programma's."
+
+msgid "Create and define test-taker records"
+msgstr "Creëer en definieer kandidaat records"
+
+msgid "Create Items"
+msgstr "Creëer items"
+
+msgid "Create QTI Tests"
+msgstr "Creëer QTI toets"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Creëer, preview en organiseer individuele items voor u ze aan een test toevoegt."
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "Standaard eigenschappen van de kandidaten zijn hun naam en de taal van de toetsinterface. U kunt deze records aanpassen door het toevoegen van elk gegeven dat u nodig hebt, zoals geboortedatum, geslacht, enz."
+
+msgid "Define a Delivery"
+msgstr "Definieer een pakketje"
+
+msgid "Define the Test Parameters"
+msgstr "Definieer de toets parameters "
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Stel de volgorde vast van uw items. Items kunnen in een willekeurige of in een specifieke volgorde worden getoond."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Ontdek hoe eenvoudig het is om een toets samen te stellen met TAO!"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "Toon dit scherm niet opnieuw bij het openen van TAO."
+
+msgid "Export Test Results"
+msgstr "Toetsresultaten exporteren"
+
+msgid "For example:"
+msgstr "Bijvoorbeeld:"
+
+msgid "Get started with TAO"
+msgstr "Begin met Tao"
+
+msgid "Go to "
+msgstr "Ga naar"
+
+msgid "Groups"
+msgstr "Groepen"
+
+#, tao-public
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Hint: \"Eenvoudige\" toetsen zonder enige hiërarchie zijn ook beschikbaar. Houd er rekening mee dat Open Web Items (OWI) alleen in eenvoudige toets modus kunnen worden opgeleverd."
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Hint: U kunt dit overzicht te allen tijde bereiken middels de Help button."
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Indien uw wensen verder gaan dan wat standaard QTI toestaat, kunt u krachtige en geavanceerde items aanmaken door gebruik te maken van het TAO Open Web Item formaat."
+
+msgid "Import / Export Tests"
+msgstr "Importeer/exporteer toetsen"
+
+msgid "Import and Export Items"
+msgstr "Importeer en exporteer items"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "Importeer elk item dat compliant is met de QTI (Question and Test Interoperability) 2.1 standaard."
+
+msgid "Import test-takers"
+msgstr "Importeer kandidaten"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "Behalve dat u kandidaten individueel handmatig kunt aanmaken met hun corresponderende data, kunt u deze ook massaal aanmaken door ze te importeren met een CSV file."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "In TAO worden toetsen toegewezen aan groepen."
+
+msgid "Item(s)"
+msgstr "Item(s)"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "Manage Reports"
+msgstr "Beheer rapporten"
+
+msgid "Multiple choice"
+msgstr "Meerkeuzevragen"
+
+msgid "Order of items – sequential or random"
+msgstr "Volgorde van items – volgordelijk of willekeurig"
+
+msgid "Overview"
+msgstr "Overzicht"
+
+msgid "Preview Items"
+msgstr "Voorbeeld van item(s)"
+
+msgid "Publish"
+msgstr "Uitgeven"
+
+msgid "QTI Test Structure"
+msgstr "QTI toets structuur"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Registreer uw kandidaten, beheer hun persoonlijk gegevens en wijs ze toe aan groepen."
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Zie hoe uw items getoond zullen worden aan kandidaten voordat ze de toets daadwerkelijk afnemen. Voorbeelden zijn zowel voor desktop als mobiele apparaten beschikbaar. "
+
+msgid "Select an icon on the left to find out more."
+msgstr "Selecteer links een icon voor meer informatie."
+
+msgid "Select the delivery dates."
+msgstr "Selecteer de uitgifte data."
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Selecteer de groep(en) die de toets gaan maken. U kunt individuele kandidaten uitsluiten, zelfs als ze lid zijn van de groep."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Selecteer de toets die u wilt uitgeven aan uw groep(en) van kandidaten. Publiceer deze om hem online beschikbaar te maken."
+
+msgid "selection"
+msgstr "selectie"
+
+msgid "Single choice"
+msgstr "Enkele keus"
+
+msgid "Slider"
+msgstr "Schuifknop"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Geef aan hoe vaak een kandidaat een toets mag herhalen."
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Bewaar, beheer en analyseer toets resultaten met gemak."
+
+msgid "Test"
+msgstr "Toets"
+
+msgid "Test part(s)"
+msgstr "Toets onderde(e)l(en)"
+
+msgid "Test section(s)"
+msgstr "Test sectie(s)"
+
+msgid "Test-takers"
+msgstr "Kandidaten"
+
+msgid "Tests"
+msgstr "Toetsen"
+
+msgid "Text entry"
+msgstr "Tekstinvoer"
+
+msgid "Time limit"
+msgstr "Tijdslimiet"
+
+msgid "To create a QTI test:"
+msgstr "Creëer een QTI toets:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Gebruik groepen om kandidaten te beheren"
+
+msgid "Videos"
+msgstr "Video's"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Bekijk de prestatie van een individuele kandidaat – Of het nu een enkele toets betreft of een scala aan toetsen."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "U kunt ook rich media content toevoegen aan uw items, zoals foto's wiskundige formules en video."
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "U kunt toetsen creëren in overeenstemming met de QTI 2.1 standaard. Een QTI toets is als volgt gestructureerd:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "U kunt toetsen importeren vanuit elke extern programma welke QTI compliant is. De items zullen automatisch worden toegevoegd aan de Itembank. Omgekeerd kunnen toetsen geëxporteerd worden uit TAO om te gebruiken met elke QTI compliant speler."
+
+msgid "You can specify test settings such as:"
+msgstr "U kunt toets instellingen specificeren zoals:"
+

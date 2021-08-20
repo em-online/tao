@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " . \common_Utils::toPHPVariableString($this->getDescription()) . "
+msgstr ""
+
+msgid " . \common_Utils::toPHPVariableString($this->getLabel()) . "
+msgstr ""
+
+#, tao-public
+msgid "Authoring"
+msgstr "Редактирование"
+
+#, tao-public
+msgid "Combine a selection of items into tests."
+msgstr "Объедините выбранные элементы в тест"
+
+#, tao-public
+msgid "Copy To"
+msgstr ""
+
+#, tao-public
+msgid "Delete"
+msgstr "Удалить"
+
+#, tao-public
+msgid "Duplicate"
+msgstr "Создать копию"
+
+#, tao-public
+msgid "Export"
+msgstr "Экспортировать"
+
+#, tao-public
+msgid "Import"
+msgstr "Импортировать"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Manage tests"
+msgstr "Управлять тестами"
+
+#, tao-public
+msgid "Move"
+msgstr "Переместить"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Новый класс"
+
+#, tao-public
+msgid "New test"
+msgstr "Новый тест"
+
+#, tao-public
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Security plugins"
+msgstr ""
+
+msgid "Set of plugins with \'security\' category"
+msgstr ""
+
+msgid "Test properties"
+msgstr "Свойства теста"
+
+msgid "Test saved"
+msgstr "Тест сохранен"
+
+#, tao-public
+msgid "Tests"
+msgstr "Тесты"
+
+#, tao-public
+msgid "Tests library"
+msgstr "Библиотека тестов"
+
+msgid "The Test mode (sequencing, scoring, cumulating, etc.) and layout are also configured here."
+msgstr "Режим теста (упорядочивание, оценка, накопление и т.д.) и шаблон также могут быть сконфигурированы тут."
+
+msgid "The Tests module allows to combine a selection of Items to a Test."
+msgstr "Модуль Тесты позволяет собирать выбранные задания в тест."
+
+msgid "You checked out this test %2s ago"
+msgstr "Вы прошли этот тест %2s назад"
+

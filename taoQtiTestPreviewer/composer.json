@@ -1,0 +1,38 @@
+{
+  "name": "oat-sa/extension-tao-testqti-previewer",
+  "description": "extension that provides QTI test previewer",
+  "type": "tao-extension",
+  "authors": [
+    {
+      "name": "Open Assessment Technologies SA"
+    }
+  ],
+  "keywords": [
+    "tao",
+    "oat",
+    "QTI",
+    "previewer",
+    "computer-based-assessment"
+  ],
+  "homepage": "http://www.taotesting.com",
+  "support": {
+    "forum": "http://forum.taotesting.com",
+    "issues": "http://forge.taotesting.com"
+  },
+  "license": [
+    "GPL-2.0-only"
+  ],
+  "extra": {
+    "tao-extension-name": "taoQtiTestPreviewer"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "oat-sa/oatbox-extension-installer": "~1.1||dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "oat\\taoQtiTestPreviewer\\": ""
+    }
+  }
+}
+

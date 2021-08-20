@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:06:30\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ja-JP\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ja-JP\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid " Fill in the gaps in a text from a set of choices."
+msgstr " 空欄に当てはまる回答を選択肢から選んでください"
+
+msgid " For Resource "
+msgstr ""
+
+msgid " or "
+msgstr " または "
+
+msgid "%d characters allowed"
+msgstr ""
+
+msgid "%d Item(s) of %d imported from the given IMS QTI Package."
+msgstr "IMS QTI パッケージから%dの%dアイテムをインポートします"
+
+msgid "%d/%d"
+msgstr ""
+
+msgid "%s metadata values found in source by extractor(s)."
+msgstr ""
+
+msgid "-- Any kind of file --"
+msgstr "-- すべてのファイル --"
+
+msgid "1 item imported from the given QTI/APIP XML Item Document."
+msgstr ""
+
+msgid "A choice must be selected"
+msgstr "１つ選択してください"
+
+msgid "A human interpretation of the variable's value."
+msgstr ""
+
+msgid "A QTI component is not supported. The system returned the following error: %s\n"
+""
+msgstr ""
+
+msgid "A rubric block identifies part of an assessmentItem's itemBody that represents instructions to one or more of the actors that view the item. Although rubric blocks are defined as simpleBlocks they must not contain interactions."
+msgstr "ルーブリックブロックはアイテムを表示するアクターの操作を定義するアセスメントアイテムのitemBodyの一部を識別します。ルーブリックブロックはsimpleBlocksのように定義されていますが、それらは操作を含めることはできません。"
+
+msgid "Adapt to screen size"
+msgstr "スクリーンサイズに適応"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add a modal feedback"
+msgstr "モーダルフィードバックを追加"
+
+msgid "Add a QTI/APIP XML Item Document"
+msgstr "QTI/APIP XMLアイテムドキュメントを追加"
+
+msgid "Add a ZIP file containing QTI/APIP items"
+msgstr "QTI/APIPアイテムを含むZIPファイルを追加"
+
+msgid "Add another option"
+msgstr "他のオプションを追加"
+
+msgid "Add choice"
+msgstr "選択肢を追加"
+
+msgid "Add else feedback"
+msgstr "他のフィードバックを追加"
+
+msgid "Add new pairs"
+msgstr "新しいペアを追加します"
+
+msgid "Add Style Sheet"
+msgstr "スタイルシートを追加"
+
+msgid "Alignment"
+msgstr "配置"
+
+msgid "Allow elimination"
+msgstr ""
+
+msgid "Allowed associations"
+msgstr "関連付けを許可"
+
+msgid "Allowed choices"
+msgstr "選択肢の選択回数"
+
+msgid "Allowed number of matches"
+msgstr "マッチングを許可"
+
+msgid "Allowed number of uses"
+msgstr "選択肢の選択回数"
+
+msgid "Alt Text"
+msgstr "代替えテキスト"
+
+msgid "An error occured while exporting an item."
+msgstr "アイテムエキスポート中にエラーが発生しました。"
+
+msgid "An error occured while extracting the ZIP archive representing the IMS Content Package."
+msgstr "IMSコンテンツパッケージのZIPアーカイブを解凍中にエラーが発生しました"
+
+msgid "An error occured while loading a shared stimulus."
+msgstr "シェアドスティミュラスをロード中にエラーが発生しました"
+
+msgid "An error occured while parsing IMS QTI data."
+msgstr "IMS QTIデータを解析中にエラーが発生しました"
+
+msgid "An error occurred at the level of the QTI model."
+msgstr ""
+
+msgid "An unexpected error occured while dealing with Response Processing."
+msgstr "応答処理中に予期しないエラーが発生しました"
+
+msgid "An unexpected error occurred during the import of the IMS QTI Item Package. "
+msgstr ""
+
+msgid "An unexpected error occurred during the import of the IMS QTI Item Package. The system returned the following error: \"%s"
+msgstr ""
+
+msgid "An unexpected error occurred during the import of the QTI Item. The system returned the following error: %s\n"
+""
+msgstr ""
+
+msgid "An unknown error occured while importing the IMS QTI Package with identifier: "
+msgstr ""
+
+msgid "APIP Content Package"
+msgstr "APIPコンテンツパッケージ"
+
+msgid "Apip Package successfully exported."
+msgstr ""
+
+msgid "Arrange a list of choices in the correct order."
+msgstr "正しい順序で選択項目のリストを並べます"
+
+msgid "Associate"
+msgstr "組合せ"
+
+msgid "Associate Interaction"
+msgstr "アソシエートインタラクション"
+
+msgid "association pairs"
+msgstr "組み合わせ"
+
+msgid "at least"
+msgstr "最低"
+
+msgid "Attempting to inject \"%s\" metadata values for target \"%s\" with metadata Injector \"%s\"."
+msgstr ""
+
+msgid "Autostart"
+msgstr "自動起動"
+
+msgid "Back to Manage Items"
+msgstr "アイテム管理に戻る"
+
+msgid "Background color"
+msgstr "背景色"
+
+msgid "Base"
+msgstr ""
+
+msgid "Block"
+msgstr "文字ブロック"
+
+msgid "block"
+msgstr "ブロック"
+
+msgid "Block contains the content (stimulus) of the item such as text or image. It is also required for Inline Interactions."
+msgstr "ブロックは、テキストや画像などの項目のコンテンツ（スティミュラス）が含まれています。また、インライン操作で必要です"
+
+msgid "Border color"
+msgstr "枠の色"
+
+msgid "Browse your computer and select the appropriate file."
+msgstr "コンピュータを参照し、適切なファイルを選択します"
+
+msgid "Browse..."
+msgstr "参照..."
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "Cannot create gap from this selection. Please check that you do not have partially selected elements."
+msgstr ""
+
+msgid "Cannot delete a variable currently used in response processing"
+msgstr ""
+
+msgid "Cannot edit a variable currently used in response processing"
+msgstr ""
+
+msgid "cannot find QTI XML"
+msgstr ""
+
+msgid "cannot load QTI XML"
+msgstr ""
+
+msgid "Cannot locate the file \"%s"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "chars"
+msgstr "文字"
+
+msgid "Choice"
+msgstr "選択"
+
+msgid "Choice Image"
+msgstr "画像の選択"
+
+msgid "Choice Interaction"
+msgstr "操作の選択"
+
+msgid "Choice Properties"
+msgstr "選択肢プロパティ"
+
+msgid "choices"
+msgstr "選択"
+
+msgid "Choices"
+msgstr "選択肢"
+
+msgid "Choose the horizontal alignment for the table."
+msgstr ""
+
+msgid "Class Lookup Successful. Resource \"%s\" will be stored in RDFS Class \"%s\"."
+msgstr ""
+
+msgid "Class successfully created."
+msgstr ""
+
+msgid "Classification entries have to be an instance of ClassificationEntryMetadataValue"
+msgstr ""
+
+msgid "Classification metadata is required to be extracted."
+msgstr ""
+
+msgid "Classification value to map has to a string"
+msgstr ""
+
+msgid "Click again to remove"
+msgstr "削除するには、もう一度クリックします"
+
+msgid "Click to display interaction widget"
+msgstr "インタラクションのウィジェットを表示します"
+
+msgid "Collect open-ended information in a short text input (strings or numeric values)."
+msgstr "短いテキスト入力（文字列または数値）でオープンエンドの情報を収集します"
+
+msgid "Collect open-ended information in one or more text area(s) (strings or numeric values)."
+msgstr "1つまたは複数のテキストエリア（文字列または数値）でオープンエンドの情報を収集します"
+
+msgid "Color Picker"
+msgstr "色の取得"
+
+msgid "Contraints"
+msgstr "制約事項"
+
+msgid "Control the playing parameters (auto-start, loop) of a video or audio file and report the number of time it has been played."
+msgstr "ビデオまたはオーディオファイルの再生パラメータ（オートスタート、ループ）を制御し、それが再生された時間数を報告します"
+
+msgid "Correct"
+msgstr "正しい"
+
+msgid "correct"
+msgstr "正しい"
+
+msgid "Cosinus"
+msgstr ""
+
+msgid "Create assocations and fill the score in the form below"
+msgstr "組合せを作成し、以下のフォームにスコアを記入"
+
+msgid "Create association(s) between areas (hotspots) displayed on a picture."
+msgstr "画面上に表示された領域（ホットスポット）との間の関連を作成します"
+
+msgid "Create association(s) between two sets of choices displayed in a table (row and column)."
+msgstr "テーブル（行と列）に表示される選択肢の2つのセット間の関連を作成します"
+
+msgid "Create gap"
+msgstr "ギャップを作成します"
+
+msgid "Create hottext"
+msgstr "ホットテキストを作成します"
+
+msgid "Create pair(s) from a series of choices."
+msgstr "選択肢からのペアを作成します"
+
+msgid "CSV file"
+msgstr "CSVファイル"
+
+msgid "Current value:"
+msgstr "現在の値:"
+
+msgid "Currently conversion from MathML to LaTeX is not available. Editing MathML here will have the LaTex code discarded."
+msgstr "現在、MathMLからのLaTeXへの変換は使用できません。ここではMathMLを編集、LaTeXコードは廃棄しています"
+
+msgid "custom"
+msgstr ""
+
+msgid "Custom Response Processing Mode"
+msgstr "カスタムレスポンス処理モード"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "default"
+msgstr "デフォルト"
+
+msgid "Define correct response"
+msgstr "正しい解答を設定"
+
+msgid "Define item language."
+msgstr ""
+
+msgid "define prompt"
+msgstr "問題文フィールド"
+
+msgid "Define the correct response."
+msgstr "正解を設定"
+
+msgid "Define whether a choice must be selected by the candidate in order to form a valid response to the interaction."
+msgstr "選択肢は、インタラクションに有効な応答を形​​成するために、候補から選択されな​​ければならないかどうかを定義します。"
+
+msgid "Define whether the item should be time dependent on delivery."
+msgstr "アイテムが制限時間に依存するかどうかを定義します"
+
+msgid "Defined width"
+msgstr "定義された幅"
+
+msgid "Defines the maximum magnitude of numeric outcome variables, the maximum must be a positive value and the minimum may be negative."
+msgstr ""
+
+msgid "delete"
+msgstr "削除"
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete else statement"
+msgstr "その他ステートメントの削除"
+
+msgid "Delete this modal feedback"
+msgstr "このモーダルフィードバックを削除"
+
+msgid "Delimiter"
+msgstr ""
+
+msgid "Description"
+msgstr "解説"
+
+msgid "Disable this stylesheet temporarily"
+msgstr "一時的にこのスタイルシートを無効にします"
+
+msgid "Display"
+msgstr "画面表示"
+
+msgid "Display the choices either horizontally or vertically"
+msgstr ""
+
+msgid "Divide"
+msgstr ""
+
+msgid "Don\'t save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "done"
+msgstr "完了"
+
+msgid "Download this stylesheet"
+msgstr "このスタイルシートをダウンロード"
+
+msgid "Draw a circle on the image"
+msgstr "円を描画"
+
+msgid "Draw a free form on the image"
+msgstr "自由描画"
+
+msgid "Draw a rectangle on the image"
+msgstr "四角を描画"
+
+msgid "Draw an ellipsis on the image"
+msgstr "省略記号を描画"
+
+msgid "Drop the target to select a point"
+msgstr "ポイントを選択するには、ターゲットをドロップしてください。"
+
+msgid "e.g. 13"
+msgstr "例えば13"
+
+msgid "e.g. 960"
+msgstr "例えば960"
+
+msgid "Edit"
+msgstr ""
+
+msgid "edit choices"
+msgstr "選択肢を編集"
+
+msgid "Edit math expression using LaTex type setting system, e.g. e^{i \pi} = -1"
+msgstr ""
+
+msgid "Edit math expression using MathML"
+msgstr "MathMLを利用して数式編集"
+
+msgid "Edit modal feedback"
+msgstr ""
+
+msgid "Edit modal feedback title"
+msgstr "モーダルフィードバックタイトルを編集"
+
+msgid "Edit stylesheet label"
+msgstr "スタイルシートのラベル編集"
+
+msgid "Editing Mode"
+msgstr "編集モード"
+
+msgid "Element Properties"
+msgstr "エレメントのプロパティ"
+
+msgid "elements"
+msgstr "エレメント"
+
+msgid "Eliminate"
+msgstr ""
+
+msgid "Enable the test taker to pause and restart the playing."
+msgstr "一時停止、再起動を受験者に有効にします"
+
+msgid "End Attempt"
+msgstr "エンドアテンプト"
+
+msgid "End Attempt Interaction"
+msgstr "エンドアテンプトインタラクション"
+
+msgid "Enlarge font size"
+msgstr "フォントサイズを拡大"
+
+msgid "Enter a select MIME-type"
+msgstr "MIMEタイプを選択"
+
+msgid "Enter choices…"
+msgstr "選択してください..."
+
+msgid "Enter tooltip content"
+msgstr ""
+
+msgid "Enter tooltip target"
+msgstr ""
+
+msgid "Error on item %1$s : %2$s"
+msgstr ""
+
+msgid "Error on item %s"
+msgstr ""
+
+msgid "Error to export item %s: %s"
+msgstr ""
+
+msgid "Euler\'s constant"
+msgstr ""
+
+msgid "Exponent"
+msgstr ""
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Export APIP 1.0 Package"
+msgstr "APIP 1.0 パッケージをエクスポート"
+
+msgid "Export failed for the item \"%s\": %s"
+msgstr ""
+
+msgid "Export metadata"
+msgstr "メタデータのエクスポート"
+
+msgid "Export metadata item"
+msgstr "メタデータアイテムのエクスポート"
+
+msgid "Export QTI 2.1 Package"
+msgstr "QTI 2.1 パッケージをエクスポート"
+
+msgid "Export QTI 2.2 Package"
+msgstr ""
+
+msgid "Extended Text"
+msgstr "記述式"
+
+msgid "Extended Text Interaction"
+msgstr "長文問題"
+
+msgid "Fail to export item"
+msgstr ""
+
+msgid "Failed to publish %1$s in %2$s"
+msgstr "%2$sに %1$s の公開失敗"
+
+msgid "Failed to save item"
+msgstr "アイテムの保存に失敗しました"
+
+msgid "Feedback"
+msgstr "フィードバック"
+
+msgid "Feedback Style"
+msgstr "フィードバックスタイル"
+
+msgid "Field"
+msgstr ""
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "File name"
+msgstr "ファイル名"
+
+msgid "File Upload"
+msgstr "アップロードファイル"
+
+msgid "File Upload Interaction"
+msgstr "ファイルアップロード操作"
+
+msgid "Fill in the gaps on a picture with a set of image choices."
+msgstr "選択肢のイメージから画像上の空白を埋めなさい"
+
+msgid "Flash video"
+msgstr "Flash 動画"
+
+msgid "Font family"
+msgstr "フォントファミリ"
+
+msgid "Font size"
+msgstr "フォントサイズ"
+
+msgid "Format"
+msgstr "書式"
+
+msgid "Fraction"
+msgstr ""
+
+msgid "Gap"
+msgstr "空白部分"
+
+msgid "Gap Match"
+msgstr "穴埋め"
+
+msgid "Gap Match Interaction"
+msgstr "穴埋め問題"
+
+msgid "GIF image"
+msgstr "GIF 画像"
+
+msgid "Graphic Associate Interaction"
+msgstr "画像組み合わせ操作"
+
+msgid "Graphic Gap Match Interaction"
+msgstr "画像穴埋め操作"
+
+msgid "Graphic Order Interaction"
+msgstr "画像並べ替え操作"
+
+msgid "Greater than or equal"
+msgstr ""
+
+msgid "Guard for resource \"%s\"..."
+msgstr ""
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Hotspot"
+msgstr "ホットスポット"
+
+msgid "Hotspot Interaction"
+msgstr "ホットスポット操作"
+
+msgid "Hottext"
+msgstr "ホットテキスト"
+
+msgid "Hottext Interaction"
+msgstr "ホットテキスト操作"
+
+msgid "How the math expression should be displayed."
+msgstr "どのように数式が表示されるのでしょうか"
+
+msgid "How the math expression should be edited"
+msgstr "どのように数式を編集できるのでしょうか"
+
+msgid "identical pair already exists"
+msgstr "同一のペアがすでに存在しています"
+
+msgid "Identifier"
+msgstr "識別子"
+
+msgid "identifier"
+msgstr "識別子"
+
+msgid "identifier already taken"
+msgstr ""
+
+msgid "If given, the pattern mask specifies a regular expression that the candidate's response must match in order to be considered valid"
+msgstr "指定された場合、パターンマスクは、候補者の応答の順番が一致しなければならない正規表現が有効になります。"
+
+msgid "If the string interaction is bound to a numeric response variable then the base attribute must be used to set the number base in which to interpret the value entered by the candidate."
+msgstr "文字列入力が数値応答変数にバインドされている場合は、基本属性は、候補者によって入力された値を解釈する中で基数を設定するために使用する必要があります。"
+
+msgid "If the variable value is a float and powerForm is set to 'false', the variable will be rendered using the 'e' or 'E' format. If the powerform is set to 'true', the form 'e+n' is changed to 'x 10n'."
+msgstr ""
+
+msgid "If this box is checked the student will be able to eliminate choices."
+msgstr ""
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import a QTI/APIP Content Package"
+msgstr "QTI/APIPコンテンツパッケージのインポート"
+
+msgid "Import a QTI/APIP XML Item Document"
+msgstr "QTI/APIP XMLアイテムドキュメントのインポート"
+
+msgid "Import QTI ITEM into \"%s"
+msgstr ""
+
+msgid "IMS QTI Item referenced as \"%s\" contains a portable element and cannot be imported."
+msgstr ""
+
+msgid "IMS QTI Item referenced as \"%s\" in the IMS Manifest file could not be imported."
+msgstr "IMSマニフェストファイル \"%s\"のIMS QTIアイテムはインポートできませんでした"
+
+msgid "In Progress"
+msgstr ""
+
+msgid "In seconds. Delay during which the replay of the media is allowed. Once reached, the media is disabled and cannot be played anymore."
+msgstr ""
+
+msgid "In visual environments, string interactions are typically represented by empty boxes into which the candidate writes or types.  Delivery engines should use the value of this attribute (if provided) instead of their default placeholder text when this is required."
+msgstr "文字列形式では、空白のボックスに受験者が書き込むか入力を行います。必須フィールドである場合、デリバリーエンジンは、代替テキストのかわりにこの属性値を使います。"
+
+msgid "incorrect"
+msgstr "不正解"
+
+msgid "Index"
+msgstr ""
+
+msgid "Infinity"
+msgstr ""
+
+msgid "inline"
+msgstr "インライン"
+
+msgid "Inline Choice"
+msgstr "選択肢"
+
+msgid "Inline Choice Interaction"
+msgstr "インライン選択肢"
+
+msgid "Inline interactions need to be inserted into a text block."
+msgstr "インライン操作は、文字ブロックに挿入する必要があります"
+
+msgid "Interaction Background"
+msgstr "問題の背景画像"
+
+msgid "Interaction Properties"
+msgstr "基本プロパティ"
+
+msgid "Interpretation"
+msgstr ""
+
+msgid "invalid identifier"
+msgstr "無効な識別子"
+
+msgid "invalid QTI XML"
+msgstr ""
+
+msgid "Is this choice the correct response?"
+msgstr "この選択は正しい答えですか？"
+
+msgid "Is this pair the correct response?"
+msgstr "このペアは、正しい答えですか？"
+
+msgid "Item \"%s\" cannot be exported: %s"
+msgstr ""
+
+msgid "Item \"%s\" has no xml document"
+msgstr ""
+
+msgid "Item \"%s\" is not available in any language"
+msgstr "アイテム\"%s\"は、どの言語でもご利用いただけません"
+
+msgid "Item \"%s\" is ready to be exported"
+msgstr ""
+
+msgid "Item metadata successfully exported."
+msgstr ""
+
+msgid "Item metadata with identifier \"%s\" is not valid: "
+msgstr ""
+
+msgid "Item properties"
+msgstr "アイテムプロパティ"
+
+msgid "Item Properties"
+msgstr "アイテムプロパティ"
+
+msgid "Item width"
+msgstr "項目の幅"
+
+#, tao-public
+msgid "Items"
+msgstr "アイテム"
+
+msgid "JPEG image"
+msgstr "JPEG 画像"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Language"
+msgstr ""
+
+msgid "Large editor"
+msgstr ""
+
+msgid "LaTeX"
+msgstr ""
+
+msgid "Latex"
+msgstr "LaTeX"
+
+msgid "leave empty"
+msgstr "----------"
+
+msgid "left"
+msgstr "左"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Left bracket"
+msgstr ""
+
+msgid "Length"
+msgstr "文字数"
+
+msgid "Level"
+msgstr ""
+
+msgid "Lines"
+msgstr "行"
+
+msgid "List Style"
+msgstr "リストのスタイル"
+
+msgid "Ln"
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Loop"
+msgstr "繰り返し"
+
+msgid "Lower Bound"
+msgstr "下限"
+
+msgid "Lower than or equal"
+msgstr ""
+
+msgid "Malformed XML[%s]:\n"
+"%s"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr "アイテムを管理"
+
+msgid "Manage Items"
+msgstr "アイテムを管理"
+
+msgid "map response"
+msgstr ""
+
+msgid "Mapping default"
+msgstr "スコア初期値"
+
+msgid "Mapping Indicator"
+msgstr ""
+
+msgid "Match"
+msgstr "マトリクス"
+
+msgid "match correct"
+msgstr ""
+
+msgid "Match Interaction"
+msgstr "マトリクス問題"
+
+msgid "MathJax is not installed."
+msgstr "MathJaxがインストールされていません"
+
+msgid "MathML"
+msgstr "MathML"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Max length"
+msgstr "最大文字数"
+
+msgid "Max Length"
+msgstr "最大文字数"
+
+msgid "Max plays count"
+msgstr ""
+
+msgid "Max Words"
+msgstr "最大単語数"
+
+msgid "Max words"
+msgstr "最大単語数"
+
+msgid "Max. number of matches"
+msgstr "最大マッチ数"
+
+msgid "Maximal score for this interaction."
+msgstr "このインタラクションの最大スコア"
+
+msgid "maximum"
+msgstr "最大"
+
+msgid "Maximum choices reached"
+msgstr "選択数が最大数に達しました。これ以上選択できません。"
+
+msgid "Maximum number of choices reached."
+msgstr "選択肢の最大数に達しました"
+
+msgid "Media"
+msgstr "メディア"
+
+msgid "Media file path or YouTube video address"
+msgstr "メディアのファイルパス　或は　YouTubeビデオアドレス"
+
+msgid "Media Interaction"
+msgstr "メディア操作"
+
+msgid "Metadata export requires an instance of core_kernel_classes_Resource to extract metadata"
+msgstr ""
+
+msgid "Metadata export requires an instance of DomManifest to inject metadata"
+msgstr ""
+
+msgid "Metadata import requires an instance of core_kernel_classes_Resource to inject metadata"
+msgstr ""
+
+msgid "Metadata import requires an instance of DomManifest to extract metadata"
+msgstr ""
+
+msgid "Microsoft Excel"
+msgstr "Microsoft Excel"
+
+msgid "Microsoft Powerpoint"
+msgstr "Microsoft PowerPoint"
+
+msgid "Microsoft Word"
+msgstr "Microsoft Word"
+
+msgid "MIME-type"
+msgstr "MIMEタイプ"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Minimal  score for this interaction."
+msgstr "このインタラクションの最低スコア"
+
+msgid "Modal feedback is shown to the candidate directly following response processing."
+msgstr "レスポンス処理に続いて、受験者に直接フィードバックが表示されます。"
+
+msgid "Modal Feedback Prop."
+msgstr "モーダルフィードバックプロップ"
+
+msgid "Modal Feedbacks"
+msgstr "モーダルフィードバック"
+
+msgid "MP4 video"
+msgstr "MP4ビデオ"
+
+msgid "MPEG audio"
+msgstr "MPEG オーディオ"
+
+msgid "MPEG video"
+msgstr "MPEG ビデオ"
+
+msgid "Multiply"
+msgstr ""
+
+msgid "negative"
+msgstr "ネガティブ"
+
+#, tao-public
+msgid "New item"
+msgstr "新規アイテム"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "no configuration property needed"
+msgstr "プロパティの設定項目はありません。"
+
+msgid "No file selected"
+msgstr "ファイルが未選択です。"
+
+msgid "no item content"
+msgstr ""
+
+msgid "No Items could be imported from the given IMS QTI package."
+msgstr "IMS QTI パッケージからアイテムがインポートできませんでした"
+
+msgid "No preview available"
+msgstr "プレビューは利用できません"
+
+msgid "No value set"
+msgstr "何もセットされていません"
+
+msgid "none"
+msgstr ""
+
+msgid "None"
+msgstr "なし"
+
+msgid "None defined yet."
+msgstr "未定義"
+
+msgid "not a QTI item"
+msgstr ""
+
+msgid "Number of associations"
+msgstr "組合せの数"
+
+msgid "of"
+msgstr "の"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "one association pair"
+msgstr "１つの組み合わせ"
+
+msgid "One or more QTI components are not supported by the system. The system returned the following error: %s\n"
+""
+msgstr ""
+
+msgid "Order"
+msgstr "並び替え"
+
+msgid "Order Interaction"
+msgstr "並べ替え"
+
+msgid "Order the areas (hotspots) displayed on a picture."
+msgstr "画像の領域（ホットスポット）を選んでください"
+
+msgid "Orientation"
+msgstr "選択肢の並び方"
+
+msgid "Outcome Declarations"
+msgstr ""
+
+msgid "Pair scoring"
+msgstr "ペアスコア"
+
+msgid "Pattern"
+msgstr "パターン"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "PDF file"
+msgstr "PDF ファイル"
+
+msgid "Pi"
+msgstr ""
+
+msgid "Plain text"
+msgstr "テキスト"
+
+msgid "Please create areas that correspond to the response and associate them a score.\n"
+""
+msgstr "応答に対応する領域を作成し、スコアを関連付けてください\n"
+""
+
+msgid "Please define association pairs and their scores below."
+msgstr "ペアとスコアを設定してください"
+
+msgid "Please define the correct association pairs below."
+msgstr "正しい組み合わせを設定してください。"
+
+msgid "Please define the correct order in the box to the right."
+msgstr "右側のボックスに正しい順序を設定してください。"
+
+msgid "Please define the correct response and the score below."
+msgstr "正解とスコアを設定してください。"
+
+msgid "Please define the correct response below."
+msgstr "正解を設定してください。"
+
+msgid "Please define the correct response using the slider."
+msgstr "スライダーを使用して正解を設定してください。"
+
+msgid "Please enter the score for the given hottexts."
+msgstr "与えられたホットテキストにスコアを入力してください"
+
+msgid "Please fill the gap with the correct choices below."
+msgstr "正しい解答を空欄に選択してください。"
+
+msgid "Please fill the gap with the correct choices."
+msgstr "正しい解答を空欄に選択してください。"
+
+msgid "Please fill the gap with the images below, then edit the score for each gap/image pair."
+msgstr "画像の空欄を埋めてください、さらに空欄/画像のペアのスコアを編集してください"
+
+msgid "Please fill the gap with the texts below, then edit the score for each pair."
+msgstr "下記の空欄を埋めるテキストを設定してください、さらに各ペアのスコアを編集してください"
+
+msgid "Please order the choices below to set the correct answer"
+msgstr "正解を選択肢から選んでください。"
+
+msgid "Please select a media file (video or audio) from the resource manager. You can add files from your computer with the button \"Add file(s)\"."
+msgstr "メディアファイル（動画や音声）をリソースマネージャで選択してください。\"ファイル追加\"ボタンで、お使いのPCから追加可能です。"
+
+msgid "Please select a media file from the resource manager. You can add files from your computer with the button \"Add file(s)\"."
+msgstr ""
+
+msgid "Please select a shared stimulus file from the resource manager."
+msgstr "リソース管理からシェアードスティミュラスを選んでください"
+
+msgid "Please select an image file from the resource manager. You can add files from your computer with the button \"Add file(s)\"."
+msgstr "リソースマネージャからイメージファイルを選択してください。”ファイルを追加”ボタンを選んでコンピュータからファイルを追加することができます"
+
+msgid "Please select the correct hotspot choices below."
+msgstr "正しいホットスポットを選択してください"
+
+msgid "Please select the correct hottext choices below."
+msgstr "正しいホットテキストを選択してください"
+
+msgid "Please set the correct associations by linking the choices."
+msgstr "正しい組み合わせを選択肢で設定してください"
+
+msgid "Please the score of each hotspot choice."
+msgstr "各ホットスポットの選択肢のスコアを設定してください"
+
+msgid "Please type the correct response below."
+msgstr "正解を入力してください。"
+
+msgid "Please type the correct response in the box below."
+msgstr "正解を枠内に入力してください"
+
+msgid "PNG image"
+msgstr "PNG 画像"
+
+msgid "Portable element model %s not found. Required extension might be missing"
+msgstr ""
+
+msgid "Position one or more points on a picture (response areas are not displayed)."
+msgstr "画像上の1つ以上の点を選んでください（レスポンス領域は表示されません）"
+
+msgid "positive"
+msgstr "ポジティブ"
+
+msgid "Power form"
+msgstr ""
+
+msgid "Pre-formatted text"
+msgstr "整形済みテキスト"
+
+msgid "Preparing CSS, please wait…"
+msgstr "CSS準備中、お待ちください..."
+
+msgid "Preparing Metadata Values for target \"%s\"..."
+msgstr ""
+
+msgid "Preview"
+msgstr "CSSを準備中、お待ちください..."
+
+msgid "Preview the item"
+msgstr "アイテムプレビュー"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Print the item"
+msgstr "アイテム印刷"
+
+msgid "Printed Variable"
+msgstr ""
+
+msgid "PropertyUri to map has to a valid uri"
+msgstr ""
+
+msgid "Provides a hint to the candidate as to the expected number of lines of input required. A line is expected to have about 72 characters."
+msgstr "必要な入力行数の例としてヒントを提供します。ラインは約72文字が必要です"
+
+msgid "Provides a hint to the candidate as to the expected overall length of the desired response measured in number of characters."
+msgstr "回答に求められる文字数を受験者にヒントとして提供します。"
+
+msgid "Provides a hint to the candidate as to the expected overall length of the desired response measured in number of characters. This is not a validity constraint."
+msgstr ""
+
+msgid "Published %s"
+msgstr "%s を公開"
+
+msgid "QTI Item Runner"
+msgstr "QTI アイテムランナー"
+
+msgid "QTI Metadata"
+msgstr ""
+
+msgid "QTI Package 2.1"
+msgstr "QTI パッケージ 2.1"
+
+msgid "QTI Package 2.2"
+msgstr "QTI Package 2.2"
+
+msgid "QTI-XML error at line %1$d \"%2$s\"."
+msgstr "%1$d行でQTI-XMLのエラー\"%2$s\""
+
+msgid "QTI/APIP Content Package"
+msgstr "QTI/APIP コンテンツパッケージ"
+
+msgid "QTI/APIP XML Item Document"
+msgstr "QTI/APIP XML アイテムドキュメント"
+
+msgid "Question"
+msgstr "問題"
+
+msgid "Quicktime video"
+msgstr "QuickTime 動画"
+
+msgid "recommanded"
+msgstr "推奨"
+
+msgid "Recommendations"
+msgstr "推奨"
+
+msgid "recommended"
+msgstr "推奨"
+
+msgid "Reduce font size"
+msgstr "フォントサイズを小さく"
+
+msgid "Register method expects $key and $name parameters"
+msgstr ""
+
+msgid "Register method expects $key and $name parameters."
+msgstr ""
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "remove"
+msgstr "削除"
+
+msgid "Remove custom background color"
+msgstr "カスタム背景色を削除"
+
+msgid "Remove custom border color"
+msgstr "カスタム枠線色を削除"
+
+msgid "Remove custom font family"
+msgstr "カスタムフォントファミリを削除"
+
+msgid "Remove custom font size"
+msgstr "カスタムフォントサイズを削除"
+
+msgid "Remove custom item width"
+msgstr "カスタムアイテム幅を削除"
+
+msgid "Remove custom text color"
+msgstr "カスタムテキスト色を削除"
+
+msgid "Remove Message"
+msgstr "メッセージを削除"
+
+msgid "Remove pair"
+msgstr "組み合わせを削除"
+
+msgid "Remove the selected shape"
+msgstr "選択した図形を削除"
+
+msgid "Remove this stylesheet"
+msgstr "このスタイルシートを削除"
+
+msgid "Replay timeout"
+msgstr ""
+
+msgid "required"
+msgstr "必須"
+
+msgid "Resource "
+msgstr ""
+
+msgid "Resource(s) successfully exported."
+msgstr ""
+
+msgid "Response"
+msgstr "解答"
+
+msgid "Response identifier"
+msgstr "解答識別子"
+
+msgid "Response processing"
+msgstr "採点方法"
+
+msgid "Response Properties"
+msgstr "レスポンスプロパティ"
+
+msgid "Right"
+msgstr ""
+
+msgid "right"
+msgstr "右"
+
+msgid "Right bracket"
+msgstr ""
+
+msgid "Rollback on..."
+msgstr "戻す..."
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save the item"
+msgstr "アイテム保存"
+
+msgid "Scale size"
+msgstr ""
+
+msgid "Score"
+msgstr "スコア"
+
+msgid "score"
+msgstr "スコア"
+
+msgid "Score range"
+msgstr "スコア範囲"
+
+msgid "Score value"
+msgstr "スコア値"
+
+msgid "Select"
+msgstr ""
+
+msgid "Select a "
+msgstr "を選択"
+
+msgid "select a choice"
+msgstr "選択肢を選択"
+
+msgid "Select a choice from a drop-down list."
+msgstr "ドロップダウンリストから回答を選択"
+
+msgid "Select a response identifier from the list."
+msgstr "リストから応答識別子を選択します。"
+
+msgid "Select a single (radio buttons) or multiple (check boxes) responses among a set of choices."
+msgstr "択一（ラジオボタン）または多肢選択（チェックボックス）を選択肢の設定から選択します。"
+
+msgid "Select a value within a numerical range."
+msgstr "数値範囲内の値を選択します"
+
+msgid "Select an image first"
+msgstr "最初に画像を選択してください"
+
+msgid "Select an image first."
+msgstr "まず画像を選んでください"
+
+msgid "Select another area to complete the association"
+msgstr "組み合わせを完了するために別の領域を選択してください。"
+
+msgid "select correct choice"
+msgstr "正しい選択肢を指定してください"
+
+msgid "Select image"
+msgstr "画像を選択"
+
+msgid "Select media file"
+msgstr "メディアファイルを選択"
+
+msgid "Select object"
+msgstr ""
+
+msgid "Select one or more areas (hotspots) displayed on an picture."
+msgstr "画像で1つ以上の領域（ホットスポット）を選択してください"
+
+msgid "Select one or more text parts (hottext) within a text."
+msgstr "テキスト内で1つ以上のテキスト（hottext）を選択してください"
+
+msgid "Select Point"
+msgstr "ポイント選択"
+
+msgid "Select Point Interaction"
+msgstr "ポイント操作位置を選択"
+
+msgid "Select predefined feedback style from the list."
+msgstr "リストから定義済みのフィードバックスタイルを選択してください。"
+
+msgid "Select shared stimulus"
+msgstr "シェアドスティミュラスを選択"
+
+msgid "Select the area to add an image"
+msgstr "画像を追加するには、エリアを選択してください"
+
+msgid "Select the outcome variable you want to display."
+msgstr ""
+
+msgid "Select the way the response of your interaction should be processed"
+msgstr "インタラクションの応答が処理される方法を選択。"
+
+msgid "Select this area"
+msgstr "この領域を選択してください"
+
+msgid "Select this area to start an association"
+msgstr "組み合わせを開始するには、この領域を選んでください。"
+
+msgid "Set a CSS class name in order to customize the display style."
+msgstr ""
+
+msgid "Set the score for this response"
+msgstr "この解答のためのスコアを設定します。"
+
+msgid "Shape position"
+msgstr "シェープポジション"
+
+msgid "Shuffle choices"
+msgstr "選択肢をシャッフル"
+
+msgid "Sinus"
+msgstr ""
+
+msgid "Size and position"
+msgstr "大きさと位置"
+
+msgid "Slider"
+msgstr "スライダ"
+
+msgid "Slider Interaction"
+msgstr "スライダ操作"
+
+msgid "some text ..."
+msgstr "テキストを入力 ..."
+
+msgid "Square root"
+msgstr ""
+
+msgid "standard"
+msgstr "標準"
+
+msgid "Step"
+msgstr "ステップ"
+
+msgid "Style Editor"
+msgstr "スタイルエディタ"
+
+msgid "Style Sheet <b>%s</b> removed<br> Click <i>Add Style Sheet</i> to re-apply."
+msgstr "スタイルシート<b>%s</b>は削除されました。<br>再度設定したい場合は、<i>Add Style Sheet</i>をクリックしてください"
+
+msgid "Style Sheet Manager"
+msgstr "スタイルシート管理"
+
+msgid "Success"
+msgstr ""
+
+msgid "Successfully compiled \"%s"
+msgstr "\"%sのコンパイルに成功しました"
+
+msgid "SVG image"
+msgstr "SVG 画像"
+
+msgid "Table headings"
+msgstr "表の見出し"
+
+msgid "TAO default styles"
+msgstr "TAO　標準スタイル"
+
+msgid "Target Class Lookup for resource \"%s\"..."
+msgstr ""
+
+msgid "Text Block"
+msgstr "文字ブロック"
+
+msgid "Text Block CSS Class"
+msgstr ""
+
+msgid "Text Block Properties"
+msgstr "文字ブロックプロパティ"
+
+msgid "Text color"
+msgstr "文字色"
+
+msgid "Text Entry"
+msgstr "テキスト入力"
+
+msgid "Text Entry Interaction"
+msgstr "テキスト入力操作"
+
+msgid "The autostart attribute determines if the media object should begin as soon as the candidate starts the attempt (checked) or if the media object should be started under the control of the candidate (unchecked)."
+msgstr "メディアオブジェクトが、すぐに再生を開始するようにする必要がある場合は自動属性は（チェック）、或はメディアオブジェクトが受験者の操作で開始する必要がある場合は（オフ）を選択します"
+
+msgid "The button label."
+msgstr "ボタンラベル"
+
+msgid "The default value from the target set to be used when no explicit mapping for a source value is given."
+msgstr "ソース値の明示的なマッピングが指定されていないときに使用するデフォルト値"
+
+msgid "The delimiter to use between values when displaying variables of ordered, multiple or record cardinality. \";\" is default when delimiter is not declared. Implementations can override this default with personal preferences or locale settings."
+msgstr ""
+
+msgid "The field specifier to use when displaying variables of record cardinality."
+msgstr ""
+
+msgid "The file path to the image."
+msgstr "画像のファイルパス"
+
+msgid "The file path to the object."
+msgstr ""
+
+msgid "The file path to the shared stimulus."
+msgstr "シェアドスティミュラスのファイルパス"
+
+msgid "The format conversion specifier to use when converting numerical values to strings. See QTI Number Formatting Rules for details."
+msgstr ""
+
+msgid "The given target is not an instance of core_kernel_classes_Resource"
+msgstr ""
+
+msgid "The highlighted choice cannot be associated more than %d time(s)."
+msgstr "ハイライト表示された選択は、%d回以上関連付けることはできません。"
+
+msgid "The identifier of the choice. This identifier must not be used by any other choice or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
+msgstr "選択識別子：この識別子はそれ以外の選択またはアイテム変数で使ってはいけません。識別子は、英文字または下線（\"_\"）で始まる文字列で、英文字、下線、ハイフン、ピリオド、数字、組合せ文字、そしてエクステンダーのみが利用できます。"
+
+msgid "The identifier of the choice. This identifier must not be used by any other response or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
+msgstr "選択識別子：この識別子はそれ以外のレスポンスまたはアイテム変数で使ってはいけません。識別子は、英文字または下線（\"_\"）で始まる文字列で、英文字、下線、ハイフン、ピリオド、数字、組合せ文字、そしてエクステンダーのみが利用できます。"
+
+msgid "The identifier of the modal feedback. This identifier must not be used by any other modal feedback or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
+msgstr "選択識別子：この識別子はそれ以外のモーダルフィードバックまたはアイテム変数で使ってはいけません。識別子は、英文字または下線（\"_\"）で始まる文字列で、英文字、下線、ハイフン、ピリオド、数字、組合せ文字、そしてエクステンダーのみが利用できます。"
+
+msgid "The identifier of the response identifier. This identifier must not be used by any other response or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
+msgstr "選択識別子：この識別子はそれ以外のリソースまたはアイテム変数で使ってはいけません。識別子は、英文字または下線（\"_\"）で始まる文字列で、英文字、下線、ハイフン、ピリオド、数字、組合せ文字、そしてエクステンダーのみが利用できます。"
+
+msgid "The IMS QTI Item could not be imported."
+msgstr "IMS QTIアイテムはインポートできませんでした"
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest file failed:  %s"
+msgstr ""
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest file should have been found the Item Bank. Item not found."
+msgstr ""
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest file was already stored in the Item Bank."
+msgstr "IMSマニフェストファイルで、 \"%s\"として参照されるIMS QTIアイテムは、既にアイテムバンクに格納されています。"
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest file was successfully imported."
+msgstr "IMSマニフェストファイルで、 \"%s\"として参照されるIMS QTIアイテムのインポートに成功しました。"
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest file was successfully overwritten."
+msgstr ""
+
+msgid "The IMS QTI Item referenced as \"%s\" in the IMS Manifest was successfully rolled back."
+msgstr "IMSマニフェストファイルで、 \"%s\"として参照されるIMS QTIアイテムのロールバックに成功しました。"
+
+msgid "The IMS QTI Item was successfully imported."
+msgstr "IMS QTIアイテムのインポートに成功しました。"
+
+msgid "The index to use when displaying a variable of ordered cardinality. If a variable of ordered cardinality is to be displayed and index is not set, all the values in the container are displayed."
+msgstr ""
+
+msgid "The item cannot be saved because it contains an unsupported custom interaction."
+msgstr ""
+
+msgid "The item has not been saved!"
+msgstr ""
+
+msgid "The item has unsaved changes, are you sure you want to leave ?"
+msgstr ""
+
+msgid "The item has unsaved changes, would you like to save it ?"
+msgstr ""
+
+msgid "The item needs to be saved before it can be previewed"
+msgstr "プレビューの前にアイテムを保存する必要があります。"
+
+msgid "The item of the qti item. It is currently used as a meta data only. It is required by the QTI standard."
+msgstr "そのアイテムはメタデータとしてのみ使われています。これはQTI標準で必要とされています。"
+
+msgid "The left position of the shape relative to the top left corner of the background in pixels. This value may be scaled when the background image size is adapted to it's container"
+msgstr "その図形の、背景左上から見た場合の左部分のピクセル単位の相対位置。この値は、背景画像サイズがコンテナーに合わせられる際には、調整される場合があります。"
+
+msgid "The loop attribute is used to set continuous play mode. In continuous play mode, once the media object has started to play it should play continuously (subject to maxPlays)."
+msgstr "ループ属性は連続プレイモードを設定するために使われます。連続プレイモードでは、メディアが再生されると、maxPlaysに応じて連続して再生されます。"
+
+msgid "The lower bound of the slider"
+msgstr "スライダーの最小値"
+
+msgid "The manifest argument must be an instance of DOMDocument."
+msgstr "マニフェスト引数はDOMドキュメントのインスタンスでなくてはなりません。"
+
+msgid "The mapping indicator to use between field name and field value when displaying variables of record cardinality. \"=\" is default when mappingIndicator is not declared. Implementations can override this default with personal preferences or locale settings."
+msgstr ""
+
+msgid "The mapping options are available when at least one map entry is defined."
+msgstr ""
+
+msgid "The maximum number of association is unlimited."
+msgstr "組合せの最大数には制限はありません。"
+
+msgid "The maximum number of associations that the candidate is allowed to make."
+msgstr "受験者が設定できる組合せの最大数"
+
+msgid "The maximum number of choices that the candidate is allowed to select."
+msgstr "受験者が選択できる選択肢の最大数"
+
+msgid "The maximum number of choices that the candidate is required to select to form a valid response."
+msgstr ""
+
+msgid "The maximum number of choices this choice may be associated with."
+msgstr "選択形式に関する選択数の最大値"
+
+msgid "The maximum number of choices this choice may be associated with. If matchMax is 0 there is no restriction."
+msgstr "選択形式に関する選択数の最大値。0の場合は、選択数の制限はありません。"
+
+msgid "The maxPlays attribute indicates that the media object can be played at most maxPlays times - it must not be possible for the candidate to play the media object more than maxPlay times. A value of 0 (the default) indicates that there is no limit."
+msgstr "最大再生回数は、メディアの最大再生回数です。受験者は最大再生回数以上再生することはできません。0（デフォルト）は制限なしを意味します。"
+
+msgid "The MIME-type attribute describes which kind of file may be uploaded."
+msgstr "MIME-type属性は、アップロードすることができるファイルの種類を説明します"
+
+msgid "The minimum number of answers is "
+msgstr "回答の最小値は"
+
+msgid "The minimum number of associations that the candidate is required to make to form a valid response."
+msgstr "組み合わせの最小数は、受験者に求める回答の数になります。"
+
+msgid "The minimum number of choices that the candidate is required to select to form a valid response."
+msgstr "最小選択数は、受験者に求める回答の最小数です"
+
+msgid "The minimum number of choices this choice must be associated with to form a valid response."
+msgstr "選択肢の最小数は、この受験者が回答するために組み合わされている必要があります。"
+
+msgid "The number base to use when converting integer variables to strings with the i conversion type code."
+msgstr ""
+
+msgid "The number of units corresponding to a step on the slider"
+msgstr "スライダ上の段階の単位数"
+
+msgid "The path argument for extractor must be a non-empty array."
+msgstr ""
+
+msgid "The principle identifier of the item. This identifier must have a corresponding entry in the item's metadata."
+msgstr "アイテムの原則識別子。この識別子は、アイテムのメタデータに対応するエントリを持っている必要があります。"
+
+msgid "The purpose for which the rubric is intended to be used. As a reading passage for multiple items, or instructions for a particular section, for example."
+msgstr "ルーブリックの評価のために利用されます。例えばリーディングの複数選択肢や特定のセクションの解説として使われます。"
+
+msgid "The QTI class \"%1$s\" located at line \"%2$d\" is currently not supported."
+msgstr "\"%2$d\"の行にあるQTIクラス \"%1$s\"は現在サポートされていません。"
+
+msgid "The Response Processing Template \"%s\" is not supported."
+msgstr "回答テンプレート \"%s\"は、サポートされていません"
+
+msgid "The score format is not numeric"
+msgstr ""
+
+msgid "The selected file is ready to be sent."
+msgstr "選択されたファイルが提出されます。"
+
+msgid "The shape height in pixels. This value may be scaled when the background image size is adapted to it's container"
+msgstr "ピクセル単位の図形の高さ。背景画像のサイズは、コンテナに依存する場合、この値はスケーリングされます"
+
+msgid "The shape width in pixels. This value may be scaled when the background image size is adapted to it's container"
+msgstr "ピクセル単位の図形の幅。背景画像のサイズは、コンテナに依存する場合、この値はスケーリングされます"
+
+msgid "The target must be an instance of DOMDocument"
+msgstr "ターゲットはのDOMDocumentのインスタンスである必要があります"
+
+msgid "The text to be displayed if the image is not available."
+msgstr "画像が使用できない場合に表示されるテキスト"
+
+msgid "The top position of the shape relative to the top left corner of the background in pixels. This value may be scaled when the background image size is adapted to it's container"
+msgstr "図形の始点は、ピクセル単位で背景の左上隅からの相対位置。背景画像のサイズは、それのコンテナ依存する場合、この値はスケーリングされます"
+
+msgid "The upper bound of the slider"
+msgstr "スライダーの最大値"
+
+msgid "The validation of the imported QTI item failed. The system returned the following error:%s\n"
+""
+msgstr "QTIアイテムのインポートに失敗しました。エラー内容:%s\n"
+""
+
+msgid "The ZIP archive containing the IMS QTI Item cannot be extracted."
+msgstr "IMS QTI アイテムを含むZIPアーカイブを抽出できません"
+
+msgid "The ZIP archive does not contain an imsmanifest.xml file or is an invalid ZIP archive."
+msgstr "ZIPアーカイブには、imsmanifest.xmlファイルが含まれていないか、または無効なZIPアーカイブです"
+
+msgid "There are errors in the following shared stimulus : "
+msgstr "以下のシェアードスティミュラスに誤りがある:"
+
+msgid "There is an incomplete element in your item: please click on it to complete it."
+msgstr "このアイテムに不完全なエレメントがあります。完了するためにそれをクリックしてください。"
+
+msgid "There was a problem downloading your CSS, please try again."
+msgstr "CSSをダウンロード中に問題が発生しました。再実行してください。"
+
+msgid "this identifier is already in use"
+msgstr "この識別子は既に利用されています"
+
+msgid "This is not a valid answer"
+msgstr "有効な回答ではありません"
+
+msgid "This is required"
+msgstr ""
+
+msgid "This stylesheet has not been found on the server. you may want to delete this reference"
+msgstr "このスタイルシートは、サーバ上にありません。あなたはこの参照を削除することができます"
+
+msgid "Time dependent"
+msgstr "時間依存"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "to"
+msgstr ""
+
+msgid "Tooltip Content"
+msgstr ""
+
+msgid "Tooltip editor"
+msgstr ""
+
+msgid "Tooltip Target"
+msgstr ""
+
+msgid "Top"
+msgstr "トップ"
+
+msgid "Trigger the end of the item attempt."
+msgstr "アイテムの試行を終了させます。"
+
+msgid "Unable to retrieve asset \"%s"
+msgstr "アセット \"%s を取得できません"
+
+msgid "Unable to retrieve item : "
+msgstr ""
+
+msgid "Unable to validate %s: %s"
+msgstr ""
+
+msgid "undo"
+msgstr "取り消し"
+
+msgid "Undo"
+msgstr "取り消し"
+
+msgid "Unknown $key to register MetadataService instance"
+msgstr ""
+
+msgid "Unregister method expects $key and $name parameters."
+msgstr ""
+
+msgid "Upload a file (e.g. document, picture...) as a response."
+msgstr "回答としてファイル（例えば文書、画像...）をアップロードします"
+
+msgid "Upper Bound"
+msgstr "上限"
+
+msgid "Use this if you want the list of choices to be prefixed (e.g. 1,2,3 a,b,c)"
+msgstr "選択肢のリストを前に置きたい場合（例えば1,2,3、A、B、C）は、これを使用します"
+
+msgid "Used to control the format of the text entered by the candidate."
+msgstr "受験者が入力したテキストの書式を制御するために使用します"
+
+msgid "Value"
+msgstr ""
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "WAV audio"
+msgstr "WAV オーディオ"
+
+msgid "We will use the patternMask to do this, to be compliant with the IMS standard"
+msgstr "IMS Standardに準拠するために、これのためにpatternMaskを使用します"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Windows Media audio"
+msgstr "Windows Media オーディオ"
+
+msgid "Windows Media video"
+msgstr "Windows メディアビデオ"
+
+msgid "words"
+msgstr "語数"
+
+msgid "Would you like to replace the alt text"
+msgstr "代替えテキストを変更したいですか"
+
+msgid "Wrong type of file. Expected %s. The selected file has the mimetype \"%s\"."
+msgstr ""
+
+msgid "WYSIWYG editor"
+msgstr ""
+
+msgid "XHTML"
+msgstr "XHTML"
+
+msgid "XML error \"%1$s\"."
+msgstr "XML エラー \"%1$s\""
+
+msgid "XML error at line %1$d \"%2$s\"."
+msgstr "%1$d \"行のXML エラー %2$s\""
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You can select maximum %d choice"
+msgstr "最大%d個まで選択することができます。"
+
+msgid "You can select maximum %d choices"
+msgstr "最大%d個の選択肢を選択することができます。"
+
+msgid "You can select maximum of %s choices"
+msgstr "最大%s個の選択肢を選択することができます。"
+
+msgid "You can select maximum of 1 choice"
+msgstr "1つ選択することができます"
+
+msgid "You can use maximum %d choices"
+msgstr "最大%d個の選択肢を利用できます"
+
+msgid "You have deleted"
+msgstr "削除しました"
+
+msgid "You have deleted an element"
+msgstr "エレメントを削除しました"
+
+msgid "You have deleted an element."
+msgstr "エレメントを削除しました"
+
+msgid "You may make as many association pairs as you want."
+msgstr "組み合わせを複数作ることができます。"
+
+msgid "You must select %1$d to %2$d choices."
+msgstr "少なくとも%1$d個，最大%2$d個まで選択できます。"
+
+msgid "You must select 0 to %d choices."
+msgstr "最大%d個まで選択できます。"
+
+msgid "You must select at least %d choice"
+msgstr ""
+
+msgid "You must select at least %d choices"
+msgstr "%d以上選択してください"
+
+msgid "You must select at least %s choices"
+msgstr "%s以上選択してください"
+
+msgid "You must select at least 1 choice"
+msgstr "最低１つ選択してください"
+
+msgid "You must select exactly %d choice"
+msgstr "%d個選択してください"
+
+msgid "You must select exactly %d choice(s)."
+msgstr "%d個選択してください"
+
+msgid "You must select exactly %d choices"
+msgstr "%d個選択してください"
+
+msgid "You must select exactly %s choices"
+msgstr "%s個選択してください"
+
+msgid "You must use at least %d choices"
+msgstr "最低 %d 個利用してください。"
+
+msgid "You need to make"
+msgstr "組合せ必要数："
+
+msgid "Your item has been saved"
+msgstr "アイテムが保存されました"
+
+msgid "ZIP archive"
+msgstr "ZIP アーカイブ"
+

@@ -1,0 +1,212 @@
+@import "inc/bootstrap";
+
+.qti-choiceInteraction {
+    .overlay-answer-eliminator {
+        display: none;
+    }
+
+    $elimCbOffsetLeft: 50;
+    $captionOffsetLeft: 17;
+    $elimListStyleCbOffsetLeft: $elimCbOffsetLeft + 23;
+
+    [data-eliminable="container"] {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: $elimCbOffsetLeft * 1px;
+        height: 100%;
+        padding-top: 6px;
+        z-index: 3;
+        [data-eliminable="trigger"] {
+            font-size: 1.6rem;
+            position: relative;
+            z-index: 4;
+            cursor: pointer;
+        }
+        // label above ol
+        &::before {
+            position: absolute;
+            top: -33px;
+            left: $captionOffsetLeft * -1px;
+            font: inherit;
+            cursor: default;
+        }
+    }
+    // parent .qti-interaction
+    &.eliminable {
+        .label-box {
+            margin-left: 85px;
+        }
+        // ol
+        .choice-area {
+            margin-top: 25px;
+            // there might be list-styles that move everything to the right
+            &[class^="list-style-"], &[class*=" list-style-"] {
+                [data-eliminable="container"] {
+                    left: $elimListStyleCbOffsetLeft * 1px;
+                }
+                // li
+                .qti-choice {
+                    // when checked
+                    &.eliminated {
+                        [data-eliminable="container"] {
+                            padding-left: $elimListStyleCbOffsetLeft * 1px;
+                            //&::before {
+                            //    left: ($elimListStyleCbOffsetLeft - $captionOffsetLeft) * 1px !important;
+                            //}
+                        }
+                    }
+                    &:first-child {
+                        &.eliminated {
+                            [data-eliminable="container"] {
+                                // label above ol
+                                &::before {
+                                    left: ($elimListStyleCbOffsetLeft - $captionOffsetLeft) * 1px !important;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        //both label and checkbox
+        [data-eliminable] {
+            display:block;
+        }
+        // eliminator outer layer
+        .qti-choice {
+            // when checked
+            &.eliminated {
+                .label-box {
+                    .label-content {
+                        position: relative;
+
+                        .qti-block {
+                            &:after {
+                                content:' ';
+                                width: 100%;
+                                position: relative;
+                                top: -21px;
+                            }
+                        }
+
+                        .overlay-answer-eliminator {
+                            stroke:rgb(0,0,0);
+                            stroke-width:1;
+                            display: inline;
+                            height: 100%;
+                            left: 0;
+                            overflow: hidden;
+                            position: absolute;
+                            top: 0;
+                            width: 100%;
+                        }
+                    }
+                }
+                [data-eliminable="container"] {
+                    width: 100%;
+                    padding-left: $elimCbOffsetLeft * 1px;
+                    left: 0;
+                    background: white(.7);
+                    cursor: not-allowed;
+                    [data-eliminable="trigger"] {
+                        &:before {
+                            @include icon-checkbox-crossed();
+                        }
+                    }
+                    &::before {
+                        left: ($elimCbOffsetLeft - $captionOffsetLeft) * 1px !important;
+                    }
+                }
+            }
+            &:first-child {
+                [data-eliminable="container"] {
+                    // label above ol
+                    &::before {
+                        content: attr(data-label);
+                    }
+                }
+            }
+        }
+    }
+
+    .qti-choice .real-label{
+        top:1px;
+    }
+
+    .choice-area {
+        &[class^="list-style-"], &[class*=" list-style-"] {
+
+
+            .label-content {
+                margin-left: 30px;
+            }
+
+            p, div, li {
+                &::before {
+                    position: absolute;
+                    left: 30px;
+                    top: 6px
+                }
+                &.add-option:before {
+                    content: '';
+                    display:inline;
+                }
+            }
+        }
+
+        .label-content {
+            display: inline-block;
+
+            .qti-block {
+                div img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    .block-listing > li {
+        margin-top: 0;
+        margin-bottom: 0;
+        border-top: none;
+        border-bottom: none;
+        @include border-radius(0);
+        &:first-child {
+            margin-top: 3px;
+            border-top: 1px solid #eee;
+            @include border-radius-top(2);
+        }
+        &:last-child {
+            margin-bottom: 3px;
+            border-bottom: 1px solid #eee;
+            @include border-radius-bottom(2);
+        }
+    }
+    .block-listing.horizontal > li {
+        margin: 3px;
+        border: 1px solid #eee;
+        @include border-radius(2);
+    }
+
+
+    //IE specific
+
+    .checked {
+        span.icon-checkbox:before{
+            @include tao-icon-setup;
+            @include icon-checkbox-checked;
+        }
+        span.icon-radio:before{
+            @include tao-icon-setup;
+            @include icon-radio-checked;
+        }
+    }
+    .real-label{
+        input{
+            position: absolute;
+            left: -10000px;
+        }
+    }
+    //END IE specific
+}

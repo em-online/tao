@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:43\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Добавьте тестируемых в группы для назначения тестов и измерения результатов деятельности группы. Группирование тестируемых позволяет задавать определенные характеристики. Вы можете определить эти характеристики путем добавления собственных дескрипторов групп."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Имейте в виду, что любое последующее изменение тестового содержимого не будет учтено до повторной публикации теста и создания новой поставки."
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Создайте пользовательскую таблицу с конкретными данными результатов, которые вас интересуют, и экспортируйте ее как CSV-файл."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Создавайте тесты и управляйте ими с помощью ранее созданных или импортированных элементов."
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Создайте тест, перетащив выбранные элементы в область тестирования."
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Выберите один из 17 различных типов взаимодействия, включая:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Управление публикацией и доставке тестов."
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "И наоборот, вы также можете экспортировать элементы из ТАО и повторно использовать их в других QTI-совместимых инструментах."
+
+msgid "Create and define test-taker records"
+msgstr "Создание и определение записей тестируемого"
+
+msgid "Create Items"
+msgstr "Создание элементов"
+
+msgid "Create QTI Tests"
+msgstr "Создание QTI тестов"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Создавайте, просматривайте и упорядочивайте отдельные элементы, прежде чем включать их в тесты."
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "Свойствами по умолчанию для тестируемых являются их имя и язык интерфейса теста. Вы можете настроить эти записи, добавив любые необходимые данные, такие как дата рождения, пол и т.д."
+
+msgid "Define a Delivery"
+msgstr "Определение доставки"
+
+msgid "Define the Test Parameters"
+msgstr "Определение параметров теста"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Определите порядок ваших элементов. Элементы могут отображаться произвольно или в определенном порядке."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Узнайте, как легко создать инструмент оценивания с помощью ТАО!"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "Не показывать это окно снова при открытии ТАО."
+
+msgid "Export Test Results"
+msgstr "Экспорт результатов теста"
+
+msgid "For example:"
+msgstr "Например:"
+
+msgid "Get started with TAO"
+msgstr "Начало работы с ТАО"
+
+msgid "Go to "
+msgstr "Перейти к"
+
+msgid "Groups"
+msgstr "Группы"
+
+#, tao-public
+msgid "Help"
+msgstr "Справка"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Подсказка: \"простые\" тесты без иерархии также доступны. Обратите внимание, что открытые веб-элементы (OWI) могут быть доставлены только в простом тестовом режиме."
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Подсказка: вы можете получить доступ к этому обзору в любое время с помощью кнопки Справка."
+
+msgid "Hotspot"
+msgstr ""
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Если ваши потребности выходят за рамки того, что позволяет стандарт QTI, вы можете разрабатывать мощные и сложные типы элементов с помощью формата открытого веб-элемента (OWI) ТАО."
+
+msgid "Import / Export Tests"
+msgstr "Импорт / экспорт тестов"
+
+msgid "Import and Export Items"
+msgstr "Импорт и экспорт элементов"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr ""
+
+msgid "Import test-takers"
+msgstr "Импортировать тестируемых"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "В дополнение к созданию записей тестируемых по отдельности, вручную введя их соответствующие данные, вы можете массово создавать записи тестируемых, импортируя их из CSV-файла."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "В ТАО тесты назначаются группам."
+
+msgid "Item(s)"
+msgstr "Элемент(ы)"
+
+msgid "Items"
+msgstr "Элементы"
+
+msgid "Manage Reports"
+msgstr "Управление отчетами"
+
+msgid "Multiple choice"
+msgstr "Множественный выбор"
+
+msgid "Order of items – sequential or random"
+msgstr "Порядок элементов – последовательный или случайный"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Preview Items"
+msgstr "Просмотр элементов"
+
+msgid "Publish"
+msgstr "Публикация"
+
+msgid "QTI Test Structure"
+msgstr "Тестовая структура QTI"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Зарегистрируйте ваших тестируемых, управляйте их личными данными и назначьте их группам."
+
+msgid "Results"
+msgstr "Результаты"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Прежде чем запускать тест, посмотрите, как будут выглядеть ваши элементы. Просмотр доступен как для настольных, так и для мобильных устройств."
+
+msgid "Select an icon on the left to find out more."
+msgstr "Выберите значок слева, чтобы узнать больше."
+
+msgid "Select the delivery dates."
+msgstr "Выберите даты доставки."
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Выберите группу или группы, которая будет проходить тест. Вы можете исключить отдельных тестируемых лиц, даже если они являются частью группы."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Выберите тест, который вы хотите дать вашей группе (группам) тестируемых. Опубликуйте его, чтобы сделать его доступным в Интернете."
+
+msgid "selection"
+msgstr "выбор"
+
+msgid "Single choice"
+msgstr "Один выбор"
+
+msgid "Slider"
+msgstr "Слайдер"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Укажите, сколько раз тестируемые могут повторить тест."
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Пользуйтесь простотой хранения, управления и анализа результатов тестов."
+
+msgid "Test"
+msgstr "Тест"
+
+msgid "Test part(s)"
+msgstr "Тестовая часть (части)"
+
+msgid "Test section(s)"
+msgstr "Тестовый раздел(ы)"
+
+msgid "Test-takers"
+msgstr "Тестируемые"
+
+msgid "Tests"
+msgstr "Тесты"
+
+msgid "Text entry"
+msgstr "Ввод текста"
+
+msgid "Time limit"
+msgstr "Ограничение по времени"
+
+msgid "To create a QTI test:"
+msgstr "Чтобы создать тест QTI:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Используйте Группы для управления записями тестируемых"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Просмотр производительности любого индивидуального тестируемого пользователя — как по одному тесту, также и по ряду тестов."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "Вы также можете добавить мультимедийный контент к вашим элементам, такие как фотографии, математические формулы и видео."
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "Тесты можно создавать в соответствии со стандартом QTI 2.1. QTI тест структурирован следующим образом:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "Можно импортировать тесты, созданные с помощью любого внешнего инструмента, который является QTI совместимым. Элементы будут автоматически добавлены в Библиотеку элементов. И наоборот, ваши QTI тесты могут быть экспортированы из ТАО для использования с любым QTI-совместимым механизмом доставки теста."
+
+msgid "You can specify test settings such as:"
+msgstr "Вы можете задать параметры тестирования, такие как:"
+

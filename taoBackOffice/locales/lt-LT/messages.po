@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:14:03\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: lt-LT\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: lt-LT\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr "Sukurti sąrašą"
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr "Kurti testų dalis, valdyti dalis ir testų bankus, valdyti testuojamųjų grupes, testų vykdymo paskyras, ruošti ataskaitas, nustaytti darbų sekas."
+
+#, tao-public
+msgid "Delete"
+msgstr "Ištrinti"
+
+msgid "Delete this list"
+msgstr "Ištrinti sąrašą"
+
+msgid "Edit this list"
+msgstr "Redaguoti sąrašą"
+
+#, tao-public
+msgid "Edit Tree"
+msgstr "Redaguoti Medį"
+
+msgid "element"
+msgstr "elementas"
+
+msgid "Element deleted"
+msgstr "Elementas ištrintas"
+
+msgid "Element not deleted"
+msgstr "Elementas neištrintas"
+
+#, tao-public
+msgid "Export"
+msgstr "Eksportuoti"
+
+#, tao-public
+msgid "Import"
+msgstr "Importuoti"
+
+msgid "List"
+msgstr "Sąrašas"
+
+msgid "List deleted"
+msgstr "Sąrašas ištrintas"
+
+msgid "List not deleted"
+msgstr "Sąrašas neištrintas"
+
+msgid "List not saved"
+msgstr "Sąrašas neišsaugotas"
+
+msgid "List saved"
+msgstr "Sąrašas išsaugotas"
+
+#, tao-public
+msgid "Lists"
+msgstr "Sąrašai"
+
+msgid "Please confirm you want to delete this list element."
+msgstr "Patvirtinkite, kad tikrai norite ištrinti šį elementą."
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr "Prašome patvirtinti sąrašo ištrinymą. Veiksmas negali būti atstatytas."
+
+#, tao-public
+msgid "Properties"
+msgstr "Savybės"
+
+#, tao-public
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "TAO Back Office"
+msgstr "TAO valdymas"
+
+msgid "Test Developers and Administrators"
+msgstr "Testų Kūrėjai ir Administratoriai"
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr "Medžiai"
+
+msgid "View tree"
+msgstr "Peržiūrėti medį"
+
+#, tao-public
+msgid "View Tree"
+msgstr "Peržiūrėti Medį"
+

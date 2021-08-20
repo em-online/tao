@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:07:39\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: vi-VN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: vi-VN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s has been committed"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+#, tao-public
+msgid "History"
+msgstr "Lịch sử"
+
+msgid "History of %s"
+msgstr ""
+
+msgid "Id"
+msgstr "Id"
+
+#, tao-public
+msgid "Items"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr "Quản lý Item"
+
+#, tao-public
+msgid "Manage Media"
+msgstr "Quản lý Media"
+
+#, tao-public
+msgid "Manage tests"
+msgstr "Quản lý kiểm tra"
+
+#, tao-public
+msgid "Media"
+msgstr "Media"
+
+msgid "Message"
+msgstr "Thông điệp"
+
+msgid "Please give a message to your commit"
+msgstr "Hãy đưa ra một thông điệp cam kết của bạn"
+
+msgid "Resource restored"
+msgstr "Khôi phục tài nguyên"
+
+msgid "Restore"
+msgstr "Khôi phục"
+
+msgid "Restored version %s"
+msgstr ""
+
+msgid "Something went wrong..."
+msgstr "Đã xảy ra sự cố ..."
+
+#, tao-public
+msgid "Tests"
+msgstr "Bài kiểm tra"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Unable to restore the selected version"
+msgstr "Không thể khôi phục phiên bản đã chọn"
+
+msgid "User"
+msgstr "Người dùng"
+

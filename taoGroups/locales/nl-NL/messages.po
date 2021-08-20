@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:04:42\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: nl-NL\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: nl-NL\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add to group"
+msgstr "Aan groep toevoegen"
+
+#, tao-public
+msgid "Copy To"
+msgstr ""
+
+#, tao-public
+msgid "Delete"
+msgstr "Verwijderen"
+
+#, tao-public
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+msgid "Edit group"
+msgstr "Groep bewerken"
+
+#, tao-public
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "Group saved"
+msgstr "Groep opgeslagen"
+
+#, tao-public
+msgid "Group test takers according to global features and classifications."
+msgstr "Groepeer kandidaten conform globale kenmerken en classificaties."
+
+msgid "Group uri is not valid"
+msgstr ""
+
+#, tao-public
+msgid "Groups"
+msgstr "Groepen"
+
+#, tao-public
+msgid "Groups library"
+msgstr "Groepen bank"
+
+#, tao-public
+msgid "Import"
+msgstr "Importeren"
+
+msgid "Last updated on %2s"
+msgstr ""
+
+#, tao-public
+msgid "Manage groups"
+msgstr "Groepen beheren"
+
+#, tao-public
+msgid "Manage Schema"
+msgstr ""
+
+#, tao-public
+msgid "Move"
+msgstr "Verplaatsen"
+
+#, tao-public
+msgid "Move To"
+msgstr ""
+
+#, tao-public
+msgid "New class"
+msgstr "Nieuwe Klasse"
+
+#, tao-public
+msgid "New Group"
+msgstr "Nieuwe groep"
+
+#, tao-public
+msgid "Properties"
+msgstr "Eigenschappen"
+
+msgid "Select group test takers"
+msgstr "Selecteer een groep kandidaten"
+
+msgid "The Groups module allows to group Test takers according to global features and classifications."
+msgstr "The groep module geeft u de mogelijkheid om kandidaten te groeperen conform globale kenmerken en classificaties"
+
+msgid "Unable to create new group"
+msgstr ""
+
+msgid "Unable to delete group"
+msgstr ""
+

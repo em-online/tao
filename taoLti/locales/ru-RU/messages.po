@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:44\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, tao-public
+msgid "Add Consumer"
+msgstr "Добавить Потребителя"
+
+msgid "Back"
+msgstr "Назад"
+
+#, tao-public
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error (%s): "
+msgstr ""
+
+msgid "Error(%s): [key %s] %s \"%s"
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Error: [key %s] \"%s"
+msgstr ""
+
+#, tao-public
+msgid "Export"
+msgstr "Экспортировать"
+
+#, tao-public
+msgid "Import"
+msgstr "Импортировать"
+
+#, tao-public
+msgid "Index"
+msgstr "Индекс"
+
+msgid "Learning Tools Interoperability"
+msgstr "Взаимодействие инструментов обучения"
+
+msgid "link"
+msgstr "ссылка"
+
+#, tao-public
+msgid "LTI Consumers"
+msgstr "Потребители LTI"
+
+msgid "Open in a new window"
+msgstr "Открыть новое окно"
+
+#, tao-public
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Return to %s."
+msgstr ""
+
+msgid "Server Error"
+msgstr "Ошибка сервера"
+
+#, tao-public
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "The LTI connection could not be established"
+msgstr "Не удалось установить подключение LTI"
+
+msgid "The LTI Provider library."
+msgstr ""
+
+msgid "The LTI tool could not be opened in the current window. Please click on the button to open it in a new window."
+msgstr "Не удалось открыть инструмент LTI в текущем окне. Пожалуйста, нажмите на кнопку, чтобы открыть ее в новом окне."
+
+msgid "Third party cookies are not supported by your browser"
+msgstr "Файлы cookies третьей стороны не поддерживаются вашим браузером"
+
+msgid "Unable to restore Session"
+msgstr "Не удается восстановить сеанс"
+
+msgid "user"
+msgstr "пользователь"
+
+msgid "You are not authorized to use this system"
+msgstr "Вы не авторизованы для использования этой системы"
+

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:07:40\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: vi-VN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: vi-VN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "%s and %s roles"
+msgstr ""
+
+msgid "%s roles"
+msgstr ""
+
+msgid "Action"
+msgstr "Hoạt động"
+
+msgid "CSV Options"
+msgstr "Tùy chọn CSV"
+
+msgid "Event"
+msgstr "Sự kiện"
+
+#, tao-public
+msgid "Event Log"
+msgstr "Nhật ký sự kiện"
+
+msgid "Event Name"
+msgstr "Tên sự kiện"
+
+msgid "Export"
+msgstr "Xuất ra"
+
+msgid "Export log entries"
+msgstr "Xuất nhật ký"
+
+msgid "Export Log Entries"
+msgstr "Xuất nhật ký"
+
+msgid "Field delimiter"
+msgstr ""
+
+msgid "Field encloser"
+msgstr ""
+
+msgid "First row column names"
+msgstr ""
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Log watcher"
+msgstr ""
+
+msgid "Multiple values delimiter"
+msgstr ""
+
+msgid "Occurred"
+msgstr ""
+
+msgid "Properties"
+msgstr "Thuộc tính"
+
+msgid "User activity log successfully registered."
+msgstr "Nhật ký hoạt động của người dùng đã đăng ký thành công."
+
+msgid "User ID"
+msgstr "ID người dùng"
+
+msgid "User Roles"
+msgstr "Vai trò người dùng"
+

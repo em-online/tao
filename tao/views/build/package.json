@@ -1,0 +1,41 @@
+{
+  "name": "tao-build",
+  "version": "1.0.0",
+  "description": "Client side build tool chain for TAO",
+  "scripts": {
+    "build": "grunt build --no-color",
+    "bundle": "grunt bundleall --no-color",
+    "sass": "grunt sassall --no-color",
+    "test": "grunt testall --no-color --force",
+    "lint": "grunt eslint:extensionreport --no-color --force",
+    "lintfile": "grunt eslint:file --no-color --force"
+  },
+  "engines": {
+    "node": ">=8.12.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@oat-sa/grunt-tao-bundle": "^0.1.0",
+    "almond": "^0.3.3",
+    "grunt": "^1.0.0",
+    "grunt-aws-s3": "^0.14.0",
+    "grunt-concurrent": "^2.1.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compress": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-qunit": "^3.0.1",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^21.0.0",
+    "grunt-notify": "^0.4.3",
+    "grunt-qunit-junit": "^0.3.0",
+    "grunt-replace": "^1.0.1",
+    "grunt-sass": "^3.0.0",
+    "load-grunt-tasks": "^3.4.0",
+    "lodash": "^4.13.1",
+    "node-sass": "^4.9.3",
+    "time-grunt": "^1.0.0"
+  }
+}

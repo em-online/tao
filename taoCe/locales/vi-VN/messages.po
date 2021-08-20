@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:07:38\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: vi-VN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: vi-VN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Thêm người kiểm tra vào các nhóm để phân công các bài kiểm tra, và đánh giá hiệu quả của nhóm. Nhóm người kiểm tra cho phép bạn chỉ định các nhóm có đặc điểm riêng. Bạn xác định các đặc tính này bằng cách thêm mô tả nhóm của riêng bạn."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Lưu ý rằng mọi thay đổi tiếp theo đối với nội dung kiểm tra sẽ không được tính cho đến khi bạn xuất bản bài kiểm tra tiếp và tạo một thông báo mới."
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Xây dựng bảng tùy chỉnh chỉ với dữ liệu kết quả cụ thể mà bạn quan tâm và xuất nó dưới dạng tệp CSV."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Xây dựng và quản lý bài kiểm tra sử dụng các mục mà bạn đã tạo hoặc nhập trước đây."
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Xây dựng bài test của bạn bằng cách kéo và thả các mục đã chọn vào ngăn thử nghiệm."
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Chọn từ 17 loại tương tác khác nhau, bao gồm:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Kiểm soát cách xuất bản và phân phát các bài kiểm tra."
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "Ngược lại, bạn cũng có thể xuất các items từ TAO và sử dụng chúng lại trong các công cụ QTI khác."
+
+msgid "Create and define test-taker records"
+msgstr "Tạo và xác định hồ sơ người kiểm tra"
+
+msgid "Create Items"
+msgstr "Tạo Items"
+
+msgid "Create QTI Tests"
+msgstr "Tạo QTI thử nghiệm"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Tạo, xem trước và tổ chức các mục riêng lẻ trước khi đưa chúng vào thử nghiệm của bạn."
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "Tài sản mặc định của người kiểm tra là tên của họ và ngôn ngữ của giao diện kiểm tra. Bạn có thể tùy chỉnh các bản ghi này bằng cách thêm bất kỳ dữ liệu nào bạn cần, chẳng hạn như ngày sinh, giới tính, v.v."
+
+msgid "Define a Delivery"
+msgstr "Định nghĩa một Delivery"
+
+msgid "Define the Test Parameters"
+msgstr "Xác định các tham số kiểm tra"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Xác định thứ tự các mục của bạn. Các mục có thể được hiển thị ngẫu nhiên hoặc theo thứ tự cụ thể."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Thật dễ dàng để tạo ra một bài đánh giá với TAO!"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "Không mở cửa sổ này lại khi TAO mở."
+
+msgid "Export Test Results"
+msgstr "Xuất ra kết quả bài kiểm tra"
+
+msgid "For example:"
+msgstr "Cho ví dụ:"
+
+msgid "Get started with TAO"
+msgstr "Bắt đầu với TAO"
+
+msgid "Go to "
+msgstr "Đi đến"
+
+msgid "Groups"
+msgstr "Các nhóm"
+
+#, tao-public
+msgid "Help"
+msgstr "Giúp đỡ"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Gợi ý: Các bài kiểm tra \"Simple\" mà không có bất kỳ hệ thống phân cấp nào cũng có sẵn. Lưu ý rằng Open Web Items (OWI) chỉ có thể được cung cấp trong chế độ kiểm tra \"Simple\"."
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Gợi ý: Bạn có thể truy cập vào tổng quan này bất cứ lúc nào thông qua nút Trợ giúp."
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Nếu nhu cầu của bạn vượt ra những tiêu chuẩn QTI cho phép, bạn có thể phát triển các loại mục tối ưu, tốt hơn bằng cách sử dụng định dạng \"TAO Open Web Item\"."
+
+msgid "Import / Export Tests"
+msgstr "Nhập/Xuất các bài kiểm tra"
+
+msgid "Import and Export Items"
+msgstr "Nhập và xuất các mục (Item)"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "Nhập bất kỳ mục nào phù hợp với tiêu chuẩn QTI 2.1 (Question and Test Interoperability)."
+
+msgid "Import test-takers"
+msgstr "Nhập vào người kiểm tra"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "Ngoài việc tạo người kiểm tra cá nhân bằng cách nhập dữ liệu tương ứng theo cách thủ công của họ, bạn có thể tạo ra hàng loạt hồ sơ người kiểm tra bằng cách nhập chúng từ tệp tin CSV."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "Trong TAO, các bài kiểm tra được gán cho các nhóm."
+
+msgid "Item(s)"
+msgstr "Item(s)"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "Manage Reports"
+msgstr "Quản lý báo cáo"
+
+msgid "Multiple choice"
+msgstr "Nhiều lựa chọn"
+
+msgid "Order of items – sequential or random"
+msgstr "Thứ tự các mục - tuần tự hoặc ngẫu nhiên"
+
+msgid "Overview"
+msgstr "Tổng quan"
+
+msgid "Preview Items"
+msgstr "Xem trước"
+
+msgid "Publish"
+msgstr "Xuất bản"
+
+msgid "QTI Test Structure"
+msgstr "Cấu trúc bài kiểm tra QTI"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Đăng ký người kiểm tra, quản lý dữ liệu cá nhân của họ, và gán họ vào các nhóm."
+
+msgid "Results"
+msgstr "Các kết quả"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Xem các mục của bạn sẽ xuất hiện như thế nào với người kiểm tra trước khi chạy thật. Xem trước hiển thi cho cả máy tính để bàn hoặc thiết bị di động."
+
+msgid "Select an icon on the left to find out more."
+msgstr "Chọn biểu tượng ở bên trái để tìm hiểu thêm."
+
+msgid "Select the delivery dates."
+msgstr "Chọn ngày gửi đi."
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Chọn (các) nhóm sẽ làm bài kiểm tra. Bạn có thể loại trừ một cá nhân không làm bài kiểm tra ngay cả khi họ là thành viên của nhóm."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Chọn bài kiểm tra mà bạn muốn gửi cho (các) nhóm của người kiểm tra. Xuất bản nó trực tuyến."
+
+msgid "selection"
+msgstr "lựa chọn"
+
+msgid "Single choice"
+msgstr "Lựu chọn duy nhất"
+
+msgid "Slider"
+msgstr "Thanh trượt"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Chỉ định bao nhiêu lần người kiểm tra được phép lặp lại một bài kiểm tra."
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Lưu trữ, quản lý và phân tích kết quả kiểm tra một cách dễ dàng."
+
+msgid "Test"
+msgstr "Kiểm tra"
+
+msgid "Test part(s)"
+msgstr "Test part(s)"
+
+msgid "Test section(s)"
+msgstr "Lựa chọn bài kiểm tra"
+
+msgid "Test-takers"
+msgstr "Người kiểm tra"
+
+msgid "Tests"
+msgstr "Kiểm tra"
+
+msgid "Text entry"
+msgstr "Nhập văn bản"
+
+msgid "Time limit"
+msgstr "Thời gian giới hạn"
+
+msgid "To create a QTI test:"
+msgstr "Để tạo một QTI kiểm tra:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Sử dụng các nhóm để quản lý người kiểm tra"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Xem hiệu suất của bất kỳ người kiểm tra cá nhân nào - cho dù đó là trên một bài kiểm tra hoặc trong một loạt các bài kiểm tra."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "Bạn cũng có thể thêm nội dung đa phương tiện vào các mục của mình, chẳng hạn như ảnh, công thức toán học và video."
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "Bạn có thể tạo các bài kiểm tra phù hợp với tiêu chuẩn QTI 2.1. Một bài kiểm tra QTI được cấu trúc như sau:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "Bạn có thể nhập thử nghiệm được tạo bằng bất kỳ công cụ bên ngoài nào phù hợp với QTI. Các mục sẽ được tự động thêm vào Thư viện Tìm. Ngược lại, các kiểm tra QTI của bạn có thể được xuất ra khỏi TAO để sử dụng với bất kỳ công cụ phân phối tương thích với QTI nào."
+
+msgid "You can specify test settings such as:"
+msgstr "Bạn có thể chỉ định các thiết lập kiểm tra như:"
+

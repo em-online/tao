@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:07:40\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: vi-VN\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: vi-VN\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Create a list"
+msgstr "Tạo một danh sách"
+
+msgid "Create items, manage item and test banks, organize cohorts and deliveries, prepare reports, set up workflows."
+msgstr "Tạo các mục, quản lý mục và ngân hàng thử nghiệm, tổ chức các nhóm và phân phối, lập báo cáo, thiết lập quy trình làm việc."
+
+#, tao-public
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Delete this list"
+msgstr "Xóa danh sách này"
+
+msgid "Edit this list"
+msgstr "Sửa danh sách này"
+
+#, tao-public
+msgid "Edit Tree"
+msgstr "Sửa cây"
+
+msgid "element"
+msgstr "thành phần"
+
+msgid "Element deleted"
+msgstr "Đã xóa phần tử"
+
+msgid "Element not deleted"
+msgstr "Phần tử không bị xóa"
+
+#, tao-public
+msgid "Export"
+msgstr "Xuất ra"
+
+#, tao-public
+msgid "Import"
+msgstr "Nhập vào"
+
+msgid "List"
+msgstr "Danh sách"
+
+msgid "List deleted"
+msgstr "Danh sách xóa"
+
+msgid "List not deleted"
+msgstr "Danh sách không bị xóa"
+
+msgid "List not saved"
+msgstr "Danh sách không được lưu"
+
+msgid "List saved"
+msgstr "Danh sách đã lưu"
+
+#, tao-public
+msgid "Lists"
+msgstr "Danh sách"
+
+msgid "Please confirm you want to delete this list element."
+msgstr "Vui lòng xác nhận bạn muốn xóa phần tử danh sách này."
+
+msgid "Please confirm you want to delete this list. This operation cannot be undone."
+msgstr "Vui lòng xác nhận bạn muốn xóa danh sách này. Thao tác này không thể hoàn tác."
+
+#, tao-public
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#, tao-public
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "TAO Back Office"
+msgstr "Quay lại Office TAO"
+
+msgid "Test Developers and Administrators"
+msgstr "Nhà phát triển và quản trị thử nghiệm"
+
+msgid "The requested resource does not exist or has been deleted"
+msgstr ""
+
+#, tao-public
+msgid "Trees"
+msgstr "Cây"
+
+msgid "View tree"
+msgstr "Xem cây"
+
+#, tao-public
+msgid "View Tree"
+msgstr "Xem cây"
+

@@ -1,0 +1,49 @@
+@import "inc/bootstrap";
+
+.qti-gapMatchInteraction {
+    .gapmatch-content {
+        audio, canvas, img, video {
+            vertical-align: baseline;
+        }
+        &:hover {
+            @extend %selectableHover;
+        }
+        border: solid 1px transparent;
+        background: $uiClickableDefaultBg;
+        color: $textColor;
+        @include border-radius();
+        position: relative;
+        top: 0px;
+        min-width: 45px;
+        min-height: 20px;
+        display: inline-block;
+        &.empty {
+            min-height: 20px;
+        }
+        .remove {
+            float: right;
+        }
+        &.filled {
+            top: 0 !important;
+        }
+        &.dragged, &.dragged:hover {
+            @extend %dragged;
+        }
+        &.droppable, &.droppable:hover {
+            @extend %droppable;
+        }
+        &.dropzone {
+            @extend %dropzone;
+        }
+
+        .qti-block {
+            display: inline-block;
+        }
+    }
+    .choice-area {
+        .deactivated {
+            cursor: default;
+            opacity: 0.2;
+        }
+    }
+}

@@ -1,0 +1,117 @@
+@import "inc/bootstrap";
+
+$listBorderColor: $uiGeneralContentBorder;
+div.task-listing {
+    position: relative;
+    cursor: default;
+    padding-top: 0px;
+    div.box {
+        position: relative;
+        min-height: 76px;
+        min-width: 360px;
+        background: $canvas;
+        @include box-shadow(0, 3px, 6px, 0px, black(0.6));
+        @include simple-border($listBorderColor);
+        .description {
+            padding: 2px 20px;
+            background: blacken($canvas, 0.1);
+            color: $textColor;
+            font-weight: bold;
+            border-bottom: solid 1px $listBorderColor;
+            min-height: 8px;
+        }
+        .arrow {
+            @include vendor-prefix(transform, rotate(45deg));
+            border: 1px $listBorderColor solid;
+            border-right: none;
+            border-bottom: none;
+            width: 16px;
+            height: 16px;
+            background: blacken($canvas, 0.1);
+            color: $textColor;
+            position: absolute;
+            right: 14px;
+            top: -9px;
+        }
+        ul.task-list {
+            position: relative;
+            top: 0;
+            left: 0;
+            right: 0;
+            opacity: 1;
+            padding: 0 !important;
+            border: none;
+            max-height: 460px;
+            overflow: auto;
+            background: blacken($canvas, 0.2);;
+            position: relative;
+            li {
+                position: relative;
+                width: 100%;
+                max-height: 100px;
+                color: $textColor;
+                background: blacken($canvas, 0.2);
+                &:not(:last-child){
+                    border-bottom: solid 1px blacken($canvas, 0.1);
+                }
+                &.inserting {
+                    max-height: 0;
+                    @include transition('max-height', 0.5s);
+                    .task-element {
+                        height: 0px;
+                    }
+                }
+                &.inserted {
+                    min-height: 70px;
+                }
+
+                //enable smooth transition when added
+                .task-element {
+                    transform: scaleY(1);
+                    @include transition('scaleY', 0.6s);
+                    &.new-element {
+                        transform-origin: 20% 0;
+                        transform: scaleY(0);
+                    }
+                }
+            }
+        }
+        .clear-box{
+            text-align: center;
+            border-top: solid 1px $listBorderColor;
+            background: blacken($canvas, 0.03);
+            padding: 2px 0;
+            .clear-all{
+                text-decoration: none;
+                color: $uiClickableHoverBg;
+                &:hover{
+                    text-decoration: underline;
+                    color: $info;
+                }
+
+            }
+        }
+        .empty-placeholder {
+            width: 100%;
+            position: absolute;
+            top: 25px;
+            padding: 12px 20px;
+            font-style: italic;
+            color: $textColor;
+        }
+        .view-detail {
+            display: none;
+        }
+    }
+    &.detail-view {
+        .box {
+            .task-list, .clear-box {
+                display: none;
+            }
+            .view-detail {
+                display: block;
+                position: relative;
+            }
+        }
+    }
+}

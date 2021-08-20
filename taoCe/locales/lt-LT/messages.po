@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:14:01\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: lt-LT\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: lt-LT\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Pridėkite testo laikytojus prie grupių, kad priskirtumėte testus ir apskaičiuoti grupės našumą. Testo laikytojų grupavimas suteikia galimybę jums papildyti skirtingas charakteristikas. Jūs nustatote šias charakteristikas pridėdami savo grupių deskriptorius."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Atkreipkite dėmesį, jog betkokia testo turinio modifikacija, nebus pasiekiama vartotojui, kol nebus paskelbtas ir laikomas testas iš naujai paskelbtos pateikties."
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Sukurkite norimą lentelę tik su konkrečiais rezultatų duomenimis, kuriais jūs suinteresuoti ir eksportuokite kaip CSV failą."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Konstruoti ir valdyti testus, naudojant anksčiau sukurtus arba įkeltas testų dalis."
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Konstruokite testą, tempdami ir įkeldami testo dalis į testo langą."
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Pasirinkite iš 17 skirtingų užduočių rūšių, įskaitant:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Kontroliuokite kaip paskelbti ir pateikti testus."
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "Taip pat jūs galite eksportuoti testo dalis iš TAO ir naudoti juos kitose testavimo sistemose, suderintose su QTI standartais."
+
+msgid "Create and define test-taker records"
+msgstr "Sukurti ir nustatyti testo laikytojo įrašus"
+
+msgid "Create Items"
+msgstr "Kurti testų dalis"
+
+msgid "Create QTI Tests"
+msgstr "Sukurti QTI Testus"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Kurti ir koreguoti sukurtas testų dalis prieš keliant jas į testą."
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "Numatytos testo laikytojų savybės yra jų vardai ir testo laikymo sąsajos kalba. Jūs galite redaguoti šiuos įrašus pridėdami duomenis, kaip gimimo data, lytis ir t.t."
+
+msgid "Define a Delivery"
+msgstr "Nustatyti Pateiktį"
+
+msgid "Define the Test Parameters"
+msgstr "Nustatyti Testo Savybes"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Nustatykite klausimų eilės tvarką. Klausimai gali būti pateikiami atsitiktine arba nustatyta tvarka."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Atraskite, kaip lengva atlikti vertinimą su TAO!"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "Nerodyti šio lango dar kartą, kai TAO atsidarto."
+
+msgid "Export Test Results"
+msgstr "Eksportuoti Testo Rezultatus"
+
+msgid "For example:"
+msgstr "Pavyzdžiui:"
+
+msgid "Get started with TAO"
+msgstr "Pradėkime su TAO"
+
+msgid "Go to "
+msgstr "Eiti į"
+
+msgid "Groups"
+msgstr "Grupės"
+
+#, tao-public
+msgid "Help"
+msgstr "Pagalba"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Užuomina – Galima kurti paprastus testus be jokių hierarchinių išsišakojimų. Atminkite, kad Atvirus tinklo klausimus (angl. Open Web Items) galima kurti tik pasirinkus konstruoti paprastą testą "
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Patarimas: Jūs galite bet kada pasiekti šią apžvalgą paspaudus Pagalbos mygtuką."
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Jeigu jūs norite kurti kitokius klausimus, nei apibrėžia QTI standartas, naudokite TAO Atvirų tinklo klausimų formatą (Open Web Item).  "
+
+msgid "Import / Export Tests"
+msgstr "Importuoti / Eksportuoti Testus"
+
+msgid "Import and Export Items"
+msgstr "Importuoti ir eksportuoti klausimus"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "Importuoti klausimus, kurie atitinka QTI (Question and Test Interoperability) 2.1 standarto reikalavimus."
+
+msgid "Import test-takers"
+msgstr "Importuoti testo laikytojus"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "Papildomai kuriant testo laikytojus individualiai rankiniu būdu įvesdami jų duomenis, jūs taip pat galite masiniu būdi sukurti testo laikytojo įrašus importuojant juos iš CSV failo."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "TAO platformoje, testai yra priskiriami grupėms."
+
+msgid "Item(s)"
+msgstr "Klausimas (ai)"
+
+msgid "Items"
+msgstr "Klausimai"
+
+msgid "Manage Reports"
+msgstr "Tvarkyti Ataskaitas"
+
+msgid "Multiple choice"
+msgstr "Daugkartinis variantai"
+
+msgid "Order of items – sequential or random"
+msgstr "Klausimų tvarka – nuosekli ar atsistinktinė"
+
+msgid "Overview"
+msgstr "Apžvalga"
+
+msgid "Preview Items"
+msgstr "Peržiūrėti klausimus"
+
+msgid "Publish"
+msgstr "Paskelbti"
+
+msgid "QTI Test Structure"
+msgstr "QTI Testo Struktūra"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Registruokite savo testo laikytojus, tvarkykite jų asmeninius duomenis, priskirkite juos grupėms."
+
+msgid "Results"
+msgstr "Rezultatai"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Pasižiūrėkite, kaip klausimas bus vaizduojamas testuojamajam laikant testą. Galite pasižiūrėti, koks bus vaizdas kompiuteryje arba mobilaus įrenginio ekrane. "
+
+msgid "Select an icon on the left to find out more."
+msgstr "Pasirink ikonelę kairėje. kad sužinotum daugiau."
+
+msgid "Select the delivery dates."
+msgstr "Pasirinkti pateikties datas."
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Pasirinkite grupę(-es), kurios laikys testą. Jūs galite išskirti individualius testo laikytojus, netgi kai jie yra grupėje."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Pasirinkite testą, kurį norite pateikti jūsų testo laikytojų grupei(-ėms). Paskelbkite, kad būtų prieinami laikyti."
+
+msgid "selection"
+msgstr "pasirinkimas"
+
+msgid "Single choice"
+msgstr "Vienas variantas"
+
+msgid "Slider"
+msgstr "Slankiklis"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Nurodykite, kiek kartų testo laikytojui galima kartoti testą."
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Lengvai laikyk, tvarkyk ir analizuok testų rezultatus."
+
+msgid "Test"
+msgstr "Testas"
+
+msgid "Test part(s)"
+msgstr "Testo dalis(–ys)"
+
+msgid "Test section(s)"
+msgstr "Testo skyrius(–iai)"
+
+msgid "Test-takers"
+msgstr "Testo laikytojai"
+
+msgid "Tests"
+msgstr "Testai"
+
+msgid "Text entry"
+msgstr "Teksto įvestis"
+
+msgid "Time limit"
+msgstr "Laiko limitas"
+
+msgid "To create a QTI test:"
+msgstr "QTI testo kūrimui:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Naudoti Grupes Testo Laikytojų Tvarkymui"
+
+msgid "Videos"
+msgstr "Vaizdo įrašai"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Peržiūrėkite kiekvieno individualaus testo laikytojo testo našumą, kai laikomas vienas testas arba visą eilę testų."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "Jūs taip pat galite pridėti medijos turinį jūsų klausimams, kaip nuotraukos, matematinės formulės ir vaizdo įrašai."
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "Jūs galite kurti testus atitinkamus QTI 2.1 standartui. QTI testo struktūra sudaryta iš:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr ""
+
+msgid "You can specify test settings such as:"
+msgstr "Jūs galite nurodyti testo nustatymus, tokius kaip:"
+

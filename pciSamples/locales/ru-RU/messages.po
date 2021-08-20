@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:12:44\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ru-RU\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ru-RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add page"
+msgstr "Добавить страницу"
+
+msgid "Allow multi pages"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Вниз"
+
+msgid "Button based"
+msgstr "Названия кнопок"
+
+msgid "Button labels"
+msgstr "Ярлыки кнопки"
+
+msgid "Button labels."
+msgstr "Ярлыки кнопки"
+
+msgid "Columns:"
+msgstr "Колонки:"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Display"
+msgstr ""
+
+msgid "If this box is checked the text reader will allow to display more than one page and to navigate between them."
+msgstr ""
+
+msgid "Left"
+msgstr "Влево"
+
+msgid "Navigation"
+msgstr "Навигация."
+
+msgid "Navigation."
+msgstr "Навигация."
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page height (px)"
+msgstr "Высота страницы (пкс)"
+
+msgid "Page height (px)."
+msgstr "Высота страницы (пкс)"
+
+msgid "Previous."
+msgstr "Предыдущий."
+
+msgid "Remove Tooltip"
+msgstr "Убрать окно подсказки"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Tab based"
+msgstr "Основанный на вкладках"
+
+msgid "Tabs + buttons"
+msgstr "Вкладки + кнопки"
+
+msgid "Tabs position"
+msgstr "Позиции табуляции"
+
+msgid "Tabs position."
+msgstr "Позиции табуляции."
+
+msgid "Tooltips"
+msgstr "Окно подсказки"
+
+msgid "Top"
+msgstr "Вверх"
+

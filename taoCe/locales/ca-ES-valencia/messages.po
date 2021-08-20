@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:10:54\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ca-ES-valencia\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ca-ES-valencia\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Afig participants als grups per a assignar proves, i mesura el rendiment del grup. Agrupar els participants us permet especificar poblacions amb característiques comunes. Podeu definir aquestes característiques afegint els vostres descriptors de grups."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Heu de tindre en compte que qualsevol modificació subsegüent al contingut de la prova no es tindrà en compte fins que torneu a publicar la prova i creeu un nou lliurament. "
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Construïu una taula personalitzada amb només els resultats específics que us interessen i exporteu-la en un fitxer CSV."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Construïu i gestioneu proves utilitzant elements que heu creat o importat prèviament"
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Construïu la vostra prova arrossegant i deixant anar els elements seleccionats a la subfinestra de prova"
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Trieu entre 17 tipus d'interacció diferents, incloent-hi:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Controleu la manera en què es publiquen i s'entreguen les proves"
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "De manera inversa, també podeu exportar elements des de TAO i tornar a utilitzar-los en altres eines conformes al QTI."
+
+msgid "Create and define test-taker records"
+msgstr "Crea i defineix registres de participants"
+
+msgid "Create Items"
+msgstr "Crea elements"
+
+msgid "Create QTI Tests"
+msgstr "Crea proves QTI"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Creeu, previsualitzeu i organitzeu elements individuals abans d'incloure'ls en les proves"
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "Les propietats per defecte dels participants són el nom i l'idioma de la interfície de la prova. Podeu personalitzar aquests registres afegint les dades que considereu necessàries, com ara data de naixement, gènere, etc."
+
+msgid "Define a Delivery"
+msgstr "Defineix un lliurament"
+
+msgid "Define the Test Parameters"
+msgstr "Defineix els paràmetres de la prova"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Determineu l'ordre dels elements. Els elements es poden mostrar aleatòriament o en un ordre específic."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Descobriu com és de fàcil crear una prova d'avaluació amb el TAO."
+
+msgid "Do not show this window again when TAO opens."
+msgstr "No tornes a mostrar aquesta finestra quan s'inicie el TAO "
+
+msgid "Export Test Results"
+msgstr "Exporta els resultats de la prova"
+
+msgid "For example:"
+msgstr "Per exemple:"
+
+msgid "Get started with TAO"
+msgstr "Primers passos amb el TAO"
+
+msgid "Go to "
+msgstr "Vés a"
+
+msgid "Groups"
+msgstr "Grups"
+
+#, tao-public
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Suggeriment: També hi ha disponibles proves \"simples” sense cap jerarquia. Tingueu en compte que els elements web oberts (OWI: Open Web Items) només es poden lliurar en el mode de prova simple."
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Suggeriment: Podeu accedir a aquesta finestra en qualsevol moment a través del botó «Ajuda»"
+
+msgid "Hotspot"
+msgstr "Punt d'accés"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Si les vostres necessitats van més enllà de l'estàndard QTI, podeu desenvolupar tipus d'elements potents i sofisticats utilitzant el format d'element web obert (OWI) de TAO."
+
+msgid "Import / Export Tests"
+msgstr "Importa i exporta proves"
+
+msgid "Import and Export Items"
+msgstr "Importa i exporta elements"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "Importeu elements conformes amb l'estàndard QTI (Question and Test Interoperability -interoperabilitat entre preguntes i proves) 2.1."
+
+msgid "Import test-takers"
+msgstr "Importa participants"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "A més de poder crear participants individualment introduint-ne les dades corresponents, també podeu crear-ne de forma massiva important-los des d'un fitxer CSV."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "En el TAO, les proves s'assignen a grups."
+
+msgid "Item(s)"
+msgstr "Element(s)"
+
+msgid "Items"
+msgstr "Elements"
+
+msgid "Manage Reports"
+msgstr "Gestiona els informes"
+
+msgid "Multiple choice"
+msgstr "Elecció múltiple"
+
+msgid "Order of items – sequential or random"
+msgstr "Ordre dels elements - seqüencial o aleatori"
+
+msgid "Overview"
+msgstr "Vista general"
+
+msgid "Preview Items"
+msgstr "Previsualitza els elements"
+
+msgid "Publish"
+msgstr "Publica"
+
+msgid "QTI Test Structure"
+msgstr "Estructura de la prova QTI"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Registreu els vostres participants, gestioneu-ne les dades personals, i assigneu-los als grups."
+
+msgid "Results"
+msgstr "Resultats"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Visualitzeu com veuran els participants els vostres elements abans d'executar la prova. La previsualització està disponible tant per a escriptori com per a dispositius mòbils."
+
+msgid "Select an icon on the left to find out more."
+msgstr "Seleccioneu una icona a l'esquerra per a saber-ne més"
+
+msgid "Select the delivery dates."
+msgstr "Seleccioneu les dates de lliurament"
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Seleccioneu els grups que realitzaran la prova. Podeu excloure participants individualment encara que formen part del grup."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Seleccioneu la prova que voleu lliurar al vostre grup o grups de participants. Publiqueu-la perquè estiga disponible en línia."
+
+msgid "selection"
+msgstr "selecció"
+
+msgid "Single choice"
+msgstr "Opció única"
+
+msgid "Slider"
+msgstr "Control lliscant"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Especifiqueu quantes vegades poden els participants repetir la prova"
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Emmagatzemeu, gestioneu i analitzeu fàcilment els resultats de la prova"
+
+msgid "Test"
+msgstr "Prova"
+
+msgid "Test part(s)"
+msgstr "Parts de la prova"
+
+msgid "Test section(s)"
+msgstr "Seccions de la prova"
+
+msgid "Test-takers"
+msgstr "Participants"
+
+msgid "Tests"
+msgstr "Proves"
+
+msgid "Text entry"
+msgstr "Entrada de text"
+
+msgid "Time limit"
+msgstr "Límit de temps"
+
+msgid "To create a QTI test:"
+msgstr "Per a crear proves QTI:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Utilitza els grups per a gestionar els participants"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Visualitzeu l'execució de cada participant individualment - ja siga en una prova única o al llarg d'una sèrie de proves."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "També podeu afegir als elements contingut multimèdia enriquit, com ara fotos, fórmules matemàtiques o vídeos"
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "Podeu crear proves conformes amb l'estàndard QTI 2.1. Una prova QTI s'estructura de la manera següent:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "Podeu importar proves creades amb una eina d'edició externa que siga conforme amb QTI. Els elements s'afegiran automàticament a la biblioteca d'elements. Inversament, les vostres proves QTI es poden exportar des de TAO per a utilitzar-les amb qualsevol motor de lliurament conforme amb QTI."
+
+msgid "You can specify test settings such as:"
+msgstr "Podeu especificar paràmetres de prova com ara:"
+

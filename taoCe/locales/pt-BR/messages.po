@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.3.0-sprint96\n"
+"PO-Revision-Date: 2019-04-25T01:15:19\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: pt-BR\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: pt-BR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Add test-takers to groups to assign tests, and measure group performance. Grouping test-takers enables you to specify populations with particular characteristics. You define these characteristics by adding your own group descriptors."
+msgstr "Adicione participantes de testes a grupos para atribuir testes e medir o desempenho do grupo. O agrupamento de teste permite que você especifique populações com características particulares. Você define essas características adicionando seus próprios descritores de grupo."
+
+msgid "Be aware that any subsequent modification to the test content will not be taken into account until you publish the test again and create a new delivery."
+msgstr "Esteja ciente de que qualquer modificação subsequente no conteúdo do teste não será levada em conta até que você publique o teste novamente e crie uma nova entrega."
+
+msgid "Build a custom table with only the specific results data you are interested in and export it as a CSV file."
+msgstr "Crie uma tabela personalizada com apenas os dados de resultados específicos de seu interesse e exporte-os como um arquivo CSV."
+
+msgid "Build and manage tests using items that you have previously created or imported."
+msgstr "Crie e gerencie testes usando itens que você criou ou importou anteriormente."
+
+msgid "Build your test by dragging and dropping the selected items into the test pane."
+msgstr "Construir seu teste arrastando e soltando os itens selecionados no painel de teste."
+
+msgid "Choose from 17 different interaction types, including:"
+msgstr "Escolha entre 17 tipos de interação diferentes, incluindo:"
+
+msgid "Control how to publish and deliver tests."
+msgstr "Controle como publicar e entregar testes."
+
+msgid "Conversely, you can also export items from TAO and re-use them in other QTI-compliant tools."
+msgstr "Por outro lado, você também pode exportar itens da TAO e reutilizá-los em outras ferramentas compatíveis com o padrão QTI."
+
+msgid "Create and define test-taker records"
+msgstr "Crie e defina registros de alunos."
+
+msgid "Create Items"
+msgstr "Criar itens"
+
+msgid "Create QTI Tests"
+msgstr "Criar testes QTI"
+
+msgid "Create, preview and organize individual items before including them in your tests."
+msgstr "Criar, visualizar e organizar itens individuais antes de incluí-los nos seus testes."
+
+msgid "Default properties of the test-takers are their name and the language of the test interface. You can customize these records by adding any data you need, such as date of birth, gender, etc."
+msgstr "As propriedades padrão dos participantes do teste são seu nome e o idioma da interface de teste. Você pode personalizar esses registros adicionando todos os dados necessários, como data de nascimento, sexo etc."
+
+msgid "Define a Delivery"
+msgstr "Definir uma entrega"
+
+msgid "Define the Test Parameters"
+msgstr "Denifir os parâmetros do teste"
+
+msgid "Determine the order of your items. Items can be displayed either randomly or in a specific order."
+msgstr "Determine a ordem dos seus itens. Os itens podem ser exibidos aleatoriamente ou em uma ordem específica."
+
+msgid "Discover how easy it is to create an assessment with TAO!"
+msgstr "Descubra como é fácil criar uma avaliação com a TAO!"
+
+msgid "Do not show this window again when TAO opens."
+msgstr "Não mostre esta janela novamente quando a TAO abrir."
+
+msgid "Export Test Results"
+msgstr "Exportar os resultados do teste"
+
+msgid "For example:"
+msgstr "Por exemplo:"
+
+msgid "Get started with TAO"
+msgstr "Comece com TAO"
+
+msgid "Go to "
+msgstr "Ir para"
+
+msgid "Groups"
+msgstr "Grupos"
+
+#, tao-public
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Hint: \"Simple” tests without any hierarchy are also available. Note that Open Web Items (OWI) can be delivered in simple test mode only."
+msgstr "Sugestão: Testes \"simples\" sem qualquer hierarquia também estão disponíveis.Observe que os Open Web Items (OWI) podem ser entregues apenas no modo de teste simples."
+
+msgid "Hint: You can access this overview at any time via the Help button."
+msgstr "Dica: Você pode acessar esta visão geral a qualquer momento através do botão Ajuda."
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "If your needs go beyond what the QTI standard allows, you can develop powerful and sophisticated item types using the TAO Open Web Item format."
+msgstr "Se as suas necessidades vão além do que o padrão QTI permite, você pode desenvolver tipos de itens poderosos e sofisticados usando o formato TAO Open Web Item."
+
+msgid "Import / Export Tests"
+msgstr "Importar / Exportar Testes"
+
+msgid "Import and Export Items"
+msgstr "Importar e Exportar Itens"
+
+msgid "Import any items that are compliant with the QTI (Question and Test Interoperability) 2.1 standard."
+msgstr "Importar quaisquer itens que estejam em conformidade com o padrão QTI (Question and Test Interoperability) 2.1."
+
+msgid "Import test-takers"
+msgstr "Importar alunos"
+
+msgid "In addition to creating test-takers individually by manually entering their corresponding data, you can mass-create test-taker records by importing them from a CSV file."
+msgstr "Além de criar candidatos individualmente, inserindo manualmente os dados correspondentes, você pode criar em massa os registros do candidato, importando-os de um arquivo CSV."
+
+msgid "In TAO, tests are assigned to groups."
+msgstr "Na TAO, os testes são atribuídos a grupos."
+
+msgid "Item(s)"
+msgstr "Item(ns)"
+
+msgid "Items"
+msgstr "Itens"
+
+msgid "Manage Reports"
+msgstr "Gerenciar relatórios"
+
+msgid "Multiple choice"
+msgstr "Múltipla escolha"
+
+msgid "Order of items – sequential or random"
+msgstr "Ordem dos itens - sequenciais ou aleatórios"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid "Preview Items"
+msgstr "Pré-visualização do item"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "QTI Test Structure"
+msgstr "Estrutura QTI de teste"
+
+msgid "Register your test-takers, manage their personal data, and assign them to groups."
+msgstr "Registras seus alunos, gerenciar seus dados pessoais e atribuí-los a grupos."
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "See how your items will appear to the test-taker before running the test. Previews are available for both desktop or mobile devices."
+msgstr "Veja como seus itens aparecerão para os alunos antes de executar o teste. As pré-visualizações estão disponíveis para computadores ou dispositivos móveis."
+
+msgid "Select an icon on the left to find out more."
+msgstr "Selecionar um ícone à esquerda para descobrir mais."
+
+msgid "Select the delivery dates."
+msgstr "Selecionar as datas das entregas."
+
+msgid "Select the group(s) that will take the test. You can exclude individual test-takers even if they are part of the group."
+msgstr "Selecione o(s) grupo(s) que fará(ão) o teste. Você pode excluir alunos individualmente, mesmo que eles façam parte do grupo."
+
+msgid "Select the test you want to deliver to your group(s) of test-takers. Publish it to make it available online."
+msgstr "Selecionar o teste que você quer entregar para o(s) seu(s) grupo(s) de alunos. Publique-o para disponibilizá-lo online."
+
+msgid "selection"
+msgstr "seleção"
+
+msgid "Single choice"
+msgstr "Escolha única"
+
+msgid "Slider"
+msgstr "Barra deslizante"
+
+msgid "Specify how many times test-takers are allowed to repeat a test."
+msgstr "Especifique quantas vezes os participantes do teste podem repetir um teste."
+
+msgid "Store, manage, and analyze test results with ease."
+msgstr "Armazene, gerencie e analise os resultados dos testes com facilidade."
+
+msgid "Test"
+msgstr "Teste"
+
+msgid "Test part(s)"
+msgstr "Parte(s) do teste"
+
+msgid "Test section(s)"
+msgstr "Seção(ões) do teste"
+
+msgid "Test-takers"
+msgstr "Alunos"
+
+msgid "Tests"
+msgstr "Testes"
+
+msgid "Text entry"
+msgstr "Entrada de texto"
+
+msgid "Time limit"
+msgstr "Limite de tempo"
+
+msgid "To create a QTI test:"
+msgstr "Para criar um teste QTI:"
+
+msgid "Use Groups to Manage Test-Takers"
+msgstr "Use grupos para gerenciar alunos"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View the performance of any individual test-taker – whether it’s on a single test or across a range of tests."
+msgstr "Veja o desempenho de qualquer aluno individualmente, seja em um único teste ou em vários testes."
+
+msgid "You can also add rich media content to your items, such as photos, math formulas and video."
+msgstr "Você também pode adicionar conteúdo de recursos avançados de mídia a seus itens, como fotos, fórmulas matemáticas e vídeos."
+
+msgid "You can create tests in compliance with the QTI 2.1 standard. A QTI test is structured as follows:"
+msgstr "Você pode criar testes em conformidade com o padrão QTI 2.1. Um teste QTI é estruturado da seguinte forma:"
+
+msgid "You can import tests created with any external tool that is QTI compliant. The items will be automatically added to the Items Library. Conversely, your QTI tests can be exported out of TAO for use with any QTI-compliant delivery engine."
+msgstr "Você pode importar testes criados com qualquer ferramenta externa que seja compatível com o QTI. Os itens serão automaticamente adicionados à Biblioteca de Itens. Por outro lado, seus testes QTI podem ser exportados da TAO para uso com qualquer mecanismo de entrega compatível com o QTI"
+
+msgid "You can specify test settings such as:"
+msgstr "Você pode especificar configurações de teste, como:"
+

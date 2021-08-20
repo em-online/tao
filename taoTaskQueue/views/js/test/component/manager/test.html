@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Component - Task Queue Manager</title>
+        <base href="../../../../../../tao/views/" />
+        <link rel="stylesheet" type="text/css" href="js/lib/qunit/qunit.css">
+        <link rel="stylesheet" type="text/css" href="css/tao-main-style.css">
+        <link rel="stylesheet" type="text/css" href="js/ui/resource/css/selector.css">
+        <script type="text/javascript" src="js/lib/require.js"></script>
+        <script type="text/javascript" src="js/lib/qunit/qunit.js"></script>
+        <script type="text/javascript" src="js/lib/qunit/qunit-parameterize.js"></script>
+        <script type="text/javascript" src="js/lib/blanket/blanket.min.js" data-cover-flag="branchTracking" data-cover-only="manager.js"></script>
+
+        <style>
+            #visual {
+                width: 1200px;
+                height: 900px;
+                border: solid 2px lightgrey;
+                margin: 10px auto;
+                overflow-y: auto;
+                position: relative;
+            }
+
+            #visual .task-manager-container {
+                position: absolute !important;
+                top: 0;
+                right: 173px;
+                background-color: #333;
+            }
+
+            #visual #controls{
+                padding: 20px;
+            }
+
+            #visual #controls ul li a{
+                padding: 0 20px
+            }
+            #visual #controls ul li .name{
+                display: inline-block;
+                min-width: 100px;
+            }
+        </style>
+
+        <script  type="text/javascript">
+
+             //don't start the test now
+            QUnit.config.autostart = false;
+
+            //load the config
+            require(['/tao/ClientConfig/config'], function(){
+
+                //load the test
+                require(['taoTaskQueue/test/component/manager/test'], function(){
+
+                    //Tests loaded, run tests
+                    QUnit.start();
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="qunit"></div>
+        <div id="qunit-fixture"></div>
+        <div id="visual">
+            <div id="controls">
+                <button type="button" class="btn-info add-task">Create Task</button>
+                <h3>Tasks in progress</h3>
+                <ul></ul>
+            </div>
+        </div>
+    </body>
+</html>
